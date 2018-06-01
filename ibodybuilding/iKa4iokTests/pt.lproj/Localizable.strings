@@ -1,0 +1,96 @@
+/* 
+  Localizable.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/13/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Exercises" = "Exercícios";
+"Workouts" = "Treinos";
+"Custom" = "Personalizado";
+"Done" = "Concluído";
+"Back" = "Voltar";
+"Title" = "Título";
+"Downloading video" = "Transferindo vídeo";
+"Please wait..." = "Por favor aguarde...";
+"Cancel" = "Cancelar";
+"Bodybuilding" = "Culturismo";
+"Fitness" = "Fitness";
+"Powerlifting" = "Levantamento de Pesos";
+"2 Days per week" = "2 dias por semana";
+"3 Days per week" = "3 dias por semana";
+"4 Days per week" = "4 dias por semana";
+"Day 1" = "Dia 1";
+"4 sets and 12/10/8/6 reps" = "4 séries e 12/10/8/6 repetições";
+"Day 2" = "Dia 2";
+"Day 3" = "Dia 3";
+"Day 4" = "Dia 4";
+"Day" = "Dia";
+"Days" = "Dias";
+"4 sets and 15 reps" = "4 séries e 15 repetições";
+"5 sets and 3/3/3/2/1 reps" = "5 séries e 3/3/3/2/1 repetições";
+"Edit" = "Editar";
+"My Workout" = "Meu Treino";
+"To create new workout press +" = "Para criar novo treino prima +";
+"Save" = "Guardar";
+"Workout Name:" = "Nome do Treino:";
+"Days Number:" = "Número de Dias:";
+"Delete" = "Apagar";
+"Workout Title:" = "Título do Treino:";
+"Options:" = "Opções:";
+"Camera/Gallery" = "Câmara/Galleria";
+"Exercise's Photos" = "Fotos do Exercício";
+"Name, Description, Repetitions" = "Nome, Descrição, Repetições";
+"Exercise Name:" = "Nome do Exercício:";
+"Description:" = "Descrição:";
+"Description" = "Descrição";
+"Repetitions:" = "Repetições:";
+"Error!" = "Erro!";
+"Error" = "Erro";
+"Please fill up the text field!" = "Por favor, preencha o campo de texto!";
+"Ok" = "Ok";
+"Do you really want to cancel the download process? All progress will be lost!" = "Deseja cancelar realmente o processo de transferência? Todo o progresso será eliminado!";
+"Download all videos" = "Transfira todos os vídeos";
+"Unzipping Files" = "Descompactar Ficheiros";
+"Files" = "Ficheiros";
+"Downloading Videos" = "Transferindo Vídeos";
+"All videos were saved successfully!" = "Todos os vídeos foram guardados com sucesso!";
+"Add" = "Adicionar";
+"No Camera Support!" = "Não existe Suporte de Camara!";
+"Camera feature is not supported by your device !" = "Opção de camara não é suportada pelo seu dispositivo!";
+"Please fill up the exercise name field!" = "Por favor preencha o campo nome do exercício!";
+"Please check your wi-fi or cellular internet connection!" = "Por favor verifique a sua conexão sem fios!";
+"Your video is downloading already! Wait until it's done!" = "O seu video já está a ser descarregado! Espere até estar concluído!";
+"Warning!" = "Advertência!";
+"For" = "Por";
+
+"History" =	"Histórico";
+"More" =	"Mais";
+"Start" =	"Iniciar";
+"Weight(kg)" =	"Peso(kg)";
+"Weight(lbs)" =	"Peso(lbs)";
+"Weight" = "Peso";
+"Repetitions" =	"Repetições";
+"Save" =	"Guardar";
+"Last values" =	"Últimos valores";
+"Cancel" =	"Cancelar";
+"Attention" =	"Atenção";
+"Would you like to leave without saving?" =	"Deseja sair sem guardar?";
+"Ok" =	"Ok";
+
+"No exercises have been done yet" =	"Nenhum exercício feito até agora";
+"Performance" =	"Performance";
+"Send Feedback" =	"Enviar Feedback";
+"Report a Bug" =	"Reportar Falha";
+"Tell a Friend" =	"Dizer a Amigo";
+"Gift this App" =	"Oferecer esta App";
+"Rate us" =	"Avalie-nos";
+"Set seconds" =	"Definir sgundos";
+"Stop" =	"Parar";
+"Check out iBodybuilding-Update" =	"Procurar por Atualizações iBodybuilding";
+"Check out this application on the App Store:" =	"Veja esta aplicação na App Store:";
+"Please note that you have not been added to any email lists." =	"Por favor, note que não foi adicionado/a a nenhuma lista de emails.";
+
+"Fill up all the blank repetitions boxes." = "Preencha todas as caixas de repetições em branco.";
+"You can't use values bigger than 500." = "Pode usar valores superiores a 500.";
+"You can't input data for future dates." = "Não pode introduzir dados em datas futuras!";

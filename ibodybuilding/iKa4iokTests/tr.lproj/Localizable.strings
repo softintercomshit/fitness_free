@@ -1,0 +1,118 @@
+/* 
+  Localizable.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/13/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+/*
+ Localizable.strings
+ iBodybuilding-Update
+ 
+ Created by Johnny Bravo on 6/13/13.
+ Copyright (c) 2013 com.softintercom. All rights reserved.
+ */
+"Exercises" = 	"Egzersizler";
+"Workouts" = 	"Antrenmanlar";
+"Custom" = 	"Kişiye Özel";
+"Done" =	"Bitti";
+"Back" = 	"Geri";
+"Title" = 	"Başlık";
+"Downloading video" = 	"Video indiriliyor";
+"Please wait..." = 	"Lütfen bekleyin...";
+"Cancel" = 	"İptal";
+"Bodybuilding" = 	"Bodybuilding";
+"Fitness" = 	"Fitness";
+"Powerlifting" = 	"Powerlifting";
+"2 Days per week" = 	"Haftada 2 gün";
+"3 Days per week" = 	"Haftada 3 gün";
+"4 Days per week" = 	"Haftada 4 gün";
+"Day 1" = 	"1. Gün";
+"4 sets and 12/10/8/6 reps"= 	"4 set ve 12/10/8/6 tekrar";
+"Day 2" =	"2. Gün";
+"Day 3" =	"3. Gün";
+"Day 4" = 	"4. Gün";
+"4 sets and 15 reps" = 	"4 set ve 15 tekrar";
+"5 sets and 3/3/3/2/1 reps" = 	"5 set ve 3/3/3/2/1 tekrar";
+"Edit" = 	"Düzenle";
+"My Workout" = 	"Antrenmanım";
+"To create new workout press +" = 	"Yeni bir antrenman oluşturmak için +’ya basın";
+"Save" = 	"Kaydet";
+"Workout Name:" = 	"Antrenman Adı:";
+"Days Number:" = 	"Gün Sayısı:";
+"Delete" = 	"Sil";
+"Workout Title:"= 	"Antrenman Başlığı:";
+"Options:" = 	"Seçenekler:";
+"Camera/Gallery" = 	"Kamera/Galeri";
+"Exercise's Photos" = 	"Egzersizin Fotoğrafları";
+"Name, Description, Repetitions" = 	"Adı, Tanımı, Tekrarlar";
+"Exercise Name:" = 	"Egzersiz Adı:";
+"Description:" =	"Tanım:";
+"Description" =	"Tanım";
+"Repetitions:" = 	"Tekrarlar:";
+"Auto" = 	"Otomatik";
+"On" =	"Açık";
+"Off" = 	"Kapalı";
+"Retake" = 	"Tekrar al";
+"Preview" = 	"Ön izle";
+"Use" = 	"Kullan";
+"Error!" = 	"Hata!";
+"Please fill up the text field" = 	"Lütfen metin alanını doldurun";
+"Ok" = 	"Tamam";
+"Do you really want to cancel the download process? All progress will be lost!" =	"İndirme işlemini iptal etmek istediğinizden emin misiniz? Tüm ilerleme kaybedilecektir!";
+"Download all videos" =	"Tüm videoları indir";
+"Unziping Files" = 	"Dosyalar Çıkartılıyor";
+"Files" = 	"Dosyalar";
+"Downloading Videos" = 	"Videolar İndiriliyor";
+"All videos were saved succesfully!" = 	"Tüm videolar başarıyla kaydedildi!";
+"Please check your wi=fi or cellular internet connection!"=	"Lütfen wifi ve mobil internet bağlantınızı kontrol ediniz!";
+"Your video is downloading already!" =	"Videonuz zaten indirilmektedir!";
+"Wait until it's done!" =	"Bitmesini bekleyin!";
+"Warning!" =	"Uyarı!";
+"For 3 Days" =	"3 Gün İçin";
+"Add" =	"Ekle";
+"Do you really want to exit?" =	"Gerçekten çıkmak mı istiyorsunuz?";
+"No Camera Support!" =	"Kamera Desteği Yok!";
+"Camera feature is not supported by your device !" =	"Kamera özelliği cihazınız tarafından desteklenmemektedir!";
+"Please fill up the exercise name field!" =	"Lütfen egzersiz adı alanını doldurun!";
+"Pay attention to repetitions and weights!" =	"Tekrar sayılarına ve ağırlıklara dikkat gösterin!";
+"4 sets and 15 repetitions" =	"4 set ve 15 tekrar";
+"Later" =	"Daha Sonra";
+"Get Pro" =	"Pro’ya Geç";
+"More User Friendly Interface" =	"Daha Kullanıcı Dostu Arayüzü";
+"Faster Working Algorithm" =	"Daha Hızlı Çalışan Algoritma";
+"User's Support With Higher Priority" =	"Daha Öncelikli Kullanıcı Desteği";
+"More Frequent Updates" =	"Daha Sık Güncellemeler";
+"Video Guide" =	"Video Kılavuzu";
+"No Ads" =	"Reklamsız";
+"ADS" =	"REKLAMLAR";
+"Loading" =	"Yükleniyor";
+
+"History" =	"Geçmiş";
+"More" =	"Daha";
+"Start" =	"Başlat";
+"Weight(kg)" =	"Ağırlık(kg)";
+"Weight(lbs)" =	"Ağırlık(lbs)";
+"Weight" = "Ağırlık";
+"Repetitions" =	"Tekrarlar";
+"Save" =	"Kaydet";
+"Last values" =	"Son değerler";
+"Cancel" =	"İptal";
+"Attention" =	"Dikkat";
+"Would you like to leave without saving?" =	"Kaydetmeden çıkmak istiyor musunuz?";
+"Ok" =	"Tamam";
+"No exercises have been done yet" =	"Henüz hiçbir egzersiz yapılmadı";
+"Performance" =	"Performans";
+"Send Feedback" =	"Geribildirim Gönder";
+"Report a Bug" =	"Hata Bildir";
+"Tell a Friend" =	"Arkadaşına Bahset";
+"Gift this App" =	"Hediye Et Bu";
+"Rate us" =	"Bizi Puanlayın";
+"Set seconds" =	"Saniyeyi Ayarla";
+"Stop" =	"Durdur";
+"Check out iBodybuilding-Update" =	"iBodybuildingGüncellemesi Kontrol Et";
+"Check out this application on the App Store:" =	"App Store’daki şu uygulamaya bak:";
+"Please note that you have not been added to any email lists." =	"Lütfen herhangi bir eposta listesine eklenmediğinizi dikkate alınız.";
+"Fill up all the blank repetitions boxes." = "Tüm boş tekrar kutularını doldurun.";
+"You can't use values bigger than 500." = "500'den büyük değerler kullanamazsınız.";
+"You can't input data for future dates." = "Gelecek tarihler için veri girişi yapamazsınız!";

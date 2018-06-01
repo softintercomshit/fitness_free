@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>description</key>
+	<string>Concentration Curls</string>
+	<key>images</key>
+	<array>
+		<string>1concentrationcurls</string>
+		<string>2concentrationcurls</string>
+		<string>3concentrationcurls</string>
+		<string>4concentrationcurls</string>
+	</array>
+</dict>
+</plist>

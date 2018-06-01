@@ -1,0 +1,187 @@
+/* 
+  Localizable.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/13/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Exercises" = 	"Exercices";
+
+"Workouts" = 	"Entraînements";
+
+"Custom" = 	"Personnalisé";
+
+"Done" =	"Fait";
+
+"Back" = 	"Retour";
+
+"Title" = 	"Titre";
+
+"Downloading video" = 	"Téléchargement vidéo";
+
+"Please wait..." = 	"Veuillez patienter...";
+
+"Cancel" = 	"Annuler";
+
+"Bodybuilding" = 	  "Bodybuilding";
+
+"Fitness" = 	"Fitness";
+
+"Powerlifting" = 	  "Powerlifting";
+
+"2 Days per week" = 	"2 jours par semaine";
+
+"3 Days per week" = 	"3 jours par semaine";
+
+"4 Days per week" = 	"4 jours par semaine";
+
+"Day 1" = 	"Jour 1";
+
+"4 sets and 12/10/8/6 reps"= 	"4 séries et 12/10/8/6 répétitions";
+
+"Day 2" =	"Jour 2";
+
+"Day 3" =	"Jour 3";
+
+"Day 4" = 	"Jour 4";
+
+"4 sets and 15 reps" = 	"4 séries et 15 répétitions";
+
+"5 sets and 3/3/3/2/1 reps" = 	"5 séries et 3/3/3/2/1 répétitions";
+
+"Edit" = 	  "Éditer";
+
+"My Workout" = 	  "Mon Entraînement";
+
+"To create new workout press +" = 	  "Pour créer nouvel entraînement appuyez sur +";
+
+"Save" = 	  "Sauvegarder";
+
+"Workout Name:" = 	  "Nom Entraînement:";
+
+"Days Number:" = 	  "Numéro Jours:";
+
+"Delete" = 	  "Effacer";
+
+"Workout Title:"= 	  "Titre Entraînement:";
+
+"Options:" = 	  "Options:";
+
+"Camera/Gallery" = 	  "Caméra/Galerie";
+
+"Exercise's Photos" = 	  "Photos de l’Exercice";
+
+"Name, Description, Repetitions" = 	  "Nom, Description, Répétitions";
+
+"Exercise Name:" = 	  "Nom Exercice:";
+
+"Description:" =	  "Description:";
+
+"Description" =	  "Description";
+
+"Repetitions:" = 	  "Répétitions:";
+
+"Auto" = 	  "Auto";
+
+"On" =	  "On";
+
+"Off" = 	  "Off";
+
+"Retake" = 	  "Reprendre";
+
+"Preview" = 	  "Aperçu";
+
+"Use" = 	  "Utiliser";
+
+"Error!" = 	  "Erreur!";
+
+"Please fill up the text field" = 	  "Veuillez remplir le champ de texte";
+
+"Ok" = 	  "Ok  ";
+
+"Do you really want to cancel the download process? All progress will be lost!" =	  "Voulez-vous vraiment annuler le processus de téléchargement? Toute la progression sera perdue!";
+
+"Download all videos" =	  "Télécharger toutes les vidéos";
+
+"Unziping Files" = 	  "Décompression Fichiers";
+
+"Files" = 	  "Fichiers";
+
+"Downloading Videos" = 	  "Téléchargement Vidéos";
+
+"All videos were saved succesfully!" = 	  "Toutes les vidéos ont étés sauvegardées avec succès!";
+
+
+"Please check your wi-fi or cellular internet connection!"=	  "Veuillez vérifier votre connexion wi-fi ou connexion internet cellulaire!";
+
+"Your video is downloading already!" =	  "Votre vidéo se télécharge déjà!";
+
+"Wait until it's done!" =	  "Attendez jusqu'à ce que ce soit fait!";
+
+"Warning!" =	  "Avertissement!";
+
+"For 3 Days" =	  "Pendant 3 Jours";
+
+"Add" =	"Ajouter";
+
+"Do you really want to exit?" =	"Voulez-vous vraiment quitter?";
+
+"No Camera Support!" =	"Pas de support de la caméra!";
+
+"Camera feature is not supported by your device !" =	"La fonctionnalité caméra n'est pas supportée par votre appareil !";
+
+"Please fill up the exercise name field!" =	"Veuillez remplir le champ nom exercice!";
+
+"Pay attention to repetitions and weights!" =	"Portez attention aux répétitions et aux poids!";
+
+"4 sets and 15 repetitions" =	"4 séries et 15 répétitions";
+
+"Later" =	"Plus tard";
+
+"Get Pro" =	"Obtenez la version pro";
+
+"More User Friendly Interface" =	"Interface plus Conviviale";
+
+"Faster Working Algorithm" =	"Algorithme Travaillant plus vite";
+
+"User's Support With Higher Priority" =	"Support Utilisateur Avec Priorité Plus Haute";
+
+"More Frequent Updates" =	"Mises à jour Plus Fréquentes";
+
+"Video Guide" =	"Guide Vidéo";
+
+"No Ads" =	"Pas de Pubs";
+
+"ADS" =	"PUBS";
+
+"Loading" =	"Chargement";
+"History" =	"Historique";
+"More" =	"Plus";
+"Start" =	"Commencer";
+"Weight(kg)" =	"Poids(kg.)";
+"Weight(lbs)" =	"Poids(livres)";
+"Weight" = "Poids";
+"Repetitions" =	"Répétitions";
+"Save" =	"Sauvegarder";
+"Last values" =	"Dernières valeurs";
+"Cancel" =	"Annuler";
+"Attention" =	"Attention";
+"Would you like to leave without saving?" =	"Souhaitezvous quitter sans sauvegarder?";
+"Ok" =	"Ok";
+"Gallery" =	"Galerie";
+"No exercises have been done yet" =	 "Aucun exercice n’a été encore fait";
+"Performance" =	"Performance";
+"Send Feedback" =	"Vos commentaires";
+"Report a Bug" =	"Signaler un Bug";
+"Tell a Friend" =	"Envoyer à un Ami";
+"Gift this App" =	"Faites un cadeau";
+"Rate us" =	"Evaluez nous";
+"Set seconds" =	"Régler les secondes";
+"Stop" =	"Stop";
+"Check out iBodybuilding-Update" =	"Vérifiez Mise à JouriBodybuilding";
+"Check out this application on the App Store:" =	"Découvrez cette application sur l'App Store:";
+"Please note that you have not been added to any email lists." =	"S'il vous plaît notez que vous n'avez été ajouté à aucune listes de diffusion.";
+
+"Fill up all the blank repetitions boxes." = "Remplissez toutes les cases de répétitions vides.";
+"You can't use values bigger than 500." = "Vous ne pouvez pas utiliser des valeurs plus grandes que 500.";
+"You can't input data for future dates." = "Vous ne pouvez pas entrer de données pour des dates futures!";

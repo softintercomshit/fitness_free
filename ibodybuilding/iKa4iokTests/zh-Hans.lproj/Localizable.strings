@@ -1,0 +1,93 @@
+/* 
+  Localizable.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/13/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Exercises" = "运动";
+"Workouts" = "锻炼";
+"Custom" = "自定义";
+"Done" = "完成";
+"Back" = "返回";
+"Title" = "标题";
+"Downloading video" = "正下载视频";
+"Please wait..." = "请稍等... ";
+"Cancel" = "取消";
+"Bodybuilding" = "健美";
+"Fitness" = "健身";
+"Powerlifting" = "键力";
+"2 Days per week" = "每周两天";
+"3 Days per week" = "每周三天";
+"4 Days per week" = "每周四天";
+"Day 1" = "第一天";
+"4 sets and 12/10/8/6 reps" = "4组和 重复12/10/8/6次";
+"Day 2" = "第二天";
+"Day 3" = "第三天";
+"Day 4" = "第四天";
+"Day" = "天";
+"Days" = "天";
+"4 sets and 15 reps" = "4组和重复15次";
+"5 sets and 3/3/3/2/1 reps" = "5组和重复3/3/3/2/1次";
+"Edit" = "编辑";
+"My Workout" = "我的锻炼";
+"To create new workout press +" = "按着 + 则创建新的锻炼";
+"Save" = "储存";
+"Workout Name:" = "锻炼名称:";
+"Days Number:" = "天数:";
+"Delete" = "删除";
+"Workout Title:" = "锻炼标题:";
+"Options:" = "选项:";
+"Camera/Gallery" = "照相机/相册";
+"Exercise's Photos" = "锻炼照片";
+"Name, Description, Repetitions" = "名称、 说明、 重复";
+"Exercise Name:" = "锻炼名称:";
+"Description:" = "说明:";
+"Description" = "说明";
+"Repetitions:" = "重复:";
+"Error!" = "错误!";
+"Error" = "错误";
+"Please fill up the text field!" = "请填写文本字段!";
+"Do you really want to cancel the download process? All progress will be lost!" = "您是否想要取消下载过程？所有的进展将丢失！";
+"Download all videos" = "下载所有视频";
+"Unzipping Files" = "解压文件";
+"Files" = "文件";
+"Downloading Videos" = "正下载视频中";
+"All videos were saved successfully!" = "已成功储存所有视频!";
+"Add" = "添加";
+"No Camera Support!" = "没有可支持的照相机！";
+"Camera feature is not supported by your device !" = "您的设备不支持照相机功能！";
+"Please fill up the exercise name field!" = "请填写锻炼名字字段！";
+"Please check your wi-fi or cellular internet connection!" = "请查看您的无线网络或移動无联网连接！";
+"Your video is downloading already! Wait until it's done!" = "已正在下载您的视频！等待直到它完成！";
+"Warning!" = "警告！";
+"For" = "为";
+
+"More" =	"更多";
+"Start" =	"开始";
+"Weight(kg)" =	"重量(公斤)";
+"Weight(lbs)" =	"重量（英镑）";
+"Weight" = "重量";
+"Repetitions" =	"重复次数";
+"Save" =	"保存";
+"Last values" =	"最后值";
+"Cancel" =	"取消";
+"Attention" =	"警告";
+"Would you like to leave without saving?" =	"你是否有意退出而不保存";
+"Ok" =	"确认";
+"No exercises have been done yet" =	"未完成任何锻炼";
+"Performance" =	"绩效";
+"Send Feedback" =	"发送反馈意见";
+"Report a Bug" =	"报告错误";
+"Tell a Friend" =	"推荐朋友";
+"Gift this App" =	"赠送本应用程序";
+"Rate us" =	"对我们进行评级";
+"Set seconds" =	"设定秒钟";
+"History" = "历史";
+"Stop" =	"停止";
+"Check out iBodybuilding-Update" =	"查看我们的iBodybuilding – 更新";
+"Check out this application on the App Store:" =	"在应用程式商店查看本应用程式";
+"Please note that you have not been added to any email lists." =	"请注意我们不将你添加至任何邮件列表";
+"Fill up all the blank repetitions boxes." = "填满所有重复次数的空白框";
+"You can't use values bigger than 500." ="您无法使用大于500的数值";
+"You can't input data for future dates." = "您无法在未来的日子输入数据。";

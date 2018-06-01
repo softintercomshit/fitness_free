@@ -1,0 +1,393 @@
+/* 
+  content.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/18/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Abs" = "腹肌";
+"Back" = "部";
+"Biceps" = "二頭肌";
+"Calf" = "小腿";
+"Chest" = "胸部";
+"Forearms" = "前臂";
+"Legs" = "腿部";
+"Shoulders" = "肩部";
+"Triceps" = "三頭肌";
+
+//Abs
+"Incline Bench Sit-Ups" = "下斜板仰臥起坐";
+"Hanging Leg Raises" = "懸垂舉腿";
+"Dumbbell Side Bends" = "啞鈴體側屈";
+"Crunches" = "卷腹";
+"Sit-Ups" = "仰臥起坐";
+"Leg Raises" = "抬腿";
+
+"Flat Bench Lying Leg Raise" = "仰臥平板腹部抬腿";
+"Lie on the bench or on the floor with your legs straighten. Position your hands under your butt with your palms down. Keep your legs straight and your knees locked. Raise your feet as vertically as possible." = "躺在訓練椅或地板上，伸直雙腿。雙手擺放在臂部下，掌心向下。保持雙腿和膝蓋伸直。舉腿，盡可能地使雙腳垂直於地面。";
+
+"Seated Jackknife" = "坐凳兩頭起";
+"Sit on the edge of a bench and hold the seat behind your back for support, extend your legs in front of you, knees bent slightly. Rise your legs toward your chest and bring your chest toward your knees." = "坐在訓練椅邊緣，握著你背后的訓練椅以平衡身體，往前伸直雙腳，膝蓋微屈。雙腳朝你的胸部抬高，使胸部盡量向膝蓋靠攏。";
+
+"Twisting Hip Raise" = "扭轉提腿";
+"Lie on your back with your legs projecting straight upward and hands by your sides. Push upward with your feet by raising your hips off the floor simultaneously, twisting them to one side." = "仰躺，雙腳伸直抬高，雙手置於身體兩側。腿往上抬高，同時將臂部抬離地面，腿部和臂部扭向一側。";
+
+"Bodyweight Crunch" = "徒手卷腹";
+"Lie down on the floor. Feet are flat on the floor and knees are bent. Fully extended arms above you. Raise upper body upward while keeping your lower back on the floor. Hold for one second. Return to starting position." = "平躺在地板上。雙腳平放在地板上，膝蓋彎屈。雙臂徹底往上伸直。上半身往上抬舉，同時確保您的下半身在地板上。維持一秒鐘。回到初始姿態。";
+
+"Russian Twist" = "俄羅斯轉體";
+"Sit on the floor, your legs bent, and your torso tied tited a bit backward. Hold your arms straightened in front of your torso. Rotate your torso to one side, back to the center position and to the other side." = "坐在地板上，雙腿彎屈，軀干稍微往后傾。手臂挺直 ，雙手合握於軀干前。軀干轉向一側，然后回到中心位置，繼而向另一側旋轉軀干。";
+
+"Side Bridge" = "側向平板支撐";
+"Lie on your side with your legs starting out. Turn sideways and raise your body off the floor, with one bent arm parallel to the floor. Try to keep your body in a straight line and your elbow directly under your shoulder." = "側躺，以腿部開始。轉向一側，身體抬離地面，一只屈臂與地面平行。盡量保持身體呈一直線，你的肘部正好位於肩部下方。";
+//Back
+"Chin-Ups" = "引體向上";
+"Grasp the bar palms and fingers forward, away from the body. This is called the pronated grip. Keep arms straight and hang straight down without swinging. Relax your shoulders and body. Pull up in a smooth motion, do not jerk. The chin should go over the bar. Lower smoothly back to the starting position." = "雙手握著單杠，掌心和手指向前，以及遠離身體。這就是所謂的正握。保持手臂伸直和筆直下垂，而不擺動。放松你的肩部和身體。平穩地引體向上，避免猛拉。下巴應處于單杠的上方。緩慢地使身體下落至初始姿態。";
+
+"Deadlifts" = "硬舉";
+"Your stance is about shoulder width apart with your feet pointed ahead to slightly out. You should now lower your butt until your quads are roughly parallel to the floor. The bar should be just ahead of your shins. Now grip the barbell with both hands so that your grip is spaced slightly outside your legs. With a lumbar arch in your back push with your legs and lift with your back simulaneously so that the bar clears your knees and comes to rest at your hips. Your shoulders and knees should be locked fully and your arms should be straight during the entire attempt." = "你的站姿為雙腳間距離約與肩同寬，腳部朝前和稍微向外。你現在得降低臂部，直到大腿約與地面平行。杠鈴得位於胫部上方。現在，雙手握著杠鈴，雙手比雙腳略寬。保持背部拱起的站姿，以雙腿推舉和背部的力量提舉它，以便杠鈴高于你的膝蓋，此刻，放松臂部。鎖定你的肩膀和膝蓋，在整個過程中，確保你的手臂是直的。";
+
+"Lat Pull-Downs" = "高拉力";
+"Attach a long bar to the lat pulldown machine, and adjust the thigh pads so that when you are sitting your knees are at right angles and feet flat on the ground. Grasp the bar using a wide grip and sit down maintaining the upper body in an upright position, slightly leaning back from the hips. Pull the bar in front of your face to the top of your chest and pause. Slowly release the bar back to the starting position by straightening your arms." = "將一枝長的杠桿擺放在高拉力訓練器，調整大腿護墊，以便當你坐著時，膝蓋彎屈弧度正確，以及雙腳能平放在地上。寬握杠桿，保持上半身挺直的坐勢，稍微向后傾斜。將杠桿拉至你的臉部前方，即胸部的上方，然后停留。伸直你的手臂，緩慢地將杠桿放回初始位置。";
+
+"Seated Rows" = "坐式劃船";
+"To begin the seated row take hold of the handles of your favorite bar (it could be like the one shown). Sit with your back straight while keeping your legs bent and feet against the metal block. Extend your arms feeling your lats stretch. Pull the weight back into your body until the handles touch your abdomen." = "為了開始坐式劃船，握著你喜愛的橫桿手柄（它可能是如圖所示的杠桿）。挺直坐立，保持手臂彎屈，將雙腳放在金屬板上。伸直雙臂，並感覺你的背闊肌正伸展。推舉橫桿至你的身體，直到其手柄觸及你的腹部。";
+
+"One-Arm Dumbbell Rows" = "單臂啞鈴劃船";
+"Place your left knee and left hand on a flat bench with your right leg set firmly on the floor. Lean forward so that your back is flat and parallel to the floor. Grasp a dumbbell in your right hand with your palm facing in toward your body and lift or row the dumbbell up and into your outer rib cage area. Return to the start position and repeat." = "將你的左膝和左手擺置在平板上，右腳固定在地上。向前傾，以至于你的背部平直，以及與地面平行。用你的右手握著啞鈴，掌心朝向自己的身體，舉起或向上劃動啞鈴，並將其朝向你的外胸腔部位。回到初始姿態，重復鍛煉。";
+
+"Barbell Shrugs" = "杠鈴聳肩";
+"Stand up straight with your feet at shoulder width as you hold a barbell with both hands in front of you using a pronated grip (palms facing the thighs). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for a better grip. This will be your starting position. Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps. Slowly return to the starting position as you breathe in." = "站直，雙腳與肩同寬，雙手置於你的前方，正握（掌心朝向大腿）杠鈴。提示：雙手比肩略寬。對于這個鍛煉，你可以使用手腕束帶，以能更好地握杠。這是你的初始姿態。盡可能高的舉起肩部，當你呼氣時，保持肌肉收縮片刻。提示：避免嘗試以你的臂力舉起杠鈴。吸氣，緩慢地回到到初始姿態。";
+
+"Dumbbell Shrugs" = "啞鈴聳肩";
+"Stand upright with dumbbells hanging at the sides, feet just wide enough so that the dumbbells hang comfortably. They can be heavier than you would use for an arm curl or front raise. Shrug the shoulders upward just like you would if you were saying I don't know to someone in response to a question. Don't hunch over to the front; try to stay completely upright. If you find your are hunching over or bending backward, lighten the weights up a little." = "站直，啞鈴置於身體兩側，雙腳間的寬度剛好，以至于你能舒適地持著啞鈴。若啞鈴用於臂彎舉或前平舉鍛煉，你所施的力量會更大。聳肩，就如你正回答問題，向某人說道“我不曉得。”勿向前彎腰駝背，嘗試保持挺直的姿態。如果你發現自己彎腰駝背或后仰，稍微減輕啞鈴的重量。";
+
+"Back Extensions" = "背部伸展";
+"Position yourself in a back extension station and hook your feet under the leg anchor. Your body should form a straight line from your hands to your hips. Lower your torso, allowing your lower back to round, until it's just short of perpendicular to the floor. Raise your upper body until it's slightly above parallel to the floor. At this point, you should have a slight arch in your back, and your shoulder blades should be pulled together. Pause for a second, then repeat." = "在背部伸展訓練器上鍛煉，用腳踝勾住機器。你的身體即從手到胯部應呈一直線。然後，降低軀幹，允許你的下半身呈弧形，直到它垂直於地面。舉起你的上身直到它處於略高於與地面平行的位置。此時，你的背部應該輕微拱起，肩胛骨彼此靠攏。停留片刻，然後重複動作。";
+
+"Bent Over Row" = "前傾劃船";
+"Stand with knees slightly flexed. Bend your torso at an angle of about 45 degrees, keeping your back straight. Take an overhand grip on the bar with your hands more than shoulder-width apart and your arms dangling straight down from your shoulders: - Inhale, contract your abdominals isometrically and pull the bar straight ip until it touches your chest. - Return to the starting position, exhaling." = "站立，膝蓋微屈。你的軀干前傾約45度，保持你的背部挺直。反握著杠桿，雙手比肩寬，讓你的手臂垂向地面。 - 吸氣，等長收縮腹部，將杠桿垂直向上拉，直到它觸及你的胸部。 - 呼氣，回到初始姿態。";
+
+"Reverse Chin Ups" = "反握引體向上";
+"Extend your arms and take an underhand grip on the bar with your hands shoulder-width apart: - Inhale and stick your chest out to pull yourself upward until your chin is at the level of the bar. - Exhale as you complete the movement." = "伸直手臂，雙手與肩同寬，反握著杠桿： - 吸氣，挺胸並引體向上，直到你的下巴與杠桿水平齊高。 - 呼氣，完成動作。";
+//Biceps
+
+"Curls" = "彎舉";
+"Stand with feet about hip-width apart, abs engaged as you hold medium-heavy dumbbells in front of the thighs. Squeeze the biceps and bend the arms, curling the weights up towards the shoulders. Keep the elbows stationary and only bring the weight as high as you can without moving the elbows. Slowly lower the weights, keeping a slight bend in the elbows at the bottom (e.g., don't lock the joints and try to keep tension on the muscle)" = "站立，雙腳與臂部同寬，當你握著中等重量的啞鈴，並將其置於大腿前側時，收縮腹肌。擠壓肱二頭肌和屈臂，朝肩部舉起負重。保持肘部固定，盡量舉高啞鈴，而不活動肘部。緩慢地降低啞鈴，在低位時確保肘部稍微彎屈（例如，勿鎖定關節，嘗試保持肌肉的張力）";
+
+"Barbell Curls" = "杠鈴彎舉";
+"Start in a standing position with your feet shoulder width apart and your knees relaxed. Grasp a barbell with your hands also shoulder width apart. Your grip should be underhand (palms facing upwards). Stand upright and let the bar hang in front of your thighs. Bend at your elbows to curl the bar to shoulder level. Pause momentarily at this top position. Slowly lower the bar back to the starting position." = "開始姿態為站立，雙腳與肩同寬，並放松膝蓋。反握（掌心朝上）杠鈴，雙手亦與肩同寬。挺立並使杠桿垂於你的大腿前側。屈肘以彎舉杠桿至肩部水平。當杠鈴處於高位時，停留片刻。緩慢地降低杠桿，回到初始姿態。";
+
+"Preacher Curls" = "屈臂";
+"Grasp the bar at about shoulder width apart. Slowly curl the bar up until your forearms are pointing towards the ceiling (slightly more than vertical). Pause for a second, and lower the bar to the starting position." = "雙手約與肩同寬，握著杠桿。緩慢地向上彎舉杠桿，直到你的前臂朝向天花板（略超越垂直位置）。停留片刻，然后降低杠桿至初始姿態。";
+
+"Hammer Curls" = "錘式彎舉";
+"Hold a dumbbell in each hand with your palms and weights facing outward. Your arms should form a 90 degree angle. Keeping your elbow close to your body and in a steady position, curl the weight up towards your shoulder. Lower weights slowly back to starting position." = "雙手各握著啞鈴，手掌和負重向外。你的手臂應成90度。保持肘部靠近身體和處於固定姿態，朝你的肩部彎舉啞鈴。緩慢地降低啞鈴，回到初始姿態。";
+
+"Concentration Curls" = "集中彎舉";
+"Start by sitting on the edge of the bench, holding the dumbbell in your right hand. Let the right arm hang straight down with the elbow resting on the inside of the knee. Lean forward so your torso is over your legs, and place the left hand on the left knee. Bending at the elbow, curl the dumbbell up to shoulder level and pause momentarily before slowly lowering the weight to the starting position. Repeat until your set is finished, then switch sides and complete with the left arm." = "開始姿態為坐在訓練椅邊緣，右手握著啞鈴。右臂垂下，其肘部緊貼膝蓋內側。身體向前傾，以便軀干位于雙腳的上方，將左手擺放在左膝上。屈肘，彎舉啞鈴至肩膀水平，停留片刻，然后緩慢地降低啞鈴至初始姿態。重復動作直到你完成一組鍛煉，接著換另一側練習，即以左臂完成鍛煉。";
+
+"Reverse Curls" = "反屈";
+"Stand with your feet slightly apart and your arms straight, using an overhand grip (thumbs toward each other): - Inhale and curl the bar. - Exhale as you complete the movement. This exercise works the extensors of the wrist and fingers. It works the brachioradialis, and to a lesser degree the biceps." = "雙腳稍微開立，手臂伸直，正握（兩手拇指相對）杠鈴： - 吸氣，彎舉杠桿。 - 呼氣，完成動作。 此動作鍛煉手腕和手指的伸肌。它亦可用於鍛煉肱橈肌，以及以較小的程度鍛煉肱二頭肌。";
+
+"Cable Biceps Curl" = "滑輪胸前彎舉";
+"Attach a straight bar to the low pulley of a cable station. Then, grab the with a shoulder-width, underhand grip and hold it at arm's length just in front of your thighs. Your knees should be bent slightly. Curl the bar toward your chest as far as you can without allowing your upper arms to move." = "在滑輪拉力器的低位滑輪掛上直杠。接著，反握杠桿，雙手與肩同寬 ，將其置於大腿前側，並使其保持一臂長度的距離。你的膝蓋得稍微彎屈。盡可能遠地朝向你的胸部彎舉杠桿，勿讓上臂活動。";
+
+"Low Pulley Curls" = "低位滑輪彎舉";
+"Stand facing the machine and grasp the handle with an underhand grip: - Inhale and curl the pulley handle. - Exhale as you complete the movement. This is bona exercise for isolating and pumping the biceps." = "面向訓練器站立，反握手柄： - 吸氣，彎舉滑輪手柄。 - 呼氣，完成動作。 這是種鍛煉二頭肌的極佳孤立動作。";
+
+"Low Pulley Cable Crossover" = "低位拉力器夾胸";
+"Set the cables the bottom of the crossover station and you gonna cross your hands up to your face and start from the bottom a cross up. This variant is gonna hit more the upper chest." = "設定夾胸器低位的滑輪，兩手交叉並朝臉部往上移動，這是種從低位開始的交叉動作。此動作能大量鍛煉上部胸肌。";
+
+//Calf
+
+"Toe Raises" = "提踵";
+"Begin by a neutral position, hills at or slightly wider than shoulder width. Hold dumbbells in both hands on the same side as the foot. Move up on the toes, contracting the calf muscles, slowly lowering down to a full range of motion." = "以中立姿態開始，雙腳比肩部略寬。雙手持著啞鈴，並將其置於腳部兩側。腳趾向上移動，收縮小腿肌肉，然后緩慢地回到初始姿態，即完成一次動作。";
+
+"One-Leg Toe Raises" = "單腿提踵";
+"Stand on one foot, placing the toes and ball of your foot on the block. Hold a dumbbell in your hand on the same side as the foot you are standing on and grasp the edge of machine with your other hand to steady your body in position throughout the movement: - Rise up as high as you can on your toes (plantar flexion), keeping your knee extended or very slightly bent. - Return to the starting position." = "單腳站立，腳趾或前腳掌站在物體上。握著訓練器邊緣，以在全程動作中平衡身體。與站立於物體的單腳同側的那只手持著啞鈴： - 以腳趾往上舉高至盡可能的高位（跖屈）。保持你的膝蓋伸展或微屈。 - 回到初始姿態。";
+
+"Seated Calf Raises" = "坐勢提踵";
+"Adjust the pad so that your shins are straight up and the pad is just behind the knees. Lift the weight by pushing your heels up with the balls of your feet. Slowly lower the heels until you feel a stretch in the calf muscle. To target inner and outer calves, point your toes inwards and outwards respectively." = "調整護墊，以至于你的胫部是直立的，該護墊剛好位於膝蓋的后方。通過使用前腳掌將腳跟向上推以舉起負重。緩慢地放下腳跟，直到你能感覺小腿肌肉的伸展。為了鍛煉小腿內側和外側，，將腳趾分別指向內側和外側。";
+//Chest
+
+"Bench Presses" = "仰臥推舉";
+"To properly perform a bench press exercise you need to lay flat on a bench and have your feet flat on the floor. The bar, when racked, will be slightly behind your head. It is important to use a spotter for this exercise, especially if you are using a free bar or dumbbells, to eliminate the chance of dropping the weight on yourself. Once you have lifted the weight off of the rack, the bar will be directly over the center of your chest. Keep your head on the bench at all times throughout the movement. Once you have the bar steady, slowly lower it to about chest level, if you are able to. Keep your arms pointed outward as the bar drops. Upon reaching the bottom of the movement, press the bar back up to an extended position, focusing on driving the bar upwards with your chest and arms." = "為了正當地進行仰臥推舉這個鍛煉，你必須平躺於訓練椅上，將雙腳平放於地板上。掛著的杠桿處於你頭部的略后方。在此鍛煉中，監視人的看管是至關重要的，這是為了排除負重落在你身上的可能性 ，尤其是當你使用不掛在架上的杠桿或啞鈴。當你從架子舉起負重時，該杠桿將位于你胸部的上方。在整個動作的過程，保持你的頭部固定在訓練椅上。當你確保杠桿處於穩定狀態時，如果你有能力，緩慢地將其降低至胸部水平。在放下杠桿的期間，保持你的手臂向外。當杠桿位於低位時，將杠桿再次往上推舉，直到你處於伸展姿態，專注於使用胸部和手臂將杠桿朝上推舉。";
+
+"Incline Presses" = "上斜臥推";
+"This exercise is very similar to the regular barbell bench press except that you will be using an incline free weight bench press machine and your upper chest will be the muscle group worked instead of your middle chest. Lift the barbell off of the rack and slowly lower it to about 3 inches above your clavicle (just below your Adam's apple) and then press the bar back to the start position. DO NOT TOUCH THE BAR TO YOUR UPPER CHEST (this causes unneeded stress on your shoulder joints and takes the tension away from your upper pec muscles, which are what we want to be doing the work!). Be sure that when you are lowering the bar that you do so in a slow and controlled fashion. Conversely, when you press the bar upward, you want to do so in an explosive fashion." = "此鍛煉與正規的杠鈴臥推鍛煉極其類似，除非你使用上斜臥推自由重量訓練器，那么你鍛煉的肌群是上胸部，而不是胸部中央。舉起架上的杠桿，緩慢地降低它至鎖骨以上約三英寸（喉結略下方），然后將杠桿推回初始位置。勿使杠桿觸碰你的上胸部（這為肩關節帶來不必要的應力，確保你的上胸肌不受張力影響，此避忌對我們的鍛煉是極其重要的！）。當你降低杠桿時，確保你的動作緩慢，以及受控制。反之，你能激烈地往上推舉杠桿。";
+
+"Dumbbell Presses" = "啞鈴臥推";
+"Get into position by sitting on the bench, hold the dumbbells and allow them to rest on your thighs. Whilst rolling your body back to lie down on the bench, use your thighs to help you push the dumbbells up to your chest. Then straighten your arms up over your chest (keeping a slight bend in elbows), palms facing forward. Keep your feet flat on the floor and your back in neutral (no more than a slight arch).Lower the dumbbells by bending your elbows out to the sides. Keep going until your elbows are just below your shoulders. Then press the dumbbells back up, bringing them close together at the top (without touching), and angled slightly inwards. Keep a slight bend in your elbows, don't allow them to lock. Repeat until you've completed your reps. To get up, hold the dumbbells by your chest, kick your legs up and then forward to give your body momentum to sit up." = "初始姿態為坐在訓練椅上，握著啞鈴並將之緊貼大腿。軀干向后屈，直到仰臥在訓練椅上，使用大腿以協助你將啞鈴推舉至胸部。然后，手臂朝胸部上方伸直（保持肘部微屈），掌心向前。保持你的雙腿平方於地板上，背部處於中立姿態（至多允許背部稍微拱起）。肘部向兩側彎屈，以降低啞鈴。持續動作直到你的肘部略低于肩部。然后，再次往上推舉啞鈴，讓啞鈴在高位互相靠攏（互不接觸），並略向內側微屈。保持你的肘部微屈，而不是鎖定肘部關節。重復動作直到你完成一組鍛煉。為了起坐，持著啞鈴緊貼胸部，向上踢腿，接著向前傾以讓你的身體有動力起坐。";
+
+"Parallel Bar Dips" = "雙槓臂屈伸";
+"First, keep your head down during the course of the movement and move your body forward. Secondly, move your elbows out a bit. That is, keep your elbows out and away from your body. This will ensure that you are using more chest than triceps. Remember, really concentrate on squeezing your entire chest area at the top of the movement." = "首先，在鍛煉全程，保持你的頭部低著，以及身體前傾。其次，兩肘稍微向外側伸展，亦即保持你的肘部外展和遠離身體。這是為了確保你以較大程度使用胸部，而不是三頭肌。記得，當你達致高點時，全心專注於擠壓你的整個胸部。";
+
+"Cable Crossover Flys" = "拉力器夾胸";
+"This exercise is performed using the cable pulley machine that has a pulley on two opposite sides. Set each pulley up so that it is locked in the high position (if you are not sure how to do this, ask a trainer at the gym you workout at to assist you). While standing, grab each high pulley using a small one-hand attachment for each hand. The position your body will be in will look like a giant letter. Slowly bring your arms together in a slow and controlled fashion. While doing so, visualize that you are hugging a giant tree trunk. At the peak of this movement, really flex your pec muscles together for a one-count and then return to the start position and repeat." = "采用具有兩個相對面滑輪的滑輪拉力器進行此鍛煉。將手柄與高位滑輪鏈接（若你不確定如何做，請求你健身室的鍛煉教練協助你）。當站立時，每只手各握著高位滑輪的手柄。你的身體姿態看起來像大字型。緩慢平穩地讓你的雙手互相靠攏。在這個動作，想象你正擁抱著一棵巨硕的樹。當你的動作達致頂峰時，徹底收縮你的胸肌，停留片刻后，回到初始姿態，然后重復動作。";
+
+"Dumbbell Flys" = "仰臥飛鳥";
+"To perform dumbbell flies pick, up a relatively light weight in each hand. You will need to experiment to determine how much weight is right for your dumbbell flies. Start with a lighter weight then slowly work your way up. Lie down on a weight bench and raise both dumbbells straight up over your chest with your arms straight. This is your starting position. Spread both arms outward in a wide arc until your arms are out at your sides. Your arms can be slightly bent. This is the fly part of the dumbbell flies. It is called that because you look like you are flying. Follow the same arc back up until the dumbbells return to the starting position. This is one repetition of the dumbbell fly." = "為了進行仰臥飛鳥這個鍛煉，雙手持著相對較輕的負重。你在執行仰臥飛鳥鍛煉時，必須試驗以確認合宜你的負重重量。以較輕的負重開始，然后依據自身的狀態，逐漸提高重量。仰臥於舉重床，然后手臂伸直，將兩個啞鈴往胸部上方舉高。這是你的初始姿態。雙臂向外伸展並呈大弧度，直到其處於遠離你體側的位置。可稍微彎屈你的手臂。這是仰臥飛鳥之飛鳥部分。它的命名如此是因為你看上去像在飛翔。以同樣的弧度往上伸展你的手臂，直到啞鈴回到初始位置。這是仰臥飛鳥的一次動作。";
+
+"Dumbbell Pullovers" = "啞鈴仰臥屈臂上拉";
+"This is very similar to the bent arm barbell pullovers, except that you will be using a dumbbell instead of a barbell. Lie flat on your back on a flat bench. Begin by holding the dumbbell above your chest with your elbows slightly bent. Slowly lower the dumbbell back so as to stretch your arms (and the dumbbell) back behind your head as far as you can reach. Your arms and the dumbbell will actually go behind/above your head and will drop down below the bench- this will really give you a great stretch! Return the dumbbell to the start position slowly, focusing on keeping your elbows locked in the slightly bent position." = "此鍛煉與杠鈴屈臂上拉極其類似，只是你使用啞鈴，而不是杠鈴。背部著地平躺。初始姿態是持著啞鈴並將其置於胸部上方，肘部微屈。手臂伸展（與啞鈴一起）至盡可能遠的頭部后方，以緩慢地降低啞鈴。實際上，你的手臂和啞鈴將處於你頭部的后方/上方，並垂落於訓練椅的下方，這動作可讓你大幅度地伸展肌肉！緩慢地使啞鈴回到初始位置，專注於保持你的微屈肘部是鎖定的。";
+
+"Push-Ups" = "俯臥撐";
+"Lie prone with your arms straight, your palms flat on the floor, and your hands shoulder-width apart (or wider). Hold your feet together or very slightly spread: - Inhale and bend your elbows to bring your torso near the floor, avoiding extreme hyperextension of your spine. - Push yourself back to arms, extended position, exhaling as you complete the movement." = "俯臥，手臂伸直，掌心平放於地面上，你的雙手與肩同寬（或更寬）。雙腳互相靠攏或稍微開立： - 吸氣，屈肘以讓軀干靠近地面，避免使你的脊柱過伸。 - 呼氣，撐起回到手臂伸展的姿態，完成動作。";
+
+"Dumbbell Press" = "啞鈴臥推";
+"Lie flat on the bench with feet on the floor for stability, your arms extended upward, and your hands facing in toward each other holding the dumbbells: - Inhale and lower the dumbbells to chest level, bending your elbows and rotating your forearms to bring your hand in pronation. - Press the dumbbells back up and do an isometric contraction to isolate the stress on the pectorals; exhale as you complete the movement." = "平躺於訓練椅上，雙腳放在地板上以平衡身體，手臂向上伸展，雙手持著啞鈴，它們相互面向著： - 在降低啞鈴至胸部水平時吸氣，屈肘，使前臂旋前以讓你的掌面朝下。 - 呼氣，往上推舉啞鈴，在此動作采用等長收縮法，以孤立鍛煉胸肌的張力。";
+
+"Barbell Bench Press" = "杠鈴臥推";
+"Lie back on the decline bench. Hold the barbell with overhand grip. Lower the barbell towards your lower chest as you keep your elbows close to your body. The barbell should slightly touch your chest at the end of the movement." = "仰臥於下斜訓練椅上。正握杠鈴。降低杠桿至你的下胸部位置，保持肘部緊貼身體。在完成動作前，杠鈴得稍微觸及你的胸部。";
+
+"Pec Deck Flies" = "蝴蝶式擴胸";
+"Sit on the machine's seat and press your elbows into the pads, relaxing your forearms and wrists: - Inhale and force the pads together until they touch in front of your chest. - Exhale as you complete the movement." = "坐在訓練器坐墊上，以護墊保護你的手肘，放松你的前臂和手腕： - 吸氣，讓把柄拼攏，直到它們在你的胸前相互觸及。 - 呼氣，完成動作。";
+//Forearms
+"Wrist Curls" = "手腕彎舉";
+"Sit with your forearms resting on your thighs or on a bench. Take an underhand grip on the bar with your wrists passively extended: - Inhale and curl your wrist up. - Exhale as you complete the movement." = "坐在訓練椅，前臂置於大腿上。反握杠桿，使手腕被動伸展： - 吸氣，往上彎舉手腕。 - 呼氣，完成動作。";
+
+"Wrist Curls" = "啞鈴腕彎舉";
+"Sit on a bench. Using an dumbbell wrists passively extended: - Inhale and curl your wrist up. - Exhale as you complete the movement. This exercise works the flexors of the wrist and finger." = "坐在訓練椅，采用啞鈴，使手腕被動伸展： - 吸氣，往上彎舉手腕。 - 呼氣，完成動作。此動作鍛煉你的手腕和手指的屈肌。";
+//Legs
+"Squats" = "深蹲";
+"The squat involves lowering yourself to the floor without bending at the lower back. Instead, you use your legs to lower your body, keeping your spine in a neutral position. Stand with your feet hip-width apart. Press your hips back and bend your knees. Keep your weight back on your heels, not on the balls of your feet. Your knees should stay behind your toes. Continue lowering until your knees are at a 90-degree bend. Pause for a count and then push through your heels, extending your knees and hips." = "此深蹲鍛煉涉及降低身體至地面，而不彎屈下背部。然而，你將使用腳部降低你的身體，保持脊柱處於中正位置。站立，雙腳與臂部同寬。往后推移臂部，彎屈你的膝蓋。確保以腳跟承擔你的重量，而不是腳掌。你的膝蓋不能超過腳尖。持續降低，直到你的膝蓋彎屈成90度。停留片刻，推動過你的腳跟，伸展你的膝蓋和臂部。";
+
+"Angled Leg Presses" = "仰臥蹬腿";
+"Sit on the machine with your back and head against the padded support. Place feet on the foot plate about hip width apart, ensuring the heels are flat. The legs should form an angle of about 90 degrees at the knee with a little variation either way as long as the heels sit flat on the plate. The knees should be in line with the feet and neither bowed inward nor outward. Your bottom should not be raised from the seat platform. If it is, and the legs are at too sharp an angle, then you need to adjust the seat back until the correct position is enabled. You can recognize this poor position when the knees seem to be in front of your eyes and you feel cramped. Grasp the assist handles." = "坐在訓練椅上，背部和頭部緊貼靠墊。與臂部同寬的雙腳放在腳板上。屈膝形成弧度，即成大約90度，或無論采用哪種方式，只要讓腳跟平放於腳板上。膝蓋得與腳部成一直線，不可向內或向外彎屈。你的臂部應該緊貼著坐墊，反之，若腳部與膝蓋形成尖角，你得向后調整坐墊直到找到合宜的位置。你能通過以下的方式察覺不利的位置，即膝蓋似乎處於你的眼前，以及你感到局促。接著，握緊手柄，進行蹬腿動作。";
+
+"Leg Extensions" = "腿部伸展";
+"Slowly raise the weight by extending both legs upwards to the straightened position. Do not jerk the weight up. Hold this position for one second. Slowly lower the weight back to the start position. Repeat movement." = "緩慢地往上伸直雙腳。不要猛拉。維持此姿態片刻。緩慢地將雙腳放下至初始位置。重復動作。";
+
+"Dumbbell Lunges" = "啞鈴跨步蹲舉";
+"Stand with dumbbells grasped to sides. Lunge forward with first leg. Land on heel then forefoot. Lower body by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. Return to original standing position by forcibly extending hip and knee of forward leg. Repeat by alternating lunge with opposite leg." = "站立，雙手握著啞鈴，將其置於身體兩側。單腳向前跨步。腳跟比前足先落地。前腳的膝蓋和髖關節彎屈以降低身體，直到后腳的膝蓋觸及地上。用力伸展前腳的髖關節和膝蓋，以回到初始姿態。換另一只腳跨步，重復動作。";
+
+"Cable Back Kicks" = "滑輪后屈伸";
+"Attach a cuff to the end of the cable running through the low pulley. Fasten the cuff around your ankle. Stand in front of the weight stack and grasp the edge of the machine for support: Tilt your pelvis forward. Bring your leg back." = "在低位滑輪套上腳環。腳踝套著腳環。站在配重架前面，握緊訓練器的邊緣以平衡身體。骨盆向前傾斜。單腳向后屈伸。";
+
+"Dumbbell Squats" = "啞鈴深蹲";
+"Stand with your feet slightly apart and grasp a dumbbell in each hand with your arms hanging down at your sides: - Look straight ahead, slightly arch your back, and squat down. - Once your things are parallel to the floor, straighten your legs to return to the starting position. - Exhale as you complete the movement." = "站立，雙腳稍微開立，每只手各握著啞鈴，你的手臂垂落於身體兩側： - 向前平看，背部稍微拱起，蹲下。 - 當你的大腿與地面平行時，伸直雙腳以回到初始姿態。 - 呼氣，完成動作。";
+
+"Front Squats" = "前蹲";
+"Position the dumbbell across your anterior deltoids, hold upper arms parallel to the floor, bend your elbows, cross your toe arms, grasp the bar, and look straight ahead: - Inhale and squat down. - Return to the starting point, exhale as you complete the movement." = "將啞鈴置於三角肌上方，上臂與地面呈平行，屈肘，手臂交叉握杠，向前平看： - 吸氣蹲下 - 呼氣回到初始位，完成動作。";
+
+"Power Squats" = "力量深蹲";
+"This movement is the same as conventional squats, but your legs are widely spread with your toes pointed outward, which specifically works the inner thighs. The muscles involved are: - the quadriceps - all the adductors - the gluteals - the hamstring group - all the sacrospinalis muscles" = "此動作與傳統式深蹲一樣，但你的雙腳間距離更大，以及你的腳趾朝向外側。它特別用於鍛煉大腿內側。所鍛煉的肌肉是： - 四頭肌 - 所有內收肌 - 臂肌 - 腳筋 - 所有豎脊肌";
+
+"Hack Squats" = "哈克深蹲";
+"Flex your knees, place your back against the padded surface, wedge your shoulders beat the yokes attached to the machine, and place your leed fairly close together: - Inhale,  rotate the stop handles at the sides of the yokes to release the machine, and bend your legs. - Return to the starting position exhaling as you complete the movement." = "彎屈膝蓋，背部緊貼靠墊，肩部置於肩墊，打開訓練器開關，雙腳靠攏。 - 吸氣，開啟安全檔手臂以解開重量，腳彎屈。 - 呼氣回到初始姿態，完成動作。";
+
+"Seated Leg Curls" = "坐勢腿彎舉";
+"Sit on the machine with your legs straight, ankles resting on the roller pad. Lower the leg resting over your thighs to secure them. Grasp the handles provided on each side: - Inhale and bend your knees to move the roller pad downward. - Exhale as you complete the movement." = "坐在訓練器上，伸直雙腿，肘部置於墊輥上。雙腳的大腿穩固在座椅上。握著訓練器兩側的手柄： - 吸氣，屈膝以向下滾動墊輥。 - 呼氣，完成動作。";
+//Shoulders
+"Back Presses" = "頸后推舉";
+"Start by sitting on the bench (with back support). Grasp the barbell using an overhand grip. Hold the dumbbells above the shoulders slightly in front of you, pointing the elbows towards the floor. Push the barbell up and overhead so that the arms are fully extended. After a pause lower the weights to the starting position." = "開始於坐在訓練椅上（有背部支撐）。正握杠鈴。杠鈴置於你肩部前的略上方，肘部朝向地面。往上推前杠鈴直到頭頂，以至于手臂充分伸展。停留片刻后，降低負重至初始位置。";
+
+"Seated Front Presses" = "坐勢前推舉";
+"Sitting on an upright bench. Grab the barbell with a wider then shoulder width grip. Push the barbell directly upward until it is at arms length above your shoulders. Lower the barbell down to the front of your shoulders, then press it back to starting position." = "坐在直立的訓練椅上。握著杠鈴，雙手與肩同寬。直接往上推舉杠鈴，直到手臂在你的肩部上方。降低杠鈴至肩部的前側，然后推舉它至初始位置。";
+
+"Seated Dumbbell Presses" = "坐勢啞鈴推舉";
+"Position yourself on a bench or chair with your back upright and straight. Grasp a dumbbell in each hand and hold them just outside of each shoulder with your thumbs pointing in toward each other. Simply press the dumbbells up over your head and return to the start position just outside your shoulders." = "坐在訓練椅上，挺直背部。每只手各握著一個啞鈴，將其置於肩部兩側，拇指相互指向內側。僅僅是往上推舉啞鈴至頭頂，然后回到初始位置，即你的肩部外側。";
+
+"Low-Pulley Lateral Raises" = "低位滑輪側平舉";
+"Stand close to the cable machine and side-on to it, position your arm slightly in front of your thighs and take hold of the handle. Inhale and, keeping a slight bend in the elbow, raise your arm out to the side of the body until your upper arm is level with your shoulder. Keep your palm facing down. Slowly, and with the movement under control, lower your arm back down to the start position." = "站在靠近滑輪訓練器的地方，從側面面向它，手臂置於你的大腿略前方，握著手柄。吸氣，保持肘部稍微彎屈，抬舉手臂至身體兩側外，直到你的上臂於肩部平行。保持你的掌心朝下。緩慢平穩地降低你的手臂至初始位置。";
+
+"Upright Rows" = "垂直劃船";
+"Raise the bar toward your chin by leading with your elbows. When your upper arms are parallel to the floor, stop the pull, and lower the bar along the same path it was raised. At the top of your range of motion, your elbows should be higher than your wrists." = "移動你的肘部，朝你的下巴推舉杠桿。當你的上臂與地面平行時，停止推舉，以之前往上推舉的相同途徑降低杠桿至初始位置。當你的動作處於高位時，你的肘部應高於手腕。";
+
+"Dumbbell Rear Deltoid Raises" = "啞鈴側平舉";
+"Sit on a bench, inclined forward, foot on the floor together. Raise the dumbbells to the side is you can keeping your hands straight and slowly do back to your start position." = "坐在訓練椅上，前傾，雙腳拼攏放在地板上。保持你的雙手伸直，推舉啞鈴至外側，然后緩慢地回到初始位置。";
+
+"Lateral Raises" = "側舉";
+"Stand with your feet slightly spread. Keep your back straight, your arms hanging at your sides, holding one dumbbell in each hand: - Raise the dumbbell to shoulder level, keeping your elbows slightly bent. - Return to the starting position." = "站立，雙腳稍微開立。保持背部挺直，每只手各持著啞鈴，手臂垂直於身體兩側： - 推舉啞鈴至肩部水平，保持你的肘部稍微彎屈。 - 回到初始姿態。";
+
+"Front Raises" = "前平舉";
+"Stand with feet slightly apart. Hold the dumbbells with your palms down (overhand gips), resting the dumbbells on your thighs or slightly to your sider: - Inhale and alternate sides raising the dumbbells forward to shoulder height. - Exhale as you complete the movement." = "站立，雙腳稍微開立。持著啞鈴，掌心向下（正握），將啞鈴置於大腿前，或身體兩側： - 吸氣，左右手交替，推舉杠鈴至肩部齊高位置。 - 呼氣，完成動作。";
+
+"Barbell Front Raises" = "杠鈴前平舉";
+"Stand with your legs slightly spread. Take and overhand grip on barbell and rest the barbell on your thighs. Keep your back straight and your abdominals contracted: - Inhale and raise the barbell forward with your arms straight until it reaches eye level. - Exhale as you complete the movement." = "站立，雙腳稍微開立。正握杠鈴，杠鈴置於大腿前。保持背部挺直，腹部收縮： - 吸氣，伸直手臂向前推舉杠鈴至眼睛齊高水平。 - 呼氣，完成動作。";
+
+"Upright Row" = "垂直劃船";
+"Stand with your feet slightly spread. Keep your back straight. Take an overhand grip on the bar with your hands palm-width apart or a little more: - Inhale and pull the barbell straight upward until it contacts your chin. - Lift your elbows as high as possible at the top point of the movement. - Exhale and slowly lower the barbell back to the starting point." = "站立，雙腳稍微開立。保持背部挺直。正握杠桿，雙手與手掌同寬或略寬： - 吸氣，直上推舉直到它觸及你的下巴。 - 當杠桿處於高位時，盡可能高地抬肘。 - 吸氣，緩慢地降低杠鈴至初始點。";
+
+"Low Pulley Bent-Over Lateral Raises" = "低位滑輪俯身側平舉";
+"Stand with your feet and your knees slightly bent. Bent forward at the waist, keeping your back straight and your arms hanging down. Hold a handle in each hand with the cables crossing each other: - Inhale and raise your arms to the sides until your hands are slightly above the level of your shoulders. - Exhale as you complete the exercise." = "站立，膝蓋稍微彎屈。手腕向前彎，保持背部挺直，手臂下垂。每只手各握著手臂，滑輪相互交叉： - 吸氣，舉高手臂直到你的手略高於肩部水平。 - 呼氣，完成鍛煉。";
+
+"Low Pulley Front Raises" = "低位滑輪前平舉";
+"Stand with your feet slightly spread. Hold the handle with an overhand grip, keeping your arms at your sides: - Inhale and raise your arm forward shoulder height. - Exhale as you complete the movement. This exercise works the deltoids." = "站立，雙腳稍微開立。正握手柄，手臂位於身體兩側： - 吸氣，手臂向前舉高至肩部水平。 - 呼氣，完成動作。這個動作鍛煉三角肌。";
+
+"Pec Deck Rear-Delt Laterals " = "蝴蝶式側平舉";
+"Sit in a pec deck machine facing toward its back support with your arms stretched out grasping the handles: - Inhale and force your elbows to the rear, pressing your scapulae together at the end of the movement. - Exhale as you complete the movement." = "坐在夾胸訓練器上，面向其靠墊，手臂伸展，雙手握著手柄： - 吸氣，推拉你的肘部至后方。在動作的最后，擠壓你的肩胛骨。- 呼氣，完成動作。";
+//Triceps
+
+"Close-Grip Bench Presses" = "窄握三頭推舉";
+"Position yourself on a regular free weight flat bench press machine. Lie flat on your back and grab the barbell above you with a very narrow grip. Focus on keeping about an 6-8 inch width in your grip Lift the barbell off of the rack and slowly lower it to about 3 inches above your chest and then press the bar back to the start position. Make sure to focus on keeping your elbows in towards your body throughout the full range of the movement." = "仰臥於自由重量平板訓練器上。握著你上方的杠鈴，握距狹窄，專注於保持你的握距約6-8英寸。將杠鈴從鈴架取出，緩慢地降低杠鈴至你胸部上方，之間距離約3英寸。接著，推舉杠鈴至初始位置。在動作全程，確保專注於保持你的肘部朝向身體。";
+
+"Push-Downs" = "下壓";
+"Using a high-cable pulley, grasp a short straight bar with an overhand grip. Your hands should be about 10 inches apart. Position your forearms so they are parallel to the floor. Keep your feet shoulder width apart and bend your knees slightly. Keep your elbows locked in close to your body and your wrists straight. Keep your WHOLE body steady, push the bar down as far as possible towards your legs, locking your arms and feeling the triceps full contract. Keep the upper arms close to the body. Return to the starting position using the same motion. Never move your elbows or torso! Stay standing straight up." = "采用高位滑輪，正握短直桿。雙手距離約10英寸。前臂與地面平行。保持你的雙腳與肩同寬，稍微彎屈你的膝蓋。保持你的肘部鎖定和緊貼身體，手腕伸直。確保你的身體平衡，盡可能遠地往你的雙腳下推杠桿，鎖定臂部，感覺三頭肌徹底收縮。保持你的上臂靠近身體。使用相同的動作回到初始位置。勿活動你的肘部或軀干！確保你挺直站立。";
+
+"Triceps Extensions" = "三頭肌伸展";
+"Positioning the bar over your eyes keeps your triceps under some tension while your arms are in the extended position. Now, keep your upper arms fixed in the extended position while you bend your elbows and allow the weight to descend under control toward your forehead." = "使杠桿置於你的眼睛上方，保持你的三頭肌受些應力，手臂處於伸展姿態。現在，當你彎屈肘部時，保持你的上臂固定於伸展位置，允許負重平穩地朝你的前額降低。";
+
+"Triceps KickBacks" = "三頭肌后屈伸";
+"Kneel comfortably on a bench with the same leg that you hold the weight with. Now with your back straight and your head looking straight ahead start with the weight at a ninety degree angle (as shown). Extend the weight keeping your elbow completely stationary." = "單手持著負重，與其同側的膝蓋舒適地放在訓練椅上。現在，挺直背部，目視前方，以90度（如圖所示）推舉負重開始。伸展手臂，並保持你的肘部徹底固定。";
+
+"One-Arm Dumbbell Triceps Extensions" = "單臂啞鈴三頭肌伸展";
+"Hold your arm in full extension up above your body. Make sure your elbow is facing away from your body. With your non-weight bearing hand, grab and support your other arm just below the elbow. Next, lower the weight down, bending at your elbow. Once the forearm is parallel to the floor you may bring the arm back to full extension." = "保持手臂徹底伸展至你身體的上方。確保你的肘部背對著身體。使用不負重的手支撐與握著另一只手臂的肘部下方。接著，屈肘以降低負重。當前臂與地面平行時，可讓手臂回到徹底伸展的姿態。";
+
+"Bar Triceps Extensions" = "杠鈴三頭肌伸展";
+"To begin, stand up holding a barbell or e-z bar using a pronated grip (palms facing forward) with your hands closer than shoulder width apart from each other. Your feet should be about shoulder width apart. Now elevate the barbell above your head until your arms are fully extended. Keep your elbows in. This will be your starting position. Keeping your upper arms close to your head and elbows in, perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step. Go back to the starting position by using the triceps to raise the barbell. Breathe out as you perform this step." = "初始姿態是站立並正握（手臂向前）杠鈴或EZ杠鈴，雙手比肩部窄。雙腳應該與肩同寬。現在，舉起杠鈴至頭部上方，直到你的手臂徹底伸展。保持你的肘部向內側。這是你的初始動作。保持你的上臂靠攏頭部，以及肘部向內側，並垂直於地面。在頭后部采用半圓動作以降低阻力，直到你的前臂觸及二頭肌。提示：上臂應該保持固定，唯有前臂活動。當你進行此步驟時，吸氣。使用三頭肌以提舉杠鈴，回到初始位置，在這個動作中呼氣。";
+
+"Dumbbell Triceps Extension" = "啞鈴三頭肌屈伸";
+"Lie on a flat bench holding a dumbbell in each hand with your arms extended straight up from your shoulders: - Inhale and slowly bend your arms. - Return to the starting position, exhaling as you complete the movement. This exercise equally works all the heads of the triceps." = "躺在平訓練椅上，每只手各持著啞鈴，手臂向上伸直： - 吸氣，緩慢地彎屈手臂。 - 呼氣，回到初始位置，完成動作。 此動作均衡地鍛煉所有肱三頭肌。";
+
+"Triceps Dips" = "三頭肌掌體";
+"Place your hands on the edge of a flat bench and rest your feet on another bench. Assume a torso-leg angle of about 90 degrees: - Inhale and bend your arms. - Straighten your arms to return to the starting point, exhaling as you complete the movement. This exercise works the triceps, pectorals, and anterior deltoids." = "雙手置於訓練椅邊緣，雙腳舒適地放在另一個訓練椅上。軀干與腿部形成約90度： - 吸氣，屈臂。 - 呼氣，伸展手臂以回到初始點，完成動作。 此動作鍛煉三頭肌、胸肌和三角肌。";
+
+"Triceps Pushdown" = "三頭肌下壓";
+"Stand facing the machine with your hands on the bar and your elbows against your sider: - Inhale and straighten your arms, but don't separate your elbows from your side. - Exhale as you complete the movement." = "面向訓練器站立，雙手握著杠桿，你的肘部緊貼體側：- 吸氣，伸展你的手臂，然而，勿使肘部遠離體側。 - 呼氣，完成動作。";
+
+"One Arm Reverse Pushdown" = "單臂反下壓";
+"Stand facing the machine and grasp the handle with an underhand grip: - Inhale and straighten your arm. - Exhale as you complete the moment." = "面對訓練器站立，反握其手柄： - 吸氣，伸直你的手臂。 - 呼氣，完成動作。";
+
+
+
+
+
+"Rotating T Extension"="T-伸屈\n";
+"1. Start in a pushup position. Keeping your arms straight and your core engaged.2. Shift your weight onto your left arm, rotate your torso to the right, and raise your right arm toward the ceiling so that your body forms a T.3. Hold for three seconds, then return to start and repeat on the other side. That's one rep."="1. 以俯臥撐姿態開始。保持手臂伸直，收緊核心。\n\n2. 將重心移至左臂，軀幹轉動至右邊，右臂往上擡高，以便身體呈T字形。\n\n3. 保持此姿態三秒鍾，然後返回初始姿態，換另一側重複鍛煉。這是一次鍛煉。\n";
+"Bodyweight Hip Extension"="自重髋神\n";
+"1. Lie down on the floor. One foot is flat on the floor while the other leg is straight. Use your hands to stabilise your position.2. Raise your straight leg until your lower back is off the ground. Hold for one second. Return to starting position."="1. 臥躺於地板。一只腳掌著地，另一腳伸直。用雙手平衡身體。\n\n2. 擡高已伸直的腳直到下背離開地面。保持此姿態一秒鍾。返回初始姿態。\n";
+"Superman"="超人\n";
+"1. Kneel on all fours with your knees under your hips and hip - distance apart and put your hands on the floor a shoulder width apart under your shoulders. Put your spine into neutral position. Activate your core by drawing your abdominal muscles back toward your spine.2. Without any sideways movement and keeping your abdomen pulled in, exhale and slowly raise an opposite arm and leg until they are parallel to the floor. Be careful to follow the tempo you have set.3. Inhale and slowly return your arm and leg to the starting position.4. Repeat for the desired number of repetitions, then repeat the exercise using the other arm and leg."="1. 四肢著地，膝蓋位於臂部下方，膝蓋與髋同寬，雙手置於地上，手與肩膀同寬。脊椎保持自然中立位。將腹肌往脊椎後拉，以收緊核心。\n\n2.勿作出任何側向移動，保持腹肌收緊，呼氣，緩慢地擡高手臂及與手臂反方向的腳，直到它們與地板呈直線。需要注意的是，按部就班完成動作。\n\n3. 吸氣，緩慢地將手腳放回初始位置。\n\n4. 重複渴望的鍛煉次數，然後換另一只手與腳重複鍛煉。\n";
+"Bodyweight Superman"="自重超人\n";
+"1. Lie prone on the floor. Fully extend your arms in front of you. 2. Raise your legs and upper body towards the ceiling. Hold for one second. Return to starting position."="1. 俯臥於地板。手臂往前伸直。\n\n2.往上擡高雙腳與上半身。保持此姿態一秒鍾。返回初始姿態。\n";
+"Dumbbells Bent Over Row"="啞鈴劃船\n";
+"1. Grab and hold a pair of dumbbells and hold forward at your waist, but keep your back flat. Have your arms extended straight downward with palms facing in towards one another.2. Lift the dumbbells up to the sides of your chest and return them to their extended start position while keeping your back stable and straight throughout."="1.雙手各握一個啞鈴，置於腰前，保持背部挺直。手臂往下伸直，雙掌相對。\n\n2. 往上擡高啞鈴至胸部側邊，然後返回初始的伸展姿態，始終保持背部挺直。\n";
+"Seated Bent Over Row"="坐姿啞鈴劃船\n";
+"1. Sit on the end of a bench with your knees bent, feet flat on the floor and place a pair of dumbbells on the floor at your sides. Bend forward at the waist as far as you can until your back is almost parallel to  the floor - your chest should touch your legs. Reach down, grab a weight in each hand, and let your arms hang straight down.2. Turn the weights so that your palms face in.3. Without moving anything but your arms, slowly pull the dumbbells up close to your body to the sides of your chest.4. Hold for a second, then lower the weights back down."="1. 坐在凳子尾端，彎膝，雙腳平放於地板，將兩個啞鈴置於身體雙側的地板上。盡可能地往前彎腰，直到你的背部與地板略呈直線 – 胸部應觸及腳。雙手各握一個啞鈴，手臂垂直。\n\n2. 轉動啞鈴以至雙掌向內。\n\n3. 勿移動除手臂外的身體部分，緩慢地將啞鈴往上擡舉至胸部兩側，始終保持啞鈴緊貼身體。\n\n4. 保持數秒種。然後將啞鈴放下。\n";
+"Stability Ball Hyperextension"="訓練球彎舉\n";
+"1. Lie prone on the stability ball. Your entire upper body should be on the stability ball. Hold your arms over your head.2. Bend your upper body up until your chest is no longer in contact with the stability ball. Hold for one second. Return to starting position."="1. 俯臥於訓練球上。全上半身應靠在訓練球上。雙臂舉過頭頂。\n\n2. 往上屈上半身，直到胸部不再觸及訓練球。保持此姿態數秒種。返回初始姿態。\n";
+"T-Bar Bent Over Row"="T杠俯身劃船\n";
+"1. Straddle a T-Bar-Row machine and grab the handles with an overhand grip. Make sure you are standing with your feet shoulder-width apart and your knees slightly bent, as shown.2. Keep your back flat and bend your waist until your upper body is about 45 degrees from the vertical, the bar hanging at arm’s length directly below your shoulders.3. Then, squeezing your shoulder blades together, lift the bar as close as you can to your lower chest. Pause, then slowly lower the bar back to the starting position."="1. 跪坐在T杠訓練器上，正握杠鈴。確保雙腳與肩同寬，雙膝稍屈，如圖所示。\n\n2. 保持背部挺直，彎腰直到上半身與地面呈平行，使杠鈴與肩膀保持手臂長度。\n\n3. 收緊肩胛，盡可能將杠鈴擡舉至胸部下方。暫停，然後緩慢地將杠鈴放回初始位置。\n";
+"Dumbbell Biceps Curl (Hammer Grip On Bench)"="上臂啞鈴彎舉（斜板錘式握法）\n";
+"1. While standing with back straight, hold one dumbbell with hammer grip. Rest upper arm on the top of the incline bench.2. Lift dumbbell up while keeping your upper arms in place. Hold for one second. Lower dub bell back to starting position."="1. 以站姿開始，保持背部挺直，采取錘式握法握著啞鈴。上臂置於斜板上。\n\n2. 彎舉杠鈴，確保上臂不動。保持數秒種。將杠鈴放回初始位置。\n";
+"Dumbbell Biceps Curl (Hammer Grip Standing)"="上臂啞鈴彎舉（站姿錘式握法）\n";
+"1. While standing with back straight, hold dumbbells at your sides with a hammer grip. Keep arms straights.2. Lift dumbbells up while keeping your upper arms in place. Refrain from using your shoulders during the movement. 3. Hold for one second and returned to starting position."="1. 站姿，保持背部挺直，采取錘事握法，雙手各握一個啞鈴，置於身體兩側。保持手臂伸直。\n\n2. 彎舉啞鈴，保持上臂不動。在進行鍛煉期間，不准移動肩膀。\n\n3. 保持此姿態數秒種，然後返回初始姿態。\n";
+"Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="上臂啞鈴彎舉（單臂反握）\n";
+"1. Bend your knees slightly. Keep back bent and straight. Hold one dumbbell with underhand grip. Position elbow at the inner thigh.2. Lift dumbbell up while keeping your upper arm in place. Hold for one second. Return to starting position."="1. 稍微屈膝。保持背部彎曲與挺直。單手反握啞鈴。手肘置於大腿內側。\n\n2. 彎舉啞鈴，保持上臂不動。保持此姿態數秒種。返回初始姿態。\n";
+"Dumbbell Biceps Curl (Underhand Grip On Bench)"="上臂啞鈴彎舉（板凳反握）\n";
+"1. While standing with back straight, hold one dumbbell with underhand grip. Rest upper arm on the top of the incline bench.2. Lift dumbbell up while keeping your upper arms in place. Hold for one second. Lower dub bell back to starting position."="1. 站姿，背部挺直。反握一個啞鈴。上臂置於斜板上。\n\n2. 彎舉啞鈴，確保上臂不動。保持此姿態數秒種。將啞鈴放回初始位置。\n";
+"Dumbbell Biceps Curl Seated (Hammer Grip)"="坐姿上臂啞鈴彎舉（錘式握）\n";
+"1. While seated with back straight, let dumbbells hang next to you with a hummer grip. Keep arms straight.2. Lift dumbbells up while keeping your upper arms in place. Refrain from using your shoulders during the movement. Hold for one second, then return to starting position."="1. 采取坐姿，背部挺直。錘式握著啞鈴。保持手臂伸直。\n\n2. 彎舉啞鈴，保持上臂不動。在進行鍛煉期間，不准移動肩膀。保持此姿態數秒種，然後返回初始姿態。\n";
+"Dumbbell Biceps Curl Seated (Underhand Grip)"="坐姿上臂啞鈴彎舉（反握）\n";
+"1. While seated with back straight, let dumbbells hang next to you with an underhand grip. Keep arms straight.2. Lift dumbbells up while keeping your upper arms in place. Refrain from using your shoulders during the movement. Hold for one second, then return to starting position."="1. 采取坐姿，背部挺直。反握啞鈴，啞鈴於身體兩側垂下。保持手臂伸直。\n\n2. 彎舉啞鈴，保持上臂不動。在進行鍛煉期間，不准移動肩膀。保持此姿態數秒種，然後返回初始姿態。\n";
+"Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="訓練球上臂啞鈴彎舉（錘式握）\n";
+"1. Hold one dumbbell with hammer grip. Kneel behind the stability ball. Position upper arm on stability ball.2. Lift dumbbell up while keeping your upper arm in place. Refrain from using your shoulder during the movement. Hold for one second. Return to starting position."="1. 錘式握一個啞鈴。在訓練球後方屈膝。上臂置於訓練球上。\n\n2. 彎舉啞鈴，保持上臂不動。在進行鍛煉期間，不准移動肩膀。保持此姿態數秒種，然後返回初始姿態。\n";
+"Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="訓練球上臂啞鈴彎舉（反握）\n";
+"1. Hold one dumbbell with underhand grip. Kneel behind the stability ball. Position upper arm on stability ball.2. Lift dumbbell up while keeping your upper arm in place. Refrain from using your shoulder during the movement. Hold for one second. Return to starting position."="1. 反握一個啞鈴。在訓練球後方屈膝。上臂置於訓練球上。\n\n2. 彎舉啞鈴，保持上臂不動。在進行鍛煉期間，不准移動肩膀。保持此姿態數秒種，然後返回初始姿態。\n";
+"Stability Ball Dumbbell Biceps Curl Seated"="坐姿訓練球上臂啞鈴彎舉\n";
+"1. While sitting upright on a stability ball, grab and hold of a pair of dumbbells so that your arms are fully extended by your side. The palms of your hands should be facing outward, as illustrated.2. Gradually curl your arms at the elbow, facing the dumbbells to shoulders level while not changing the position of your arms. The arm should simply bend at the elbow without moving in any other direction. Do not turn your wrists as you are raising the dumbbells."="1. 背部挺直，坐在訓練球上，雙手各握一個啞鈴，身體兩側的手臂伸直。手掌朝外，如圖所示。\n\n2. 緩慢地屈肘以彎舉手臂，啞鈴朝向肩膀水平，而不改變手臂的位置。僅僅是屈肘以彎曲手臂，而不向其它方向移動。在擡舉啞鈴時，勿轉動手腕。\n";
+"Stability Ball Dumbbell Biceps Preachear Curl"="訓練球上臂啞鈴斜托彎舉\n";
+"1. Place a pair of dumbbells on the floor in front of a ball. Kneel directly behind the ball, and drape your arms over it to grab the dumbbells in an underhand grip. Let out weight move back toward your heels as you brace your triceps on the ball, forearms down.2. Keep your back straight as you curl the weights up until your forearms are just short of perpendicular to the floor. "="1. 將兩個啞鈴置於訓練球前側的地板上。在訓練球後方屈膝，手臂跨過訓練球以反握啞鈴。使啞鈴朝腳後跟移動，並將三頭肌置於訓練球上，前臂放下。\n\n2. 保持背部挺直，彎舉啞鈴直到前臂幾乎垂直於地面。\n";
+"Underhand Grip Prone On An Incline Bench"="俯臥於斜板反握\n";
+"1. Lie down on the floor. One foot is flat on the floor while the other leg is straight. Use your hands to stabilise your position.2. Raise your straight leg until your lower back is off the ground. Hold for one second. Return to starting position. "="1. 俯臥於下斜椅上。反握啞鈴，啞鈴懸掛於身體兩側。保持手臂伸直。\n\n2. 緩慢地抬舉啞鈴。手腕始終保持固定，勿轉動它們，保持上臂垂直於地面。\n";
+"Barbell Calf Raise (Seated)"="杠鈴交互提踵（坐姿）\n";
+"1. While seated with back straight, centre the barbell on your lower things. Use your hands to stabilize any barbell movement.2. Raise your calves by tiptoeing. Hold for one second. Lower your calves back to the ground."="1. 采取坐姿，背部挺直，杠鈴置於大腿下部。在操作杠鈴時，用雙手平衡身體。\n\n2. 踮腳尖，提踵。保持此姿態數秒種。使小腿放回地面上。\n";
+"Barbell Calf Raise With Single Leg (Seated)"="單腳杠鈴提踵（坐姿）\n";
+"1. While seated with back straight, centre the barbell on one of your lower things. Use your hands to stabilize any barbell movement.2. Raise your calves by tiptoeing. Hold for one second. Lower your calves back to the ground.3. Repeat the same with the over leg."="1. 采取坐姿，背部挺直，杠鈴置於大腿下部。在操作杠鈴時，用雙手平衡身體。\n\n2. 踮腳尖，提踵。保持此姿態數秒種。使小腿放回地面上。\n\n3. 換另一只腳重複動作。\n";
+"Dumbbell Calf Jump"="啞鈴彈跳\n";
+"1. Stand with your feet hip-width apart. Grab a pair of dumbbells and hold them at your sides at arm’s length.2. Dip your knees so they are bent about 45 degrees and jump as high as you can. Point your toes toward the floor when you jump.3. Allow your knees to bend 45 degrees when your land, then immediately jump again."="1. 采取站姿，雙腳與髋同寬。雙手各握一個啞鈴，伸直手臂握著啞鈴。\n\n2. 屈膝，以至膝蓋呈45度，盡力跳高。在跳躍時，腳趾朝向地板。\n\n3. 在著地時，膝蓋呈45度，然後立即再次跳高。\n";
+"Dumbbell Calf Raise (Seated)"="啞鈴提踵（坐姿）\n";
+"1. While seated with back straight, centre one dumbbell on each of your lower thighs. Use your hands to stabilize any movement.2. Raise your calves by tiptoeing. Hold for one second. Return to starting position."="1. 采取坐姿，背部挺直，兩個杠鈴個別置於兩只大腿下部。在移動杠鈴時，用雙手平衡身體。\n\n2. 踮腳尖，提踵。保持此姿態數秒種。小腿放回地面上。\n";
+"Standing Barbell Calf Raise"="站姿杠鈴提踵\n";
+"1. While standing with back straight, position barbell on top of your shoulders. Hold barbell with overhand grip. Distance between hands should be wider than shoulder width apart.2. Raise your calves by tiptoeing. Hold for one second. Lower your calves back to the ground."="1. 保持站姿，背部挺直，杠鈴置於肩膀上方。反握杠鈴。雙手距離比肩膀寬。\n\n2. 踮腳尖，提踵。保持此姿態數秒種。小腿放回地面上。\n";
+"Standing Dumbbell Calf Raise"="站姿杠鈴提踵\n";
+"1. Stand straight with your feet hip-width apart and hold a heavy dumbbell in each hand, arms by your sides.2. Keeping your back straight, slowly rise up on the toes of both feet, raising your heels as high as you can.3. Pause at the top, then slowly lower your heels back down."="1. 站直，雙腳與髋同寬，雙手握著杠鈴，雙臂置於身體兩側。\n\n2. 保持背部挺直，緩慢地擡舉兩只腳的腳趾，盡力擡高腳跟。\n\n3. 暫停，然後緩慢地降低腳跟。\n";
+"Single Arm Pushup"="單臂俯臥撐\n";
+"1. Assume the standard push-up positions: prone, feet together, hands on the floor just below the level of your shoulders and about shoulders' width apart. Move your feet apart, a little more than shoulders' width.2. Lift one hand and rest it on the small of your back.3. Using the other hand, push your body up from the floor, keeping your back straight. Stop just before you \"lock out\" your elbow at the top of the movement.4. Lower your body with the one arm. To maintain your balance, turn your torso slightly away from the pushing arm.5. Continue lowering yourself until your chin is about a fist's width above the floor. Since you angled your torso, your chin should be about where the hand you now have behind your back was when you started the exercise. This is one repetition.6. Go back to step one and repeat using your other arm."="1. 以標准的俯臥撐姿態開始，俯臥，雙腳緊靠，雙手置於地板上及略低於肩膀水平，雙手與肩同寬。雙腳稍微打開，比肩膀略寬。\n\n2. 擡高一只手，將這只手放在腰背部上。\n\n3. 用另一只手將身體擡離地面，保持背部挺直。在移動到最上方並鎖定手肘前，暫停動作。\n\n4. 用單臂降低身體。爲保持身體平衡，使軀幹稍微遠離用於掌著地面的手臂。\n\n5. 繼續降低身體，直到你的下巴距離地面約一個掌頭的距離。由於你彎曲軀幹，下巴須幾乎處於初始位置。這是一次重複動作。\n\n6. 返回第一個步驟，換另一只手重複動作。\n";
+"Decline Pushup"="下斜俯臥撐\n";
+"1. Place your feet on a bench or any elevated step and get into a standard pushup position.2. Lower your body until your chest nearly touches the floor, pause, then push yourself back to the starting position. Maintain proper form throughout by preventing your hips from sag gin at any point, keep your core stiff by bracing your abdominal muscles and straighten your legs while placing your weight on your toes."="1. 雙腳放在凳子或斜板上，進入標准的俯臥撐姿態。\n\n2. 降低身體直到胸部幾乎觸及地面，暫停，返回初始位置。始終保持恰當的姿態以防止髋部擺動，收緊腹肌，伸直雙腳並用腳趾支撐體重，以確保重心穩定。\n";
+"Dive Bomber Pushup"="俯沖轟炸機式俯臥撐\n";
+"1. Position yourself in pushup position but ensure that your hands are placed farther in front and wider that your shoulders. Raise your hips as you move your feet forward as far as possible. Keep your back and legs straight throughout the movement.2. Move your chest downward and forward until nearly touching the floor. Your shoulders should be inline with your hands.3. Pause, then push out your hips downward and straighten your arms. Pause again, then revers the movement until you’ve come back to the starting position."="1. 以俯臥撐姿態開始，但確保雙手置於更前側，並比肩寬。雙腳盡可能遠地移前，以擡高髋部。始終保持後背與雙腳直。\n\n2. 胸部往下與往前移動，直到它幾乎觸及地面。肩膀應與雙手平行。\n\n3. 暫停，向下推動髋部，伸直手臂。再次暫停，然後作出反向動作，直到你返回初始位置。\n";
+"Dumbbell Floor Chest Press"="啞鈴平地胸部推舉\n";
+"1. Lie down on the floor. Grasp the dumbbells with overhand grip. Rest your upper arms on the floor while pointing dumbbells toward the ceiling.2. Fully extend arms towards the ceiling. Hold for one second. Keep your entire back on the bench at all times. Refrain from any leg movement. Return to starting position."="1. 躺在地板上。反握啞鈴。上臂放在地板上，使啞鈴朝上。\n\n2. 朝上伸展手臂。保持數秒種。始終保持全背部躺在板凳上。禁止移動雙腳。然後返回初始位置。\n";
+"Dumbbell Pushup"="啞鈴俯臥撐\n";
+"1. With two dumbbells places shoulder-width apart on the florin front of you, kneel down and hold onto them. Keep your arms straight, legs extended, feet fairly together and lock your elbows.2. Lower your body to the floor by placing a bend in your elbows and keeping your back straight.3. Push yourself back up until your arms are straight and elbows unlocked. Repeat."="1. 將兩個啞鈴置於身體前側，啞鈴距離與肩同寬，跪下並握著啞鈴。保持手臂伸直，雙腳伸展並略靠著，鎖定手肘。\n\n2. 屈肘，保持背部挺直，降低身體至地面。\n\n3. 擡舉身體，直到手臂伸直及不鎖定手肘。重複動作。\n";
+"Incline Pushup"="下斜俯臥撐\n";
+"1. Place your hands on a bench and get into a standard pushup position.2. Lower your body until your chest nearly touches the bench, pause, then push yourself back to the starting position. Maintaining proper form throughout  by preventing your hips from sagging at any point, keep your core stiff by bracing your abdominal muscles and straighten your legs while your weight on your toes. Repeat."="1. 雙手置於板凳上，進入標准的俯臥撐姿態。\n\n2. 降低身體直到胸部幾乎觸及板凳，暫停，然後返回初始姿態。始終保持恰當的姿態以防止髋部擺動，收緊腹肌，伸直雙腳並用腳趾支撐體重，以確保重心穩定。重複動作。\n";
+"Medicine Ball Pushup (Alternating)"="推球俯臥撐（交互）\n";
+"1. Lie down with your hands on the floor. Position hands next to lower chest. Distance between your hands should be slightly wider than shoulder width apart. Lift yourself with your arms so that only your hands and toes are on the floor. Maintain a straight back. Position the medicine ball under ones hand. Hands point slightly outward.2. Lower yourself until your chest is inches away from the floor by bending your elbows. The elbows should bend toward your feet. Hold for one second. Return to starting position.3. Roll the ball over to the over hand and repeat same movements."="1. 臥躺，雙手放在地板上。雙手置於胸部下方的兩側。雙手距離與肩同寬。用手臂擡舉身體，以至僅雙手及腳趾觸及地面。保持背部挺直。使推球處於單手下方。雙手稍微朝外。\n\n2. 屈肘，降低你的身體直到胸部幾乎觸及地面。手肘應朝腳部彎曲。保持此姿態數秒種。返回初始姿態。\n\n3. 用手滾轉推球，重複相同動作。\n";
+"Modified Pushup"="替代性俯臥撐\n";
+"1. Get down on all fours and place your hands on the floor so that they are slightly wider than your shoulders. cross your ankles behind you as illustrated.2. Lower body until your chest nearly touches the ground, pause, then push yourself back to the starting position. Keep your core stiff by bracing your abdominal muscles."="1. 四肢觸地，雙手放在地板上，雙手距離比肩略寬。如圖所示，交叉腳踝。\n\n2. 降低身體直到胸部幾乎觸及地面，暫停，然後使身體返回初始位置。收緊腹肌，以穩定重心。\n";
+"Stability Ball Flat Dumbbell Chest Press"="穩定球平板啞鈴臥推\n";
+"1. Lie back on the stability ball. Feet are one the floor. Grasp the dumbbells with overhand grip. Hold the dumbbells next to your chest.2. Fully extend your arms in front of you. Hold for a brief moment. Return to starting position."="1. 俯臥於穩定球上。雙腳置於地板上。正握啞鈴，將啞鈴置於胸部側邊。\n\n2. 伸展前側的手臂。暫停片刻。返回初始位置。\n";
+"Stability Ball Flat Dumbbell Fly"="穩定球飛鳥\n";
+"1. Lie back on the stability ball. Feet are on the floor. Hold onto two dumbbells with a hammer grip. Full extend your arms above your chest.2. While maintaining a slight bend in your elbows, lower dumbbells to each side until the dumbbells are next to your upper body. Hold for one second. Return to starting position."="1. 臥躺於穩定球上。雙腳置於地板上。錘式握著兩個啞鈴。朝胸部上方伸展手臂。\n\n2. 保持手肘略屈，降低啞鈴直到啞鈴處於上半身兩側。保持此姿態數秒種。返回初始姿態。\n";
+"Stability Ball Pushup"="穩定球俯臥撐\n";
+"1. Place yourself in standard pushup position. To make it harder, place your shins and feet on the ball. Remember to support your body with the balls of your feet and your hands, and keep the latter shoulder-width apart, palms flat on the floor.2. Lower your torso until your chest is just a fraction of a an inch off the floor. Push yourself back to starting position."="1. 讓自己處於標准俯臥撐的姿態。爲增強鍛煉，將小腿與腳放在穩定球上。切記用腳前掌與雙手平衡身體，保持雙手與肩同寬，手掌平放在地板上。\n\n2. 降低軀幹，直到胸部幾乎觸及地面。返回初始姿態。\n";
+"Weighted Pushup"="負重俯臥撐\n";
+"1. Go into standard pushup position, with hands beneath your shoulders. This time though, ask a partner to place a weight plate on your back, between your shoulder blades.2. Keep your body straight as you lower yourself by bending your elbow until your chest touches the floor.3. Pause, then push yourself up."="1. 進入標准的俯臥撐姿態，即雙手置於肩膀下方。但這次吩咐你的夥伴將負重放在你的背上，即肩胛之間。\n\n2. 屈肘以降低身體直到胸部觸及地面，保持背部挺直。\n\n3. 暫停，然後擡舉身體。\n";
+"Dumbbell Wrist Twist"="啞鈴旋腕\n";
+"1. Stand with a light dumbbell in each hand with your arms at your sides, palms facing behind you. Bend your arms to curl the weights up until your forearms are parallel to the floor. This is the starting position.2. Rotate your wrists until your palms face the ceiling, then rotate them back so your palms face the floor once again. That’s one repetition."="1. 采取站姿，雙手各握一個輕的啞鈴，手臂置於身體兩側，手肘朝向自己。屈臂以彎舉負重，直到前臂與地板平行。這是初始姿態。\n\n2. 旋腕，直到手掌朝上。然後再次旋腕以至手掌朝下。這是一次重複動作。\n";
+"Standing Wrist Curl"="站姿手腕彎舉\n";
+"1. Grab a barbell from your behind using an underhand grip while keeping your arms straight. Hang the barbell so that it rests on your extended fingers.2. Flex your wrists to raise the barbell up as high as possible.3. Reverse the movement to lower the barbell."="1. 反握杠鈴，保持手臂伸直。杠鈴垂直於伸展的手指之間。\n\n2. 屈腕以將杠鈴盡可能高地彎舉。\n\n3. 作反向動作以降低杠鈴。\n";
+"Barbell Hack Squat"="杠鈴後拉深蹲\n";
+"1. Stand straight with get shoulder width apart. Hold barbell with overhand grip. Place barbell behind your hamstrings. Distance between your hands should be wider than shoulder width apart.2. Lower yourself by bending your knees. You back is straight throughout the whole movement. Stop when your thighs are parallel with the ground or when the barbell touches the floor. When you return to the starting position, generate energy with your lower back."="1 站直，，雙腳距離與肩同寬。正握杠鈴。將杠鈴放在腿腱後方。雙手距離比肩寬。\n\n2. 屈膝，以降低身體。始終保持背部挺直。當大腿與地面呈平行或杠鈴觸及地面時，暫停。用下背部的力量來返回初始位置。\n";
+"Barbell Lunge"="箭步蹲\n";
+"1. Start by placing a barbell across your upper back, use an overhand grip slightly wider than your shoulders.2. Stand with your feet about 8 inches apart, toes facing forward.3. Take a step forward (2-3 feet) keeping your abs drawn in and your upper body straight.4. Slowly lower one knee down as if kneeling while keeping your other knee bent at a 90 degrees angle, do not let your knee touch the ground.5. Lower your body to just above the floor and hold for a moment before returning to the starting position. Repeat with the other leg."="1. 以杠鈴置於上背的後方開始，正握杠鈴，雙手距離稍微比肩寬。\n\n2. 采取站姿，雙腳距離越8英寸，腳趾朝前。\n\n3. 前進一步）2-3英寸），收緊腹肌，上背挺直。\n\n4. 緩慢地降低單膝，好似跪下，同時確保另一個膝蓋彎曲90度，勿讓膝蓋觸及地面。\n\n5. 身體降低至幾乎觸及地面，保持數秒種，返回初始昨天。換另一只腳重複動作。\n";
+"Barbell Squat (Assisted)"="杠鈴深蹲（輔助）\n";
+"1. Stand straight with a flat bench behind you. Feet are shoulder width apart. Place barbell on the back of your shoulders. Hold barbell with overhand grip. Distance between your hands should be wider than shoulder wide apart. Adjust feet to face slightly outward.2. Lower yourself by bending your knees. Your back is straight throughout the whole movement. Stop when your thighs are parallel with the ground or when your behind touches the bench. When you return to the starting position, generate energy from your lower back."="1. 站直，平椅置於你後方。雙腳與肩同寬。杠鈴置於肩膀後方。正握杠鈴。雙手距離比肩寬。腳朝外。\n\n2. 屈膝，以降低身體。始終保持背部挺直。當大腿與地面呈平行或杠鈴觸及地面時，暫停。用下背部的力量來返回初始位置。\n";
+"Barbell Squat Overhead"="杠鈴過頸深蹲\n";
+"1. Stand straight with feet shoulder width spar. Hold barbell with overhand grip. Distance between your hands should be wider than shoulder width apart. adjust feet to face slightly outward. Lift barbell overhead with arms fully extended.2. Lower yourself by bending your knees. Your back is straight throughout the whole movement. Stop when your thighs are parallel with the ground. When you return to the starting position, generate energy with your lower back."="1. 站直，雙腳距離與肩同寬。正握杠鈴。雙手距離比肩寬。腳稍微朝外。手臂伸展，擡舉杠鈴過頭頂。\n\n2. 屈膝，以降低身體。始終保持背部挺直。當大腿與地面呈平行或杠鈴觸及地面時，暫停。用下背部的力量來返回初始位置。\n";
+"Bench Jump"="板凳跳躍\n";
+"1. Stand in front of a bench.2. Jump onto the bench and immediately jump back to the starting position on the floor.3. Repeat multiple times."="1. 站在板凳前方。\n\n2. 跳上板凳，然後立即跳回初始位置，即地板上。\n\n3. 重複此動作數次。\n";
+"Bulgarian Split Squat"="保加利亞深蹲\n";
+"1. Stand upright about 2-3 feet in front of a bench, with a dumbbell held in each hand. Extend your right foot backward and rest the top of your foot on the bench.2. Keep your back straight and your head held up as your slowly bend your left leg and lower yourself into a lunge position. Stop lowering yourself when your left thigh is roughly parallel to the floor.3. Slowly press yourself back up until your left leg is straight once again, and repeat. Remember to switch legs and give your other leg a workout as well."="1. 站在板凳前側大約2-3英尺，保持背部挺直，雙手各握一個啞鈴。右腳往後伸展，另一只腳放在板凳上。\n\n2. 當你緩慢地屈左腳時或降低身體以進入弓箭步姿態時，保持背部挺直並昂頭。當左大腿約與地面呈平行時，暫停。\n\n3. 緩慢地提高身體，直到左腳再次伸直，然後重複動作。切記換腳鍛煉。\n";
+"Bulgarian Split Squat (No Weights)"="保加利亞深蹲（無負重）\n";
+"1. Place one foot on the floor, roughly 3 feet in front of a chair, and balance with your other foot on a chair behind you, as illustrated. Your hands should be held behind your head. 2. Use your front foot for balance as you bend both knees to lower your body straight down until your back knee is a few inches off the floor and your front leg is bent roughly 90 degrees. The rest of your body should form a straight line. Finish the set, then switch your leg positions and repeat."="1. 如圖所示，單腳放在地板上，約椅子前側3英尺，另一只腳放在你後方的椅子上以平衡身體。雙手放在頭後。\n\n2. 屈膝以使身體直下，直到後膝距離地面僅數英尺，及前腳彎曲約90度，同時用前腳平衡身體。身體其余部分應呈直線。完成一次鍛煉，然後換腳，重複動作。\n";
+"Dumbbell Side Lunge"="啞鈴側弓步\n";
+"1. Standing upright, hold a pair of dumbbells by your side with arms extended downward.2. Step to one side and lower your body as your lean your torso slightly forward. Keep the stationary leg straight throughout the movement.3. Push off of the bent leg to return to the starting position. Repeat with the other leg."="1. 站直，雙手各握一個啞鈴並將啞鈴置於身體兩側，手臂向下伸直。\n\n2. 向其中一側邁向一步，軀幹稍微向前傾並降低身體。始終保持固定的腳伸直。\n\n3. 屈腿蹬地以返回初始位置。換腳重複動作。\n";
+"Good Morning"="早安\n";
+"1. Hold a barbell with an overhand grip so that it rests on your upper back and not on your neck. Set your feet at shoulder width apart and knees slightly bent while keeping your back straight. 2. Gradually bend forward using your hips to lower your chest while maintaining the natural arch in your lower back. Keep your head up and maintain about the same angle of your knees.3. Lift your upper body back into starting position."="1.正握杠鈴，杠鈴置於上背而不是頸上。雙腳距離與肩同寬，膝稍屈，同時保持背部挺直。\n\n2. 用髋部降低胸部以逐漸前傾，同時保持下背呈自然拱形。保持昂頭，確保膝蓋角度始終相同。\n\n3. 擡高上背以返回初始位置。\n";
+"One Arm Side Deadlift"="單臂側硬舉\n";
+"1. Stand besides a barbell placed on the floor.2. Grasp the bar with an overhand grip from the center. 3. Crouching down as if your were performing a squat, bend down so your thighs are parallel with the floor. 4. Extend your legs slowly as you straighten your body up, drawing in your abs as you rise."="1. 站在杠鈴側邊。\n\n2. 正握杠杆的中間。\n\n3. 蹲下，掘身以至大腿與地板呈平行。\n\n4. 收緊腹肌並緩慢地伸展雙腳以直起身體。\n";
+"Single Leg Squat"="單臂深蹲\n";
+"1. Stand with your feet shoulder width apart. Lift your stronger or dominant leg straight out in front of your, as high as possible.2. Such air into the stomach, then push your hips back and squat down as far as possible while keeping your torso as upright as possible. The heel of your front leg can touch the floor at the bottom of the squat, if you can get down that far.3. Return to the starting position and exhale. Do all your repetitions with your non dominant leg, then repeat with your dominant leg."="1. 站立，雙腳與肩同寬。盡可能高地向前擡舉單腳。\n\n2. 用腹部吸氣，臂部往後推並盡可能地蹲下，同時盡力保持軀幹挺直。深蹲時前腳踵可觸及地面，若你能蹲地很下。\n\n3. 呼氣，返回初始位置。換另一只腳重複動作。\n";
+"Arnold Press"="阿諾德推舉\n";
+"1. Sit on a flat bench and hold a pair of dumbbells at the level of your shoulders. Your palms should be facing the inward, and your elbows should point to the side.2. Turn both of your wrist outward until your palms face away from you. At the same time, fully extend arms overhead. Hold for one second. Return to the starting position."="1. 坐在平凳上，雙手各握一個啞鈴，與肩膀同高。手掌相對，手肘應朝側邊。\n\n2. 向外轉動兩個手腕，直到手掌朝向遠離自己的地方。同時，伸展手臂過頭頂。保持此姿態數秒種。返回初始姿態。\n";
+"Barbell Front Raise"="杠鈴前平舉\n";
+"1. Hold a barbell with a full overhand, shoulder-width grip, and stand with the barbell hanging in front of your thighs. Your feet should be shoulders-width apart with your knees slightly bent. Pull in your abs and tighten all your upper body muscles, and slightly bend your elbows.2. Raise the bar in front of you until your arms are parallel to the floor.3. Pause, then return to the starting position."="1. 站姿，正握杠鈴，雙手距離與肩同寬，杠鈴置於大腿前側。雙腳與肩同寬，膝略屈。收緊腹肌及上半身的肌肉，稍微彎曲手肘。\n\n2. 擡舉前側的杠鈴，直到手臂與地面呈平行。\n\n3. 暫停，返回初始位置。\n";
+"Dumbbell Lateral Raise With Arms Bent"="啞鈴側平舉，屈臂。\n";
+"1. Keep your legs at shoulders width apart. Your hands should be hanging down at your sides.2. Keeping your arms perfectly straight; slowly raise the dumbbells out and up to the level of your shoulders and at the same time bent your arms until they form a 90 degrees angle and your forearms are parallel with your body.  Keep your palms facing the ground.3. Keeping your elbows bent, lower slowly back to the start position and repeat for the desired number of reps."="1. 雙腳與肩同寬。雙手垂直於身體兩側。\n\n2. 確保手臂伸直，緩慢地擡舉啞鈴至肩膀水平，同時屈臂直到手臂呈90度及前臂與身體呈平行。保持手掌朝地。\n\n3. 保持屈肘，緩慢地降回初始位置，重複目標鍛煉次數。\n";
+"Dumbbell Scarecrow"="啞鈴稻草人\n";
+"1. While staring straight with feet shoulder width apart, hold dumbbells in front of your things with overhand grip. Raise your arms to your sides until your upper arms are parallel with the floor.2. Rotate your elbows forward until your forearms point straight up. Hold for one second. Return to starting position."="1. 盯著前直方，雙腳與肩同寬，正握啞鈴，啞鈴置於大腿前側。手臂擡到身體兩側，直到上臂與地面呈平行。\n\n2. 朝前轉動手肘，直到前臂朝上。保持此姿態數秒種。返回初始姿態。\n";
+"Dumbbell Shoulder Press"="啞鈴肩部推舉\n";
+"1. Stand straight with feet shoulder width apart. Hold dumbbells with overhand grip. Position dumbbells next to the sides of your head.2. Left dumbbells overhead until your arms are fully extended. Hold for one second. Return to starting position."="1. 站直，雙腳與肩同寬。正握啞鈴。啞鈴置於頭部側邊。\n\n2. 擡舉啞鈴過頭頂直到手臂完全伸展。保持此姿態數秒種。返回初始位置。\n";
+"Front Weighted Raise"="負重前舉\n";
+"1. While standing with back straight, hold the weight with both hands. Weight is positioned in from of your thighs. 2.Raise your arms in front of you until they are parallel with the ground. Hold for one second. Return to starting position."="1. 采取站姿，背部挺直，雙手各握負重。使負重置於大腿前側。\n\n2. 向前擡舉手臂直到手臂與地面呈平行。保持此姿態數秒種。返回初始位置。\n";
+"Lateral Weighted Raise"="負重側舉\n";
+"1. While staring with back straight, hold the weight with one hand. Weight is positioned next to your side.2. Raise your arm out to the side. Keep your arm straight. Hold for one second. Return to starting position."="1. 采取站姿，背部挺直，單手握著負重。負重置於身體側邊。\n\n2. 手臂向外舉起。確保手臂伸直。保持此姿態數秒種。返回初始姿態。\n";
+"Military Press Behind The Neck (Standing)"="頸後推舉（站姿）\n";
+"1. Standing upright, hold a barbell behind your head at shoulder height with your hands shoulder width apart, elbows bent, and palms facing forward.2. Press the barbell overhead, extending your arms fully. Keep your back straight and remain upright throughout the movement.  "="1. 站直，握著杠鈴，將杠鈴置於頭後的肩膀水平，雙手與肩同寬，屈肘，手掌向前。\n\n2.推舉杠鈴超過頭頂，完全伸展手臂。始終保持背部挺直。\n";
+"Seated Dumbbell Front Raise"="坐姿啞鈴前舉\n";
+"1. Grab a pair of dumbbells and take a seated position on an incline bench with arms straight and at your sides, thumbs in.2. Keeping your elbows straight, raise the dumbbells up and forward until your hands are at about eye level.3. Keep the backs of your wrists flat and elbows straight throughout the movement. Return to starting position."="1. 坐在斜板上，雙手各握一個啞鈴，手臂伸直並置於身體兩側。\n\n2. 保持手肘伸直，向前擡舉啞鈴，直到雙手處於眼睛水平。\n\n3. 始終保持手腕後部平直及手肘伸直。返回初始位置。\n";
+"Stability Ball Lateral Raise"="穩定球側舉\n";
+"1. Sit on a stability ball with a light dumbbell in each hand. Keep your legs at shoulders width apart for keeping your balance. Your hands should be hanging down at your sides.2. Keeping your arms perfectly straight; slowly raise the dumbbells out and up to the level of your shoulders. Keep your palms facing the ground.3. Keeping your elbows bent, lower slowly back to the start position and repeat for the desired number of reps."="1. 坐在穩定球上，雙手各握一個輕的啞鈴。雙腳與肩同寬，以保持平衡。雙手置於身體兩側。\n\n2. 保持手臂完全伸直，緩慢地向外擡舉啞鈴至肩膀水平。保持手掌朝地。\n\n3. 保持屈肘，緩慢地降回初始位置，重複渴望的鍛煉次數。\n";
+"Diamond Pushup"="鑽石俯臥撐\n";
+"1. Place yourself in the standard pushup position but have your hands placed directly under your chest with your index fingers and thumbs spread and touching so they form a ”diamond”.2. Keep your back flat as you lower your body until your chest is nearly touching your hands.3. Pause, then push yourself back up to the starting position."="1. 以標准的俯臥撐姿態開始，雙手置於胸部下方，拇指與食指張開並相觸以形成鑽石形狀。\n\n2. 在降低身體時保持背部挺直，直到胸部幾乎觸及手。\n\n3. 暫停，然後擡高身體以返回初始位置。\n";
+"Diamond Pushup On Bench"="板凳鑽石俯臥撐\n";
+"1. Place yourself in the standard pushup position but have your hands placed directly under your chest with your index fingers and thumbs spread and touching so they form a “diamond”.2. Keep the toes of your feet on a flat bench. This will put more pressure on your hands while performing the pushups.2. Keep your back flat as you lower your body until your chest is nearly touching your hands.3. Pause, then push yourself back up to the starting position."="1. 以標准的俯臥撐姿態開始，雙手置於胸部下方，拇指與食指張開並相觸以形成鑽石形狀。\n\n2. 在降低身體時保持背部挺直，直到胸部幾乎觸及手。\n\n3 暫停，然後擡高身體以返回初始位置。\n";
+"Dumbbell Row Kickback"="啞鈴劃船後屈伸\n";
+"1. Stand with your feet shoulder-width apart and with your knees slightly bent. Hold a light dumbbell in each hand and bend forward at the waist until your torso is almost straight down with your palms facing in, as illustrated.2. Row the weights straight up until they reach the sides of your chest and your arms are bent at right angles. Ideally your upper arms should be parallel to the floor.3. Immediately perform a kickback manoeuvre by extending your arms straight behind you.4. Squeeze your triceps, then bend your elbows to lower the weights back down so that they   are along your sides once again.5. Lower the weights back down until your arms are hanging straight down below your shoulders."="1. 雙腳與肩同寬，膝略屈。雙手各握一個輕的啞鈴，腰部前傾。直到軀幹幾乎直下，手掌向內，如圖所示。\n\n2. 向上擡舉負重至胸部側邊，手臂彎曲角度恰當。理想的是，上臂應與地面呈平行。\n\n3. 手臂立即往後屈伸。\n\n4. 收緊三頭肌，屈肘以將負重降回身體兩側。\n\n5. 降低負重直到手臂在肩膀下方下垂。\n";
+"Lying Single Arm Pushup"="單臂俯臥撐\n";
+"1. Lie on your side with your knees slightly bent and legs on top of one another. Wrap your bottom arm around your waist and place your other hand on the floor in front of you, slightly bent.2. Begin to straighten that arm, pushing your body up off the floor - make sure you are using your triceps to raise your body and not your back. Hold, then return to starting position.3. After a few reps, switch to the other side and repeat with the other arm."="1. 側臥，膝略屈，腳放在另一腳上。下臂圍繞腰部，另一只手略屈並放在你前方的地板上。\n\n2. 開始使該手臂伸直，身體擡離地面 – 確保你用三頭肌擡舉身體，而不是背部。保持此姿態，然後返回初始位置。\n\n3. 在重複數次鍛煉後，換另一側手臂重複動作。\n";
+"Seated Triceps Extension"="坐姿頸後臂伸展\n";
+"1. Sit on a bench, and grab a pair of dumbbells. Hold them so that they are at arm’s length above your head with palms facing inward together.2. Keep your upper arms stable as you lower the dumbbells behind your head until your forearms are just past parallel to the floor.3. Pause, then straighten your arms to return the dumbbells to starting position."="1. 坐在板凳上，雙手各握一個壓力。手臂完全伸展至頭頂上，手掌相對。\n\n2. 當你降低啞鈴至頭後方直到前臂與地面呈平行時，保持上臂穩定。\n\n3. 暫停，伸直手臂以將啞鈴置於初始位置。\n";
+"Stability Ball French Press"="穩定球法國式推舉\n";
+"1. Lay backward on a stability ball and centre your back on it. Hold a pair of dumbbells in your arms and straighten them over your chest.2. Bend your elbows, bringing the dumbbells down to the sides of your head.3. Straighten your arms, raising the dumbbells back to the start position."="1. 背部躺在穩定球上。雙手各握一個啞鈴，手臂置於胸部上方並伸直。\n\n2. 屈肘，將啞鈴降至頭部側邊。\n\n3. 伸直手臂，擡高啞鈴至初始位置。\n";
+"Stability Ball Pullover"="穩定球提拉\n";
+"1. Lay backward on a stability ball and centre your back on it. Hold a dumbbell in your arms and straighten it over your chest.2. Bend your elbows, bringing the dumbbell down to the center of your head.3. Straighten your arms, raising the dumbbell back to the start position."="1. 背部躺在穩定球上。雙手各握一個啞鈴，手臂置於胸部上方並伸直。\n\n2. 屈肘，將啞鈴降至頭部中心。\n\n3. 伸直手臂，擡高啞鈴至初始位置。\n";
+"Stability Ball Triceps Extension"="訓練球頸後臂屈伸\n";
+"1. Lie back on the stability ball. Feet are on the floor. Hold one dumbbell with both hands. Fully extend arms above your head.2. While keeping your upper arms stationary, lower the dumbbell until it is behind your head. Refrain from using your elbows. Hold for one second. Return to starting position."="1. 躺在訓練球上。雙腳放在地板上。雙手握著一個啞鈴。雙手伸直，舉過頭頂。\n\n2. 保持上臂固定，降低啞鈴直到它處於頭的後方。避免使用手肘。保持此姿態數秒種。返回初始姿態。\n";
+

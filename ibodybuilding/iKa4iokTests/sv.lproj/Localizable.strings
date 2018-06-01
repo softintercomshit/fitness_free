@@ -1,0 +1,96 @@
+/* 
+  Localizable.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/13/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Exercises" = "Övningar";
+"Workouts" = "Träningspass";
+"Custom" = "Anpassad";
+"Done" = "Klar";
+"Back" = "Tillbaka";
+"Title" = "Titel";
+"Downloading video" = "Laddar ner videoklipp";
+"Please wait..." = "Vänligen vänta...";
+"Cancel" = "Avbryt";
+"Bodybuilding" = "Kroppsbyggning";
+"Fitness" = "Fitness";
+"Powerlifting" = "Styrkelyft";
+"2 Days per week" = "2 dagar i veckan";
+"3 Days per week" = "3 dagar i veckan";
+"4 Days per week" = "4 dagar i veckan";
+"Day 1" = "Dag 1";
+"4 sets and 12/10/8/6 reps" = "4 set och 12/10/8/6 reps (repetitioner)";
+"Day 2" = "Dag 2";
+"Day 3" = "Dag 3";
+"Day 4" = "Dag 4";
+"Day" = "Dag";
+"Days" = "Dagar";
+"4 sets and 15 reps" = "4 set och 15 reps";
+"5 sets and 3/3/3/2/1 reps" = "5 set och 3/3/3/2/1 reps";
+"Edit" = "Redigera";
+"My Workout" = "Mitt träningspass";
+"To create new workout press +" = "För att skapa nytt träningspass, tryck +";
+"Save" = "Spara";
+"Workout Name:" = "Namn på träningspass:";
+"Days Number:" = "Antal dagar:";
+"Delete" = "Ta bort";
+"Workout Title:" = "Titel på träningspass:";
+"Options:" = "Alternativ:";
+"Camera/Gallery" = "Kamera/Galleri";
+"Exercise's Photos" = "Övningsfoton";
+"Name, Description, Repetitions" = "Namn, beskrivning, repetitioner";
+"Exercise Name:" = "Namn på övning:";
+"Description:" = "Beskrivning:";
+"Description" = "Beskrivning";
+"Repetitions:" = "Repetitioner:";
+"Error!" = "Fel!";
+"Error" = "Fel";
+"Please fill up the text field!" = "Vänligen fyll i hela textfältet!";
+"Ok" = "Ok";
+"Do you really want to cancel the download process? All progress will be lost!" = "Vill du verkligen avbryta nedladdningsprocessen? Alla framsteg kommer att gå förlorade !";
+"Download all videos" = "Ladda ner alla videoklipp";
+"Unzipping Files" = "Packar upp filer";
+"Files" = "Filer";
+"Downloading Videos" = "Laddar ner videoklipp";
+"All videos were saved successfully!" = "Alla videoklipp sparades!";
+"Add" = "Lägg till";
+"No Camera Support!" = "Inget kamera stöd!";
+"Camera feature is not supported by your device !" = "Din apparat stöder inte kamera funktionen !";
+"Please fill up the exercise name field!" = "Vänligen fyll i övnings namn fältet!";
+"Please check your wi-fi or cellular internet connection!" = "Vänligen kolla din Wifi internet eller cellulära internet anslutning!";
+"Your video is downloading already! Wait until it's done!" = "Videon nedladdas redan! Vänta tills det är klart!";
+"Warning!" = "Varning!";
+"For" = "Under";
+
+"History" =	"Historik";
+"More" =	"Mer";
+"Start" =	"Start";
+"Weight(kg)" =	"Vikt (kg)";
+"Weight(lbs)" =	"Vikt (lbs)";
+"Weight" = "Vikt";
+"Repetitions" =	"Repetitioner";
+"Save" =	"Spara";
+"Last values" =	"Senaste värden";
+"Cancel" =	"Avbryt";
+"Attention" =	"Observera";
+"Would you like to leave without saving?" =	"Vill du lämna utan att spara?";
+"Ok" =	"Ok";
+"Gallery" =	"Galleri";
+"No exercises have been done yet" =	"Inga övningar har gjorts ännu";
+"Performance" =	"Prestation";
+"Send Feedback" =	"Skicka feedback";
+"Report a Bug" =	"Rapportera ett fel";
+"Tell a Friend" =	"Tipsa en vän";
+"Gift this App" =	"Skicka Appen som gåva";
+"Rate us" =	"Ge vitsord";
+"Set seconds" =	"Set sekunder";
+"Stop" =	"Stopp";
+"Check out iBodybuilding=Update" =	"Kolla in iBodybuildingUpdateringar";
+"Check out this application on the App Store:" =	"Kolla in denna ansökan på App Store:";
+"Please note that you have not been added to any email lists." =	"Observera att du inte har lagt till några epostlistor.";
+
+"Fill up all the blank repetitions boxes." = "Fyll i de tomma övningslådorna. ";
+"You can't use values bigger than 500." = "Du kan inte använda värden högre än 500.";
+"You can't input data for future dates." = " Du kan inte mata in data för framtida datum!";

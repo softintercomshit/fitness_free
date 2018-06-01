@@ -1,0 +1,604 @@
+"Abs" =	"หน้าท้อง";
+
+"Incline Bench Sit-Ups" =	"ม้านั่งสำหรับฝึกกล้ามเนื้อหน้าท้องพื้นเอียง";
+
+"Hanging Leg Raises" =	"ท่าฝึกกล้ามเนื้อหน้าท้องแบบห้อยขาและยกขึ้น";
+
+"Dumbbell Side Bends" =	"ท่าฝึกกล้ามเนื้อหน้าท้องแบบยกดัมเบลและบิดไปด้านข้าง";
+
+"Crunches" =	"ท่าฝึกกล้ามเนื้อหน้าท้องแบบงอตัว";
+
+"Sit-Ups" =	"ท่าฝึกกล้ามเนื้อหน้าท้อง Sit-Up";
+
+"Leg Raises" =	"ท่าฝึกกล้ามเนื้อหน้าท้องแบบยกขาขึ้น";
+
+"Flat Bench Lying Leg Raise" =	"ม้านั่งพื้นเรียบแบบนอนราบขาเหยียดตรง";
+
+"Lie on the bench or on the floor with your legs straighten. Position your hands under your butt with your palms down. Keep your legs straight and your knees locked. Raise your feet as vertically as possible."=	"นอนบนม้านั่งหรือบนพื้นโดยที่ขาของคุณเหยียดตรง จัดตำแหน่งมือของคุณให้อยู่ใต้ก้นโดยที่ฝ่ามือแนบกับพื้น เหยียดขาให้ตรงและตรึงเข่าของคุณไว้ ยกเท้าขึ้นในแนวตั้งตรงให้มากเท่าที่จะทำได้";
+
+
+"Seated Jackknife" =	"ท่านั่งแบบมีดพับ";
+
+"Sit on the edge of a bench and hold the seat behind your back for support, extend your legs in front of you, knees bent slightly. Rise your legs toward your chest and bring your chest toward your knees."=	"ให้นั่งที่ส่วนปลายของม้านั่ง จากนั้นจับม้านั่งส่วนที่อยู่ด้านหลังของคุณเพื่อใช้เป็นที่ยึด เหยียดขาออกไปด้านหน้า งอเข่าเล็กน้อย ยกขาของคุณไปทางหน้าอก จากนั้นโน้มหน้าอกเข้าหาเข่า";
+
+"Twisting Hip Raise" = "ท่าฝึกกล้ามเนื้อหน้าท้องบิดและยกสะโพกขึ้น";
+"Lie on your back with your legs projecting straight upward and hands by your sides. Push upward with your feet by raising your hips off the floor simultaneously, twisting them to one side." =	"นอนหลังแนบกับพื้น ยื่นขาตรงขึ้นไปและวางมือที่ข้างตัว ดันไปข้างหน้าด้วยเท้าของคุณโดยการยกสะโพกสูงขึ้นจากพื้นไปพร้อม ๆ กัน และบิดไปด้านใดด้านหนึ่ง";
+
+
+
+"Bodyweight Crunch" =	"ท่าฝึกกล้ามเนื้อหน้าท้องบอดี้เวท ครันช์";
+
+"Lie down on the floor. Feet are flat on the floor and knees are bent. Fully extended arms above you. Raise upper body upward while keeping your lower back on the floor. Hold for one second. Return to starting position."=	"นอนราบและเท้าแนบกับพื้น งอเข่าขึ้น ยืดแขนออกไปด้านบนตัวคุณให้เต็มที่ ยกลำตัวส่วนบนไปด้านหน้าขณะที่หลังส่วนล่างยังอยู่ที่พื้น ทำค้างไว้ประมาณครั้งละ  1 วินาที จากนั้นกลับไปที่ท่าเริ่มต้น";
+
+
+
+
+"Russian Twist" =	"ท่าฝึกกล้ามเนื้อหน้าท้องรัสเชียนทวิสต์";
+
+"Sit on the floor, your legs bent, and your torso tied tited a bit backward. Hold your arms straightened in front of your torso. Rotate your torso to one side, back to the center position and to the other side."=	"ให้คุณนั่งลงกับพื้น งอขา ลำตัวเอนไปด้านหลังเล็กน้อย ยื่นแขนของคุณออกไปด้านหน้าลำตัว บิดลำตัวของคุณไปข้างหนึ่ง จากนั้นกลับมาที่ท่าที่ลำตัวอยู่ในท่าสมดุล และหมุนสลับไปอีกข้าง";
+
+
+
+"Side Bridge" =	"ท่าฝึกกล้ามเนื้อหน้าท้องแบบไซด์บริดจ์";
+
+"Lie on your side with your legs starting out. Turn sideways and raise your body off the floor, with one bent arm parallel to the floor. Try to keep your body in a straight line and your elbow directly under your shoulder."=	"ให้คุณนอนตะแคงโดยให้ขาเหยียดตรง จากนั้นมองตรงไปด้านหน้าและยกลำตัวขึ้นจากพื้นโดยใช้แขนข้างหนึ่งวางแนบกับพื้นในลักษณะงอ พยามทำให้ลำตัวเป็นเส้นตรงและให้ข้อศอกอยู่ใต้ไหล่";
+
+
+"Back" =	"หลัง";
+
+"Chin-Ups" =	"ท่าชินอัพ";
+
+"Grasp the bar palms and fingers forward, away from the body. This is called the ”pronated” grip. Keep arms straight and hang straight down without swinging. Relax your shoulders and body. Pull up in a smooth motion, do not jerk. The chin should go over the bar. Lower smoothly back to the starting position."=	"จับที่บาร์และให้นิ้วหันไปด้านหน้าซึ่งจะหันออกจากลำตัว วิธีนี้เรียกว่า “เกาะแบบคว่ำมือ” ยืดแขนให้ตรงและห้อยตัวลงด้านล่างโดยที่ไม่แกว่งตัว ผ่อนคลายไหล่และลำตัว ดึงตัวขึ้นช้า ๆ และเรียบลื่น อย่าดึงขึ้นอย่างแรง ให้คางเลยพ้นบาร์ จากนั้นค่อย ๆ ลดระดับตัวลงไปที่ท่าเริ่มต้น";
+
+
+"Deadlifts" =	"ท่ายกน้ำหนักเดดลิฟท์";
+
+"Your stance is about shoulder width apart with your feet pointed ahead to slightly out. You should now lower your butt until your quads are roughly parallel to the floor. The bar should be just ahead of your shins. Now grip the barbell with both hands so that your grip is spaced slightly outside your legs. With a lumbar arch in your back push with your legs and lift with your back simulaneously so that the bar clears your knees and comes to rest at your hips. Your shoulders and knees should be locked fully and your arms should be straight during the entire attempt."=	"ให้คุณยืนกางขาเท่ากับความกว้างของไหล่โดยที่ให้เท้าชี้ไปข้างหน้าและเปิดออกเล็กน้อย จากนั้นให้งอก้นลงด้านล่างจนกว่าทั้งขาและแขนของคุณตั้งตรงขนานกับพื้น บาร์ควรอยู่ด้านหน้าน่องของคุณ ตอนนี้ให้คุณจับที่อุปกรณ์บาร์น้ำหนักด้วยมือทั้งสองและให้มือทั้งสองนั้นอยู่ห่างจากขาส่วนนอกเล็กน้อย ใช้ส่วนโค้งของหลังบริเวณเอวและดันด้วยขาทั้งสองข้าง จากนั้นยกโดยการใช้หลังไปพร้อม ๆ กัน ให้บาร์น้ำหนักผ่านจากเข่ามาพักที่สะโพกของคุณ ล็อคไหล่และเข่าของคุณไว้อย่างเต็มที่ และแขนของคุณควรเหยียดตรงตลอดเวลา";
+
+
+"Lat Pull-Downs" =	"ท่าดึงบาร์ลงด้านล่างโดยใช้กล้ามเนื้อหลัง";
+
+"Attach a long bar to the lat pulldown machine, and adjust the thigh pads so that when you are sitting your knees are at right angles and feet flat on the ground. Grasp the bar using a wide grip and sit down maintaining the upper body in an upright position, slightly leaning back from the hips. Pull the bar in front of your face to the top of your chest and pause. Slowly release the bar back to the starting position by straightening your arms."=	"ติดบาร์ยาวเข้ากับอุปกรณ์ ปรับระดับความสูงให้เหมาะสมโดยให้เข่าของคุณอยู่ในมุมที่ถูกต้องและเท้าแนบกับพื้น จับที่บาร์โดยใช้การยึดแบบกว้าง นั่งลงที่ม้านั่งและให้ร่างกายส่วนบนอยู่ในท่าตั้งตรง ใช้สะโพกเพื่อเอนไปด้านหลังเล็กน้อย ดึงบาร์ที่อยู่หน้าของคุณมาถึงส่วนอกและค้างไว้ จากนั้นค่อย ๆ ปล่อยบาร์ให้กลับไปอยู่ในท่าเริ่มต้นโดยการยืดแขนออก";
+
+
+"Seated Rows" =	"ท่านั่งดึงตุ้มน้ำหนัก";
+
+"To begin the seated row take hold of the handles of your favorite bar (it could be like the one shown). Sit with your back straight while keeping your legs bent and feet against the metal block. Extend your arms feeling your lats stretch. Pull the weight back into your body until the handles touch your abdomen."=	"การเริ่มทำท่านั่งดึงตุ้มน้ำหนักนี้ ให้คุณจับที่ด้ามจับทั้งสอง (หรือคุณจะทำข้างเดียวก็ได้) นั่งหลังตรง วางเท้าที่บล็อควางเท้าและให้เข่างอ ยืดแขนให้ตรงจนรู้สึกว่ากล้ามเนื้อหลังยืดออก ดึงตุ้มน้ำหนักเข้าหาตัวจากด้ามจับสัมผัสกับหน้าท้อง";
+
+"One-Arm Dumbbell Rows"=	"ท่ายกดัมเบลด้วยแขนข้างเดียว";
+
+"Place your left knee and left hand on a flat bench with your right leg set firmly on the floor. Lean forward so that your back is flat and parallel to the floor. Grasp a dumbbell in your right hand with your palm facing in toward your body and lift or row the dumbbell up and into your outer rib cage area. Return to the start position and repeat."=	"วางเข่าซ้ายและมือซ้ายที่ม้านั่ง โดยให้ขาขวาวางที่พื้นอย่างมั่นคง โน้มตัวไปข้างหน้า ให้ส่วนหลังของคุณราบและขนานไปกับพื้น จับที่ดัมเบลด้วยมือข้างขวาโดยให้ฝ่ามือหันเข้าหาตัวของคุณ จากนั้นยกดัมเบลขึ้นมายังสีข้างด้านนอกของคุณ จากนั้นก็กลับไปที่ท่าเริ่มต้นและทำซ้ำ";
+
+
+"Barbell Shrugs" =	"ท่ายกน้ำหนักโดยการยกไหล่";
+
+"Stand up straight with your feet at shoulder width as you hold a barbell with both hands in front of you using a pronated grip (palms facing the thighs). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for a better grip. This will be your starting position. Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps. Slowly return to the starting position as you breathe in."=	"ให้คุณยืนในท่าตรงโดยเท้าอยู่ห่างกันในระดับเดียวกับความกว้างของไหล่ ถือบาร์น้ำหนักด้วยมือทั้งสองข้างที่ด้านหน้าของคุณโดยให้จับแบบที่นิ้วหันเข้าด้านใน (ฝ่ามือหันไปทางต้นขา) เคล็ดลับ: มือของคุณควรอยู่ห่างจากระดับความกว้างของไหล่เล็กน้อย คุณอาจพันข้อมือของคุณเพื่อช่วยในการออกกำลังกายในท่าที่ช่วยยึดอุปกรณ์ได้ดีกว่า ซึ่งที่กล่าวมาจะเป็นท่าเริ่มต้นของคุณ จากนั้นให้ยกไหล่ทั้งสองขึ้นให้สูงเท่าที่จะทำได้พร้อมกับหายใจออกและยกไหล่ค้างไว้ประมาณหนึ่งวินาที เคล็ดลับ: พยายามอย่าใช้กล้ามเนื้อต้นแขนยกน้ำหนัก ให้คุณค่อย ๆ ลดระดับไหล่ลงและไปยังท่าเริ่มต้นพร้อมกับการหายใจออก";
+
+
+"Dumbbell Shrugs" =	"ท่ายกดัมเบลโดยการยกไหล่";
+
+"Stand upright with dumbbells hanging at the sides, feet just wide enough so that the dumbbells hang comfortably. They can be heavier than you would use for an arm curl or front raise. Shrug the shoulders upward just like you would if you were saying ”I don't know” to someone in response to a question. Don't hunch over to the front; try to stay completely upright. If you find your are hunching over or bending backward, lighten the weights up a little." =	"ยืนในท่าหลังตรงโดยให้ดัมเบลห้อยลงที่ข้างลำตัว จัดเท้าให้กว้างพอเพื่อให้ห้อยดัมเบลได้อย่างสบาย ๆ ดัมเบลที่ใช้อาจมีน้ำหนักมากกว่าท่าที่คุณให้ในแบบงอแขนหรือยกจากด้านหน้า ยกไหล่ขึ้นด้านบนเช่นเดียวกับที่คุณยักไหล่ตอนที่คุณพูดว่า “ผม/ฉันไม่รู้” เมื่อคุณตอบคำถามใครสักคน อย่าให้หลังงอหรืองอตัวไปข้างหน้า พยายามอยู่ในท่าตั้งตรง หากคุณโค้งตัวไปข้างหน้าหรืองอตัวไปด้านหลัง ให้เปลี่ยนไปใช้ดัมเบลที่น้ำหนักน้อยกว่าเล็กน้อย";
+
+
+"Back Extensions" =	"ท่ายืดหลัง";
+
+"Position yourself in a back extension station and hook your feet under the leg anchor. Your body should form a straight line from your hands to your hips. Lower your torso, allowing your lower back to round, until it's just short of perpendicular to the floor. Raise your upper body until it's slightly above parallel to the floor. At this point, you should have a slight arch in your back, and your shoulder blades should be pulled together. Pause for a second, then repeat."=	"จัดท่าตัวเองโดยให้อยู่ในท่ายืดหลังอย่างมั่นคง วางเท้าของคุณใต้ที่ยึดขา ลำตัวของคุณควรอยู่ในท่าที่เป็นเส้นตรงตั้งแต่มือจนถึงสะโพก งอตัวให้ต่ำลง ทำให้หลังส่วนล่างเป็นวงกลมจนกระทั่งเกือบจะเป็นเส้นตั้งฉากกับพื้น ยกลำตัวด้านบนขึ้นเหนือระดับขนานกับพื้นเล็กน้อย ถึงจุดนี้ คุณควรส่วนโค้งที่หลังของคุณเล็กน้อย และแผ่นหลังของคุณถูกดึงเข้าหากัน ให้คุณหยุดประมาณหนึ่งวินาทีแล้วทำซ้ำ";
+
+
+"Bent Over Row" =	"ท่ายกน้ำหนักแบบงอตัวไปด้านหน้า";
+
+"Stand with knees slightly flexed. Bend your torso at an angle of about 45 degrees, keeping your back straight. Take an overhand grip on the bar with your hands more than shoulder-width apart and your arms dangling straight down from your shoulders:- Inhale, contract your abdominals isometrically and pull the bar straight ip until it touches your chest.- Return to the starting position, exhaling."=	"ให้คุณยืนด้วยท่าที่ให้เข่าโค้งงอเล็กน้อย งอลำตัวของคุณที่ 45 องศา โดยให้หลังตรง จับที่บาร์ในท่าคว่ำฝ่ามือด้วยความกว้างมากกว่าความกว้างของไหล่ทั้งสองข้าง และแขนของคุณเหยียดตรงลงด้านล่างจากไหล่ของคุณ: - หายใจเข้า หดกล้ามเนื้อหน้าท้องและตรึงหน้าท้องต้านไว้ จากนั้นให้ดึงบาร์น้ำหนักขึ้นหาตัวจนสัมผัสที่หน้าอกของคุณ- กลับไปยังท่าเดิมพร้อมหายใจออก";
+
+
+"Reverse Chin Ups" =	"ท่าชินอัพมือจับหันเข้าหาตัว";
+
+"Extend your arms and take an underhand grip on the bar with your hands shoulder-width apart:- Inhale and stick your chest out to pull yourself upward until your chin is at the level of the bar.- Exhale as you complete the movement."=	"ยืดแขนของคุณออกไปและจับที่บาร์ในท่าหงายมือขึ้นและหันเข้าหาตัว โดยที่ความกว้างระหว่างมือทั้งสองเท่ากับความกว้างของไหล่- หายใจเข้าและยื่นอกออกไปเพื่อให้คุณได้ดึงตัวขึ้นด้านบนจนกว่าคางของคุณอยู่ในระดับเดียวกับบาร์- หายใจออกเมื่อคุณเคลื่อนไหวตามวิธีข้างต้นเสร็จแล้ว";
+
+
+
+
+
+"Biceps" =	"กล้ามเนื้อต้นแขนส่วนหน้า";
+
+
+"Curls" =	"ท่ายกดัมเบลแขนโค้งงอ";
+
+"Stand with feet about hip-width apart, abs engaged as you hold medium-heavy dumbbells in front of the thighs. Squeeze the biceps and bend the arms, curling the weights up towards the shoulders. Keep the elbows stationary and only bring the weight as high as you can without moving the elbows. Slowly lower the weights, keeping a slight bend in the elbows at the bottom (e.g., don't lock the joints and try to keep tension on the muscle)"=	"ยืนในท่าที่เท้าห่างกันเท่าความห่างของสะโพก เกร็งกล้ามเนื้อหน้าท้องในขณะที่คุณยกดัมเบลขนาดกลาง-ขนาดหนักค้างที่ด้านหน้าต้นขาของคุณ บีบรัดกล้ามเนื้อต้นแขนส่วนหน้าและงอแขนเข้า ยกดัมเบลโค้งเข้าหาหัวไหล่ของคุณโดยให้ข้อศอกตรึงอยู่กับที่ ยกน้ำหนักให้สูงเท่าที่คุณจะทำได้โดยที่ไม่มีการเคลื่อนที่ของข้อศอก จากนั้นค่อย ๆ ลดระดับของดัมเบลลงโดยยังคงให้ส่วนล่างสุดของข้อศอกงออยู่เล็กน้อย (เช่น อย่าล็อคที่ข้อและพยายามทำให้ความตรึงอยู่ที่กล้ามเนื้อ)";
+
+
+
+"Barbell Curls" =	"ท่ายกบาร์น้ำหนักโค้งงอ";
+
+
+"Start in a standing position with your feet shoulder width apart and your knees relaxed. Grasp a barbell with your hands also shoulder width apart. Your grip should be underhand (palms facing upwards). Stand upright and let the bar hang in front of your thighs. Bend at your elbows to curl the bar to shoulder level. Pause momentarily at this top position. Slowly lower the bar back to the starting position."=	";เริ่มด้วยท่ายืนที่เท้าของคุณห่างกันเท่ากับความกว้างของไหล่ และให้เข่าของคุณอยู่ในท่าที่สบาย จับที่บาร์น้ำหนักด้วยมือทั้งสองข้างและให้ไหล่อยู่ในลักษณะกว้างพอ ท่าที่คุณจับควรให้ฝ่ามือหันขึ้นด้านบน ยืนตัวตรงและให้บาร์ห้อยลงอยู่ที่บริเวณต้นขาส่วนหน้า งอข้อศอกเพื่อดึงบาร์ขึ้นมาที่ระดับไหล่ หยุดชั่วขณะในระดับที่บาร์น้ำหนักอยู่สูงสุด จากนั้นค่อย ๆ ลดระดับบาร์ลงไปยังท่าเริ่มต้น";
+
+
+
+"Preacher Curls" =	"ท่ายกดัมเบลพรีชเชอร์";
+
+"Grasp the bar at about shoulder width apart. Slowly curl the bar up until your forearms are pointing towards the ceiling (slightly more than vertical). Pause for a second, and lower the bar to the starting position."=	"จับที่บาร์ ให้ความกว้างของมือกว้างเท่าความกว้างของไหล่ ค่อย ๆ ยกบาร์ขึ้นจนกระทั่งแขนส่วนล่างชี้ขึ้นด้านบนเพดาน (มากกว่าในแนวตั้งตรงเล็กน้อย) หยุดชั่วขณะ จากนั้นลดระดับบาร์ลงไปที่ท่าเริ่มต้น";
+
+
+
+"Hammer Curls" =	"ท่ายกดัมเบลโค้งงอลักษณะฆ้อน";
+
+"Hold a dumbbell in each hand with your palms and weights facing outward. Your arms should form a 90 degree angle. Keeping your elbow close to your body and in a steady position, curl the weight up towards your shoulder. Lower weights slowly back to starting position."=	"ถือที่ดัมเบลด้วยฝ่ามือแต่ละข้างและให้ดัมเบลหันออกไปด้านนอก แขนของคุณควรอยู่ในท่าทำมุม 90 องศา ให้ศอกของคุณอยู่ใกล้กับลำตัวและอยู่ในท่ามั่นคง ยกดัมเบลขึ้นไปทางไหล่ของคุณ ลดระดับดัมเบลลงไปยังท่าเริ่มต้น";
+
+
+
+"Concentration Curls" =	"ท่ายกดัมเบลแบบคอนเซนเทรชั่น";
+
+"Start by sitting on the edge of the bench, holding the dumbbell in your right hand. Let the right arm hang straight down with the elbow resting on the inside of the knee. Lean forward so your torso is over your legs, and place the left hand on the left knee. Bending at the elbow, curl the dumbbell up to shoulder level and pause momentarily before slowly lowering the weight to the starting position. Repeat until your set is finished, then switch sides and complete with the left arm."=	"เริ่มด้วยการนั่งที่ส่วนปลายของม้านั่ง ถือดัมเบลที่มือด้านขวาโดยให้แขนด้านขวาเหยียดตรงลงด้านล่างและข้อศอกพักอยู่ที่เข่าด้านใน โน้มตัวไปข้างหน้าเพื่อให้ลำตัวอยู่เหนือส่วนขา วางมือข้างซ้ายที่เข่าซ้าย งอข้อศอก ยกดัมเบลขึ้นไปที่ระดับไหล่ หยุดชั่วขณะก่อนที่จะค่อย ๆ ลดระดับดัมเบลไปยังท่าเริ่มต้น ทำซ้ำจนกว่าคุณจะเสร็จสิ้นชุดแรก จากนั้นสลับข้างโดยใช้แขนด้านซ้าย";
+"Reverse Curls" =	"ท่ายกน้ำหนักโดยท่าจับคว่ำมือ";
+
+"Stand with your feet slightly apart and your arms straight, using an overhand grip (thumbs toward each other): - Inhale and curl the bar. - Exhale as you complete the movement.This exercise works the extensors of the wrist and fingers. It works the brachioradialis, and to a lesser degree the biceps." =	"ให้คุณยืนโดยเท้าห่างกันเล็กน้อย แขนเหยียดตรง ใช้การจับแบบคว่ำมือ (นิ้วโป้งทั้งสองหันหน้าเข้าหากัน): - ยกน้ำหนักขึ้นพร้อมหายใจเข้า- ผ่อนน้ำหนักลงพร้อหายใจออกการออกกำลังกายท่านี้จะทำให้กล้ามเนื้อส่วนข้อมือและนิ้วมือเหยียดออก โดยใช้กำลังจากกล้ามเนื้อที่ต้นแขนส่วนปลายเป็นหลักและใช้กำลังจากส่วนกล้ามเนื้อท้องแขนส่วนหน้าน้อยกว่า";
+
+
+
+"Cable Biceps Curl" =	"ท่าดึงสายเคเบิ้ลด้วยกล้ามเนื้อท้องแขนส่วนหน้า";
+
+"Attach a straight bar to the low pulley of a cable station. Then, grab the with a shoulder-width, underhand grip and hold it at arm's length just in front of your thighs. Your knees should be bent slightly. Curl the bar toward your chest as far as you can without allowing your upper arms to move."=	"ติดบาร์ตรงเข้ากับอุปกรณ์เคเบิ้ล จากนั้นใช้มือจับที่ความกว้างเท่ากับความกว้างของไหล่ โดยให้ฝ่ามืออยู่ใต้บาร์และค้างไว้ที่ระยะแขนเหยียดตรงที่ส่วนหน้าของต้นขา เข่าของคุณควรงอเล็กน้อย ดันบาร์ไปทางหน้าอกของคุณให้ไกลเท่าที่คุณจะทำได้โดยที่ไม่ให้แขนท่อนบนเคลื่อนที่";
+
+
+
+"Low Pulley Curls" =	"ท่าดึงตุ้มน้ำหนักจากด้านล่าง";
+
+"Stand facing the machine and grasp the handle with an underhand grip:- Inhale and curl the pulley handle.= Exhale as you complete the movement.This is bona exercise for isolating and pumping the biceps."=	";ให้คุณยืนโดยหันหน้าเข้าหาอุปกรณ์ จากนั้นจับที่ด้ามจับโดยให้ฝ่ามืออยู่ใต้ด้ามจับ:- หายใจเข้าและดึงด้ามจับ- หายใจออกเมื่อผ่อนด้ามจับลงนี่เป็นวิธีการออกกำลังกายสำหรับการทำให้กล้ามเนื้อท้องแขนด้านบนใหญ่ขึ้นโดยเฉพาะ";
+
+
+
+"Low Pulley Cable Crossover" =	"ท่าดึงตุ้มน้ำหนักแบบไขว้";
+
+"Set the cables the bottom of the crossover station and you gonna cross your hands up to your face and start from the bottom a cross up. This variant is gonna hit more the upper chest."=	";ดึงสายเคเบิ้ลเพื่อดึงตุ้มน้ำหนักที่อยู่ส่วนล่างของอุปกรณ์ ให้คุณไขว้มือทั้งสองขึ้นด้านบนจนอยู่ระดับหน้าของคุณ ค่อย ๆ ผ่อนลง จากนั้นก็ให้เริ่มดึงลูกตุ้มจากด้านล่างอีกครั้ง วิธีนี้จะช่วยบริหารกล้ามเนื้ออกส่วนบนของคุณ";
+
+
+
+"Calf" =	"น่อง";
+
+
+
+"Toe Raises" =	"ยกนิ้วเท้า";
+
+"Begin by a neutral position, hills at or slightly wider than shoulder width. Hold dumbbells in both hands on the same side as the foot. Move up on the toes, contracting the calf muscles, slowly lowering down to a full range of motion."=	"เริ่มด้วยการนั่งในท่าที่สมดุล ให้ความกว้างของเข่ากว้างกว่าความกล้างของไหล่เล็กน้อย ถือดัมเบลในมือทั้งสองข้างโดยให้อยู่ข้างเดียวกับเท้า โยกนิ้วเท้าขึ้น หดกล้ามเนื้อน่อง จากนั้นค่อย ๆ ลดระดับลงให้การเคลื่อนไหวสมบูรณ์แบบ";
+
+
+
+"One-Leg Toe Raises" =	"ยกนิ้วเท้าขาข้างเดียว";
+
+
+"Stand on one foot, placing the toes and ball of your foot on the block. Hold a dumbbell in your hand on the same side as the foot you are standing on and grasp the edge of machine with your other hand to steady your body in position throughout the movement:- Rise up as high as you can on your toes (plantar flexion), keeping your knee extended or very slightly bent.- Return to the starting position."="ให้คุณยืนบนเท้าข้างเดียว วางนิ้วเท้าและฝ่าเท้าส่วนปลายบนบล็อควางเท้า ถือดัมเบลไว้ในมือข้างเดียวกับเท้าที่ยืนบนบล็อค จับที่ส่วนปลายของอุปกรณ์ด้วยมืออีกข้างเพื่อให้ร่างกายทรงตัวได้อย่างมั่นคงในระหว่างการทำท่ากายบริหารนี้:- ยกโดยการใช้นิ้วเท้าให้สูงเท่าที่จะทำได้ (โดยการกดปลายเท้าลง) ยืดให้เข่าตรงหรืองอเพียงเล็กน้อย- กลับไปสู่ท่าเริ่มต้น";
+
+
+
+"Seated Calf Raises" =	"ท่านั่งยกน่อง";
+
+"Adjust the pad so that your shins are straight up and the pad is just behind the knees. Lift the weight by pushing your heels up with the balls of your feet. Slowly lower the heels until you feel a stretch in the calf muscle. To target inner and outer calves, point your toes inwards and outwards respectively."=	"ปรับแผ่นวางเท้าเพื่อให้คุณสามารถเหยียดหน้าแข้งในแนวตรงได้ และแผ่นวางเท้าจะอยู่หลังเข่าของคุณ ยกน้ำหนักขึ้นโดยการดันส้นเท้าขึ้นด้านบนและใช้ฝ่าเท้าส่วนปลายดันที่แผ่นวางเท้า ค่อย ๆ ลดระดับของส้นเท้าลงจนกระทั่งคุณรู้สึกตึงที่กล้ามเนื้อน่อง สำหรับการบริหารน่องส่วนในและส่วนนอก ให้คุณชี้นิ้วเท้าเข้าด้านในและด้านนอกตามลำดับ";
+
+
+
+"Chest" =	"หน้าอก";
+
+
+"Bench Presses" =	"ท่ายกน้ำหนักบนม้านั่งราบ";
+
+"To properly perform a bench press exercise you need to lay flat on a bench and have your feet flat on the floor. The bar, when racked, will be slightly behind your head. It is important to use a spotter for this exercise, especially if you are using a free bar or dumbbells, to eliminate the chance of dropping the weight on yourself. Once you have lifted the weight off of the rack, the bar will be directly over the center of your chest. Keep your head on the bench at all times throughout the movement. Once you have the bar steady, slowly lower it to about chest level, if you are able to. Keep your arms pointed outward as the bar drops. Upon reaching the bottom of the movement, press the bar back up to an extended position, focusing on driving the bar upwards with your chest and arms."=	"ในการที่จะทำท่านี้ได้อย่างเหมาะสมนั้น คุณต้องนอนบนม้านั่งราบและให้เท้าของคุณราบไปกับพื้น เมื่อคุณยกบาร์น้ำหนักขึ้น บาร์น้ำหนักจะอยู่ที่ด้านหลังศีรษะของคุณเล็กน้อย ในท่านี้คุณควรใช้ผู้ช่วย เพราะเป็นท่าที่สำคัญและเกิดอันตรายได้ง่าย โดยเฉพาะเมื่อคุณใช้บาร์แบบฟรีบาร์หรือดัมเบล การใช้ผู้ช่วยจะลดโอกาสในการที่คุณจะทำน้ำหนักตกลงใส่ตัวเอง เมื่อคุณยกน้ำหนักออกจากชั้นวางแล้ว บาร์น้ำหนักจะอยู่ตรงกับส่วนกลางของอก ให้ศีรษะของคุณอยู่บนม้านั่งตลอดเวลาในระหว่างการบริหารกล้ามเนื้อท่านี้ เมื่อคุณถือบาร์ได้อย่างมั่นคงแล้ว ให้ค่อย ๆ เลื่อนบาร์น้ำหนักมาเกือบถึงระดับอกของคุณถ้าคุณทำได้ ให้แขนของคุณชี้ออกไปด้านนอกในขณะที่ลดบาร์น้ำหนักลงมาที่ระดับอก ก่อนที่จะลงมาถึงส่วนล่างสุด ให้คุณดันบาร์น้ำหนักกลับขึ้นไปโดยการยืดแขนให้เหยียดตรง ให้ใช้ส่วนอกและแขนเป็นตัวดันบาร์น้ำหนักขึ้นไป";
+
+
+
+"Incline Presses" =	"ท่ายกน้ำหนักบนม้านั่งเอียง";
+
+"This exercise is very similar to the regular barbell bench press except that you will be using an incline free weight bench press machine and your upper chest will be the muscle group worked instead of your middle chest. Lift the barbell off of the rack and slowly lower it to about 3 inches above your clavicle (just below your Adam's apple) and then press the bar back to the start position. DO NOT TOUCH THE BAR TO YOUR UPPER CHEST (this causes unneeded stress on your shoulder joints and takes the tension away from your upper pec muscles, which are what we want to be doing the work!). Be sure that when you are lowering the bar that you do so in a slow and controlled fashion. Conversely, when you press the bar upward, you want to do so in an explosive fashion." =	"ท่านี้คล้ายกับท่าการยกบาร์น้ำหนักบนม้านั่งราบ เพียงแต่คุณจะใช้อุปกรณ์ม้านั่งเอียงแทน และกล้ามเนื้อของหน้าอกส่วนบนจะเป็นส่วนที่ทำหน้าที่ยกน้ำหนักแทนที่จะเป็นส่วนกลางเช่นท่ายกน้ำหนักบนม้านั่งราบ ให้คุณยกบาร์น้ำหนักออกจากชั้นวาง จากนั้นค่อย ๆ ลดระดับลงให้ห่างจากไหปลาร้าประมาณ 3 นิ้ว (อยู่ในระดับใต้ลูกกระเดือก) จากนั้นดันบาร์น้ำหนักกลับไปที่ตำแหน่งเดิม จงจำไว้ว่า อย่าให้บาร์น้ำหนักสัมผัสที่หน้าอกส่วนบน (เนื่องจากจะทำให้เกิดแรงกดดันที่ข้อของไหล่และทำให้ความตึงออกไปจากกล้ามเนื้อหน้าอกโดยไม่จำเป็น ซึ่งจริง ๆ แล้วเราต้องการใช้ส่วนนี้ในการบริหารกล้ามเนื้อ) คุณต้องแน่ใจว่าเมื่อคุณลดระดับบาร์น้ำหนักลงอย่างช้า ๆ ในทางตรงกันข้าม เมื่อคุณดันบาร์น้ำหนักขึ้นด้านบน ให้คุณดันค่อนข้างเร็ว";
+
+"Dumbbell Presses" =	"ท่านั่งยกดัมเบล";
+
+"Get into position by sitting on the bench, hold the dumbbells and allow them to rest on your thighs. Whilst rolling your body back to lie down on the bench, use your thighs to help you push the dumbbells up to your chest. Then straighten your arms up over your chest (keeping a slight bend in elbows), palms facing forward. Keep your feet flat on the floor and your back in neutral (no more than a slight arch).Lower the dumbbells by bending your elbows out to the sides. Keep going until your elbows are just below your shoulders. Then press the dumbbells back up, bringing them close together at the top (without touching), and angled slightly inwards. Keep a slight bend in your elbows, don't allow them to ”lock”. Repeat until you've completed your reps. To get up, hold the dumbbells by your chest, kick your legs up and then forward to give your body momentum to sit up."=	"ให้คุณนั่งบนม้านั่ง ถือดัมเบลไว้ในมือทั้งสองข้างและให้ดัมเบลพักที่ต้นขาด้านในของคุณ หมุนข้อมือและให้ลำตัวนอนบนม้านั่ง ใช้ต้นขาด้านในช่วยดันดัมเบลไปที่ระดับอก จากนั้นยืดแขนให้ตรงขึ้นไปเหนืออกของคุณ (งอข้อศอกเล็กน้อย) และให้ฝ่ามือหันไปด้านหน้า วางเท้าให้ราบไปกับพื้นและจัดลำตัวให้อยู่ในท่าสมดุล (ไม่มากไปกว่าส่วนโค้งเล็กน้อย) ลดระดับดัมเบลลงโดยการงอข้อศอกออกไปด้านข้าง ทำต่อไปจนกว่าข้อศอกของคุณอยู่ใต้ไหล่ จากนั้นดันดัมเบลขึ้นด้านบน ให้ดัมเบลทั้งสองข้างเข้ามาใกล้กันที่ส่วนบนสุด (โดยไม่สัมผัสกัน) จากนั้น ทำมุมเข้าหากันเล็กน้อย ข้อศอกงอไว้เล็กน้อยเช่นเดิม แต่อย่าให้ข้อศอก “ล็อค” ทำซ้ำในท่าเดิมจนกว่าจะเสร็จสิ้นในแต่ละรอบ การยืนขึ้น ให้ถือดัมเบลในระดับอก เตะเท้าขึ้นด้านบนและไปด้านหน้าเพื่อให้ลำตัวมีแรงเหวี่ยงในการลุกขึ้นนั่ง";
+
+
+
+"Parallel Bar Dips" =	"ท่ายกตัวบนบาร์ขนาน";
+
+"First, keep your head down during the course of the movement and move your body forward. Secondly, move your elbows out a bit. That is, keep your elbows out and away from your body. This will ensure that you are using more chest than triceps. Remember, really concentrate on squeezing your entire chest area at the top of the movement."=	"ประการแรก ต้องให้ศีรษะของคุณลดต่ำลงในระหว่างการเคลื่อนไหวร่างกาย และให้ลำตัวยกสูงขึ้น ประการที่สอง เคลื่อนข้อศอกของคุณออกไปด้านนอกเล็กน้อย นั่นคือ ให้ข้อศอกของคุณอยู่ห่างจากลำตัว ซึ่งนี้จะช่วยให้คุณมั่นใจได้ว่าคุณใช้กล้ามเนื้อหน้าอกมากกว่ากล้ามเนื้อต้นแขนด้านหลัง โปรดจำไว้ว่า คุณควรมีสมาธิกับการบีบรัดบริเวณทั้งหมดของหน้าอกคุณเมื่ออยู่ที่ส่วนบนสุดของท่าบริหารกล้ามเนื้อ";
+
+
+
+"Cable Crossover Flys" =	"ท่าดึงเคเบิ้ลน้ำหนักไขว้แขวน";
+
+"This exercise is performed using the cable pulley machine that has a pulley on two opposite sides. Set each pulley up so that it is locked in the high position (if you are not sure how to do this, ask a trainer at the gym you workout at to assist you). While standing, grab each high pulley using a small one-hand attachment for each hand. The position your body will be in will look like a giant letter. Slowly bring your arms together in a slow and controlled fashion. While doing so, visualize that you are hugging a giant tree trunk. At the peak of this movement, really flex your pec muscles together for a one-count and then return to the start position and repeat."="	ท่าออกกำลังกายนี้ทำโดยการใช้เครื่องสายเคเบิ้ลน้ำหนักที่มีสองด้านตรงข้ามกัน ให้คุณตั้งรอกแต่ละข้างขึ้นเพื่อให้ล็อคอยู่ในระดับสูง (หากคุณไม่มั่นใจวิธีการทำ ให้สอบถามครูฝึกที่โรงยิมเพื่อให้ความช่วยเหลือ) ขณะยืน ให้จับที่ด้ามจับของรอกแต่ละตัวโดยใช้มือยึดเกาะเพียงเล็กน้อยสำหรับมือแต่ละข้าง ค่อย ๆ ดึงแขนทั้งสองข้างเข้าหากันอย่างช้า ๆ ในขณะที่ทำเช่นนั้นอยู่ ให้ท่าของคุณดูเหมือนว่าคุณกำลังโอบกอดต้นไม้ยักษ์ ที่จุดตึงสุดของท่านี้ ให้คุณงอกล้ามเนื้อหน้าอกเข้าหากันสักหนึ่งวินาที จากนั้นให้กลับไปที่ท่าเริ่มต้นและทำซ้ำ";
+
+
+
+"Dumbbell Flys" =	"ท่ายกดัมเบลบินเหนืออก";
+
+"To perform dumbbell flies pick, up a relatively light weight in each hand. You will need to experiment to determine how much weight is right for your dumbbell flies. Start with a lighter weight then slowly work your way up. Lie down on a weight bench and raise both dumbbells straight up over your chest with your arms straight. This is your starting position. Spread both arms outward in a wide arc until your arms are out at your sides. Your arms can be slightly bent. This is the fly part of the dumbbell flies. It is called that because you look like you are flying. Follow the same arc back up until the dumbbells return to the starting position. This is one repetition of the dumbbell fly."=	"การบริหารกล้ามเนื้อท่านี้ ให้ใช้ดัมเบลที่เบากว่าปกติ คุณต้องหาน้ำหนักที่เหมาะสมสำหรับท่านี้และควรเริ่มด้วยน้ำหนักที่เบาก่อน จากนั้นค่อย ๆ เพิ่มน้ำหนักขึ้นทีละน้อย ให้คุณนอนราบกับม้านั่งและยกดัมเบลขึ้นตรงเหนือหน้าอกของคุณโดยให้แขนทั้งสองข้างอยู่ในแนวตรง นี่เป็นท่าเริ่มต้นสำหรับคุณ จากนั้นกวาดแขนทั้งสองข้างออกไปนอกลำตัวในลักษณะโค้งกว้างจนกระทั่งแขนของคุณอยู่ห่างข้างลำตัวออกไป งอแขนเล็กน้อย นี่เป็นท่า “บิน” ซึ่งเป็นส่วนหนึ่งของท่ายกดัมเบลบินเหนืออก ที่เรียกเช่นนี้เพราะคุณจะทำในลักษณะคล้ายกับคุณกำลังบิน ยกขึ้นในลักษณะความโค้งเช่นเดิมจนกว่าดัมเบลจะกลับไปอยู่นท่าเริ่มต้น ซึ่งเป็นการทำซ้ำในท่ายกดัมเบลบินเหนืออกนี้";
+
+
+
+"Dumbbell Pullovers" =	"ท่ายกดัมเบลข้ามศีรษะ";
+
+"This is very similar to the bent arm barbell pullovers, except that you will be using a dumbbell instead of a barbell. Lie flat on your back on a flat bench. Begin by holding the dumbbell above your chest with your elbows slightly bent. Slowly lower the dumbbell back so as to stretch your arms (and the dumbbell) back behind your head as far as you can reach. Your arms and the dumbbell will actually go behind/above your head and will drop down below the bench- this will really give you a great stretch! Return the dumbbell to the start position slowly, focusing on keeping your elbows locked in the slightly bent position."=	"ท่านี้ค่อนข้างเหมือนกับท่าดึงบาร์น้ำหนักเหนือศีรษะ เว้นแต่คุณจะใช้ดัมเบลแทนบาร์น้ำหนัก ให้คุณนอนราบบนม้านั่ง เริ่มด้วยการถือดัมเบลเหนือหน้าอกของคุณโดยที่ข้อศอกงอเล็กน้อย ค่อย ๆ ลดระดับดัมเบลกลับไปพร้อมกับเหยียดแขนออก (และดัมเบล) กลับไปที่ด้านหลังศีรษะคุณให้ห่างเท่าที่จะทำได้ แขนของคุณและดัมเบลจะเคลื่อนไปด้านหลัง/เหนือศีรษะและจะลดระดับต่ำลงต่ำกว่าม้านั่ง ซึ่งท่านี้จะทำให้คุณได้ยืดร่างกายได้อย่างเต็มที่ นำดัมเบลกลับขึ้นมาที่ท่าเริ่มต้นอย่างช้า ๆ ให้คุณมุ่งเน้นที่การล็อคข้อศอกของคุณในขณะที่ข้อศอกงอเล็กน้อย";
+
+
+
+"Push-Ups" =	"วิดพื้น";
+
+"Lie prone with your arms straight, your palms flat on the floor, and your hands shoulder-width apart (or wider). Hold your feet together or very slightly spread: - Inhale and bend your elbows to bring your torso near the floor, avoiding extreme hyperextension of your spine. - Push yourself back to arms, extended position, exhaling as you complete the movement."=	"ให้คุณนอนในท่าคว่ำโดยให้แขนเหยียดตรง ฝ่ามือราบกับพื้น และมือวางที่ความกว้างเท่าความกว้างของไหล่ (หรือกว้างกว่า) เท้าชิดกันหรือห่างกันเล็กน้อย:- หายใจเข้าและงอข้อศอกเพื่อลดระดับลำตัวให้ลงใกล้พื้น หลีกเลี่ยงการเหยียดกระดูกไขสันหลังให้ตึงมากกเกินไป - ดันลำตัวขึ้นด้วยแขนทั้งสองข้าง อยู่ในท่าเหยียดตรง หายใจออกขณะทำท่านี้";
+
+
+
+"Dumbbell Press" =	"ท่ายกดัมเบลเหนืออก";
+
+"Lie flat on the bench with feet on the floor for stability, your arms extended upward, and your hands facing in toward each other holding the dumbbells:= Inhale and lower the dumbbells to chest level, bending your elbows and rotating your forearms to bring your hand in pronation.= Press the dumbbells back up and do an isometric contraction to isolate the stress on the pectorals; exhale as you complete the movement."=	"ให้คุณนอนราบบนม้านั่งและให้เท้าแนบกับพื้นเพื่อการทรงตัว เหยียดแขนขึ้นไปด้านบนให้ตรง มือทั้งสองหันเข้าหากันในขณะที่ถือดัมเบลอยู่:- หายใจเข้าและลดระดับดัมเบลลงไปอยู่ที่ระดับอก งอข้อศอกของคุณและหมุนแขนส่วนปลายเพื่อให้มืออยู่ในท่าคว่ำ- ดันดัมเบลกลับขึ้นไปและทำให้เกิดการหดตัวของเส้นใยกล้ามเนื้อเพื่อลดความตึงเครียดที่อยู่บนบริเวณอกของคุณ หายใจออกในขณะที่คุณทำท่านี้";
+
+
+
+"Barbell Bench Press" =	"ท่ายกบาร์น้ำหนักบนม้านั่ง";
+
+"Lie back on the decline bench. Hold the barbell with overhand grip. Lower the barbell towards your lower chest as you keep your elbows close to your body. The barbell should slightly touch your chest at the end of the movement."=	"ให้คุณนอนบนม้านั่งราบ ถือบาร์น้ำหนักในมือโดยให้ฝ่ามือหันออกจากตัว ลดระดับบาร์เบลลงมายังหน้าอกส่วนล่างในขณะที่ข้อศอกอยู่ใกล้กับลำตัว บาร์น้ำหนักควรแตะที่หน้าอกเล็กน้อยที่ส่วนท้ายของการเคลื่อนไหวในท่านี้";
+
+
+
+"Pec Deck Flies" =	"ดึงเคเบิ้ลลักษณะบิน";
+
+"Sit on the machine's seat and press your elbows into the pads, relaxing your forearms and wrists:- Inhale and force the pads together until they touch in front of your chest.- Exhale as you complete the movement."=	"ให้คุณนั่งบนที่นั่งของอุปกรณ์ จากนั้นดันข้อศอกเข้าหาแผ่นวางแขน คลายท่อนแขนส่วนล่างและข้อมือ:- หายใจเข้าและบังคับแผ่นวางแขนให้เคลื่อนเข้าหากันจนกระทั่งสัมผัสกันที่ตรงหน้าหน้าอกของคุณ- หายใจออกขณะคลายแขนออก";
+
+
+
+
+"Forearms" =	"แขนท่อนล่าง";
+
+
+"Wrist Curls" =	"ท่าดึงบาร์น้ำหนักด้วยข้อมือ";
+
+"Sit with your forearms resting on your thighs or on a bench. Take an underhand grip on the bar with your wrists passively extended: = Inhale and curl your wrist up. - Exhale as you complete the movement."=	"นั่งในท่าที่แขนท่อนปลายของคุณวางพักอยู่ที่ต้นขาด้านในหรือบนม้านั่ง จับบาร์น้ำหนักโดยให้ฝ่ามือหันเข้าหาตัวและให้ข้อมือยืดตรง: - หายในเข้าและโค้งข้อมือขึ้น- หายใจออกเมื่อคลายข้อมือออก";
+
+
+
+"Wrist Curls" =	"ท่าดึงดัมเบลด้วยข้อมือ";
+
+"Sit on a bench. Using an dumbbell wrists passively extended:- Inhale and curl your wrist up.= Exhale as you complete the movement.This exercise works the flexors of the wrist and finger." =	"นั่งบนม้านั่ง ใช้มือจับดัมเบลโดยให้ข้อมือเหยียดตรง:  - หายใจเข้าและโค้งข้อมือขึ้น- หายใจออกเมื่อคลายข้อมือออกท่านี้เป็นการบริหารกล้ามเนื้อที่งอข้อต่อของข้อมือและนิ้วมือ";
+
+
+"Legs" =	"ขา";
+
+
+"Squats" =	"ท่านั่งยอง ๆ งอเข่าและสะโพก";
+
+"The squat involves lowering yourself to the floor without bending at the lower back. Instead, you use your legs to lower your body, keeping your spine in a neutral position. Stand with your feet hip-width apart. Press your hips back and bend your knees. Keep your weight back on your heels, not on the balls of your feet. Your knees should stay behind your toes. Continue lowering until your knees are at a 90=degree bend. Pause for a count and then push through your heels, extending your knees and hips."=	"ท่านั่งยอง ๆ นี้เป็นการลดระดับลำตัวของคุณให้ต่ำลงไปที่พื้นโดยไม่มีการงอที่หลังส่วนล่าง แต่คุณจะใช้ส่วนขาเพื่อย่อตัวลงแทน ให้กระดูกสันหลังอยู่ท่าสมดุล ยืนด้วยท่าที่เท้าห่างกันเท่ากับระยะห่างของสะโพก กดสะโพกไปด้านหลังและงอเข่า ให้น้ำหนักไปอยู่ที่ส้นเท้า ไม่ใช่ที่ฝ่าเท้าส่วนปลาย เข่าของคุณควรอยู่ที่ด้านหลังของนิ้วเท้า ลดระดับตัวลงจนกระทั่งเข่าของคุณงอ 90 องศา ค้างไว้ประมาณหนึ่งวินาที จากนั้นดันผ่านส้นเท้าขึ้นมา เหยียดเข่าและสะโพกของคุณให้ตรง";
+
+
+
+"Angled Leg Presses" =	"ท่านั่งด้วยขาทำมุม";
+
+"Sit on the machine with your back and head against the padded support. Place feet on the foot plate about hip width apart, ensuring the heels are flat. The legs should form an angle of about 90 degrees at the knee with a little variation either way as long as the heels sit flat on the plate. The knees should be in line with the feet and neither bowed inward nor outward. Your bottom should not be raised from the seat platform. If it is, and the legs are at too sharp an angle, then you need to adjust the seat back until the correct position is enabled. You can recognize this poor position when the knees seem to be in front of your eyes and you feel cramped. Grasp the assist handles." =	"ให้คุณนั่งที่ที่นั่งของอุปกรณ์โดยให้หลังและศีรษะชนกับแผ่นวางหลัง วางเท้าบนที่วางเท้าโดยให้เท้าห่างกันที่ความกว้างของสะโพก ตรวจสอบให้แน่ใจว่าส้นเท้าวางแบบชิดกับแผ่นวางเท้า ขาของคุณควรทำมุม 90 องศาที่บริเวณเข่า โดยที่อาจมีค่าคลาดเคลื่อนจากนี้เล็กน้อยตราบเท่าที่ส้นเท้าแนบชิดกับแผ่นวางเท้า เข่าควรอยู่ในเส้นเดียวดันกับเท้าและไม่โค้งเข้าด้านในหรือโค้งออกด้านนอก ก้นของคุณไม่ควรยกขึ้นจากที่นั่ง หากก้นยกขึ้น นั่นแสดงว่าขาของคุณทำมุมแหลมเกินไป คุณควรปรับที่นั่งให้ไปด้านหลังจนกระทั่งได้ท่าที่ถูกต้อง คุณสามารถบอกได้ว่านั่งอยู่ในท่าที่ไม่เหมาะสมได้โดยการสังเกตุที่เข่า หากเข่าอยู่ตรงระดับตาของคุณและคุณรู้สึกว่าแคบเกินไป ให้คุณใช้ด้ามจับช่วย";
+
+
+
+"Leg Extensions" =	"ท่าเหยียดขาตรง";
+
+"Slowly raise the weight by extending both legs upwards to the straightened position. Do not jerk the weight up. Hold this position for one second. Slowly lower the weight back to the start position. Repeat movement."=	"ให้คุณค่อย ๆ ยกน้ำหนักขึ้นโดยเหยียดขาทั้งสองข้างให้ตรงและยื่นไปข้างหน้า อย่าเหยียดขาเพื่อดึงน้ำหนักออกไปอย่างแรง ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นค่อย ๆ ลดระดับลงเพื่อกลับสู่ท่าเริ่มต้น จากนั้นให้ทำซ้ำท่าเดิม";
+
+
+
+"Dumbbell Lunges" =	"ท่าถือดัมเบลยื่นไปข้างหน้า";
+
+"Stand with dumbbells grasped to sides. Lunge forward with first leg. Land on heel then forefoot. Lower body by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. Return to original standing position by forcibly extending hip and knee of forward leg. Repeat by alternating lunge with opposite leg." = 	"ในท่านี้ ให้คุณยืนและถือดัมเบลไว้ที่ข้างลำตัว จากนั้นยื่นตัวไปข้างหน้าด้วยเท้าข้างแรก ลงสู่พื้นบนส้นเท้าจากนั้นบนปลายเท้า ลดระดับตัวลงโดยการงอเข่าและสะโพกของขาที่อยู่ข้างหน้าจนกระทั่งเข่าของขาส่วนหลังเกือบสัมผัสกับพื้น กลับสู่ท่ายืนโดยการใช้แรงยืดสะโพกและเข่าของขาที่อยู่ข้างหน้า ทำซ้ำโดยสลับขาอีกข้างหนึ่ง";
+
+
+
+"Cable Back Kicks" =	"ท่าดึงเคเบิ้ลโดยเตะเท้าไปด้านหลัง";
+
+"Attach a cuff to the end of the cable running through the low pulley. Fasten the cuff around your ankle. Stand in front of the weight stack and grasp the edge of the machine for support: Tilt your pelvis forward. Bring your leg back."="	ติดผ้าพันขาไว้ที่ส่วนปลายของสายเคเบิ้ลที่ต่อไปยังรอกระดับต่ำ รัดผ้าพันขารอบข้อเท้าของคุณ ยืนที่ด้านหน้าของชั้นน้ำหนัก จับที่ส่วนปลายของอุปกรณ์บริหารร่างกายเพื่อช่วยพยุงตัว เอียงเชิงกรานของคุณไปข้างหน้า เตะเท้าไปที่ด้านหลังและนำเท้าของคุณกลับมา";
+
+
+
+"Dumbbell Squats" =	"ท่ายกดัมเบลและย่อตัวลง";
+
+"Stand with your feet slightly apart and grasp a dumbbell in each hand with your arms hanging down at your sides:- Look straight ahead, slightly arch your back, and squat down.- Once your things are parallel to the floor, straighten your legs to return to the starting position.- Exhale as you complete the movement."=	"ให้คุณยืนด้วยเท้าสองข้างห่างกันเล็กน้อย จากนั้นถือดัมเบลในมือแต่ละข้าง โดยให้แขนห้อยลงด้านล่างข้างลำตัว: - มองตรงไปข้างหน้า โค้งหลังของคุณเล็กน้อย และนั่งยอง ๆ ลง- เมื่อคุณขนานกับพื้นแล้ว ให้ยืดขาให้ตรงเพื่อกลับไปที่ท่าเริ่มต้น- หายใจออกเมื่อคุณทำท่านี้เสร็จ";
+
+
+
+"Front Squats" =	"ท่ายกบาร์น้ำหนักที่กล้ามเนื้อโคนแขนและย่อตัวลง";
+
+"Position the dumbbell across your anterior deltoids, hold upper arms parallel to the floor, bend your elbows, cross your toe arms, grasp the bar, and look straight ahead:- Inhale and squat down.- Return to the starting point, exhale as you complete the movement."  =	"จัดท่าบาร์น้ำหนักวางที่กล้ามเนื้อโคนแขนทั้งสองข้าง ให้แขนส่วนบนขนานไปกับพื้น งอข้อศอก ไขว้มือทั้งสองข้าง จับที่ด้ามจับและตามองตรงไปด้านหน้า:- หายใจเข้าและย่อตัวลง- กลับไปที่ท่าเริ่มต้น หายใจออกเมื่อคุณทำท่านี้เสร็จ";
+
+
+
+"8 Power Squats" =	"8 ท่ายกบาร์น้ำหนักที่กล้ามเนื้อไหล่และย่อตัวลง";
+
+"This movement is the same as conventional squats, but your legs are widely spread with your toes pointed outward, which specifically works the inner thighs. The muscles involved are:- the quadriceps- all the adductor- the gluteals - the hamstring group- all the sacrospinalis muscles"=	"ท่าบริหารกล้ามเนื้อนี้เป็นท่าเช่นเดียวกับท่าย่อตัวลงนั่งแบบดั้งเดิม แต่ขาของคุณจะห่างออกจากกันและนิ้วเท้าจะชี้ออกไปด้านนอก ซึ่งนี้จะช่วยบริหารกล้ามเนื้อต้นขาด้านในได้เป็นอย่างดี กล้ามเนื้อส่วนที่เกี่ยวข้องคือ: - กล้ามเนื้อต้นขา- กล้ามเนื้อแอดดัคเตอร์ทั้งหมด- กล้ามเนื้อสะโพก- กล้ามเนื้อต้นขาด้านหลัง- กล้ามเนื้อส่วนที่พยุงกระดูกสันหลังทั้งหมด";
+
+
+
+"Hack Squats" =	"ท่ายกบาร์น้ำหนักวางบนไหล่";
+
+"Flex your knees, place your back against the padded surface, wedge your shoulders beat the yokes attached to the machine, and place your leed fairly close together:- Inhale,  rotate the stop handles at the sides of the yokes to release the machine, and bend your legs.- Return to the starting position exhaling as you complete the movement."=	"ท่านี้ให้คุณงอเข่าลงและวางหลังชนกับผิวหน้าของแผ่นวางหลัง บีบไหล่ของคุณกับด้ามสำหรับใช้ไหล่ดันที่ติดอยู่กับอุปกรณ์บริหารกล้ามเนื้อ จากนั้นวางขาข้างใกล้กัน - หายใจเข้า หมุนด้ามจับที่ด้านข้างเพื่อปล่อยอุปกรณ์พร้อมงอเข่า- กลับมายังท่าเริ่มต้นพร้อมหายใจออก";
+
+
+
+"Seated Leg Curls" =	"ท่านั่งยกขาโค้งงอ";
+
+"Sit on the machine with your legs straight, ankles resting on the roller pad. Lower the leg resting over your thighs to secure them. Grasp the handles provided on each side:- Inhale and bend your knees to move the roller pad downward.- Exhale as you complete the movement."=	"นั่งบนที่นั่งของอุปกรณ์ด้วยขาที่เหยียดตรง พักข้อเท้าบนที่วางเท้าลูกกลิ้ง ลดระดับขาลงพักที่บริเวณเหนือต้นขาเพื่อกระชับต้นขา จับที่ด้ามจับ:- หายใจเข้าและงอเข่าเพื่อเคลื่อนแผ่นลูกกลิ้งลงด้านล่าง- หายใจออกเมื่อทำท่านี้เสร็จ";
+
+
+
+"Shoulders" =	"ไหล่";
+
+
+"Back Presses" =	"ท่ายกบาร์น้ำหนักจากด้านหลัง";
+
+
+"Start by sitting on the bench (with back support). Grasp the barbell using an overhand grip. Hold the dumbbells above the shoulders slightly in front of you, pointing the elbows towards the floor. Push the barbell up and overhead so that the arms are fully extended. After a pause lower the weights to the starting position."=	"เริ่มด้วยการนั่งบนม้านั่ง (ที่มีแผ่นรองหลัง) จับที่บาร์น้ำหนักโดยให้ฝ่ามือหันออกจากตัว วางบาร์น้ำหนักเหนือหัวไหล่ให้เลื่อนไปที่ส่วนหน้าเล็กน้อย ข้อศอกชี้ตรงไปที่พื้น ดันบาร์น้ำหนักขึ้นด้านบนและเหนือหัวเพื่อให้แขนเหยียดตรงอย่างเต็มที่ หลังจากหยุดค้างสักครู่ให้นำบาร์น้ำหนักลงและกลับไปที่ท่าเริ่มต้น";
+
+
+
+"Seated Front Presses" =	"ท่านั่งยกบาร์น้ำหนักจากด้านหน้า";
+
+"Sitting on an upright bench. Grab the barbell with a wider then shoulder width grip. Push the barbell directly upward until it is at arms length above your shoulders. Lower the barbell down to the front of your shoulders, then press it back to starting position."=	"ให้คุณนั่งหลังตรงบนม้านั่ง จับที่บาร์น้ำหนักด้วยความกว้างของมือกว้างกว่าความกว้างของไหล่ ดันบาร์น้ำหนักขึ้นด้านบนโดยตรงจนกระทั่งแขนตั้งตรงเหนือหัวไหล่ของคุณ ลดระดับบาร์น้ำหนักลงที่ส่วนหน้าของหัวไหล่ จากนั้นดันบาร์น้ำหนักขึ้นไปด้านบนที่ท่าเริ่มต้น";
+
+
+
+"Seated Dumbbell Presses" =	"ท่านั่งยกดัมเบลเหนือไหล่";
+
+"Position yourself on a bench or chair with your back upright and straight. Grasp a dumbbell in each hand and hold them just outside of each shoulder with your thumbs pointing in toward each other. Simply press the dumbbells up over your head and return to the start position just outside your shoulders."=	"นั่งบนม้านั่งหรือเก้าอี้โดยให้หลังอยู่ในลักษณะตั้งตรง ถือดัมเบลในแต่ละมือซึ่งให้อยู่ห่างหัวไหล่แต่ละข้างเล็กน้อยและนิ้วโป้งของคุณชี้เข้าด้านใน ค่อย ๆ ดันดัมเบลขึ้นเหนือศีรษะของคุณและลดระดับลงกลับไปที่ท่าเริ่มต้นซึ่งอยู่ข้าง ๆ ไหล่ของคุณ";
+
+
+
+"Low-Pulley Lateral Raises" =	"ท่าดึงเคเบิ้ลจากด้านล่างขึ้นไปด้านข้าง";
+
+"Stand close to the cable machine and side-on to it, position your arm slightly in front of your thighs and take hold of the handle. Inhale and, keeping a slight bend in the elbow, raise your arm out to the side of the body until your upper arm is level with your shoulder. Keep your palm facing down. Slowly, and with the movement under control, lower your arm back down to the start position."=	"ให้คุณยืนใกล้กับอุปกรณ์บริหารร่างกายโดยหันข้างเข้าอุปกรณ์ วางแขนข้างหนึ่งอยู่ตรงหน้าต้นขาของคุณเล็กน้อย จากนั้นจับที่ด้ามจับ หายใจเข้าและงอศอกเล็กน้อย ยกแขนขึ้นและให้ออกห่างจากข้างลำตัวจนกระทั่งแขนท่อนบนอยู่ระดับเดียวกับไหล่ ให้ฝ่ามือของคุณหันลงด้านล่าง ค่อย ๆ ลดระดับแขนของคุณลงไปที่ท่าเริ่มต้น";
+
+
+
+"Upright Rows" =	"ท่าดึงบาร์น้ำหนักหลังตรง";
+
+"Raise the bar toward your chin by leading with your elbows. When your upper arms are parallel to the floor, stop the pull, and lower the bar along the same path it was raised. At the top of your range of motion, your elbows should be higher than your wrists."=	"ให้ยกบาร์น้ำหนักเข้าหาคางโดยใช้ข้อศอกเป็นตัวนำขึ้นมา เมื่อแขนท่อนบนของคุณขนานกับพื้นให้หยุดดึง และลดระดับบาร์น้ำหนักลงไปที่ระดับเดิม ที่ส่วนบนสุดของท่านี้ ข้อศอกของคุณควรอยู่สูงกว่าข้อมือ";
+
+
+
+"Dumbbell Rear Deltoid Raises" =	"ท่ายกดัมเบลด้วยกล้ามเนื้อหัวไหล่ส่วนหลัง";
+
+"Sit on a bench, inclined forward, foot on the floor together. Raise the dumbbells to the side is you can keeping your hands straight and slowly do back to your start position."=	"นั่งบนม้านั่ง พื้นลาดเอียงไปข้างหน้า เท้าแนบอยู่ที่พื้น ยกดัมเบลไปที่ด้านข้างโดยให้มืออยู่ในลักษณะตรง ค่อย ๆ ลดระดับกลับไปที่ท่าเริ่มต้น";
+
+
+
+"Lateral Raises" =	"ยกดัมเบลไปด้านข้าง";
+
+"Stand with your feet slightly spread. Keep your back straight, your arms hanging at your sides, holding one dumbbell in each hand: - Raise the dumbbell to shoulder level, keeping your elbows slightly bent.- Return to the starting position."=	"ให้คุณยืนด้วยท่าที่เท้าห่างกันเล็กน้อย ยืดให้หลังตรง แขนทั้งสองข้างห้อยลงข้างลำตัว ถือดัมเบลไว้ในมือแต่ละข้าง:- ยกดัมเบลขึ้นถึงระดับไหล่โดยให้ข้อศอกงอเล็กน้อย- กลับมายังท่าเริ่มต้น";
+
+
+
+"Front Raises" =	"ท่ายกดัมเบลไปด้านหน้า";
+
+"Stand with feet slightly apart. Hold the dumbbells with your palms down (overhand gips), resting the dumbbells on your thighs or slightly to your sider:- Inhale and alternate sides raising the dumbbells forward to shoulder height.- Exhale as you complete the movement." =	"ยืนด้วยท่าที่เท้าห่างกันเล็กน้อย ถือดัมเบลโดยให้ฝ่ามือหันลงด้านล่าง (แบบคว่ำมือ) พักดัมเบลที่ต้นขาหรือที่ข้างตัว:- หายใจเข้าและยกดัมเบลยื่นไปข้างหน้าที่ระดับความสูงเท่าหัวไหล่ - หายใจออกเมื่อทำท่านี้เสร็จ";
+
+
+
+"Barbell Front Raises" =	"ท่ายกบาร์น้ำหนักไปด้านหน้า";
+
+"Stand with your legs slightly spread. Take and overhand grip on barbell and rest the barbell on your thighs. Keep your back straight and your abdominals contracted:- Inhale and raise the barbell forward with your arms straight until it reaches eye level.- Exhale as you complete the movement."=	"ให้คุณยืนด้วยขาห่างกันเล็กน้อย จับที่บาร์น้ำหนักด้วยท่าคว่ำมือ พักบาร์น้ำหนักที่ต้นขาของคุณ ยืดหลังให้ตรงและหดเกร็งกล้ามเนื้อท้อง:- หายใจเข้าและยกบาร์น้ำหนักยื่นไปข้างหน้าโดยให้แขนทั้งสองข้างยืดตรงจนกระทั่งอยู่ที่ระดับเดียวกับตา- หายใจออกเมื่อทำท่านี้เสร็จ";
+
+
+
+"Upright Row" =	"ท่ายกบาร์น้ำหนักขึ้นในแนวตรง";
+
+"Stand with your feet slightly spread. Keep your back straight. Take an overhand grip on the bar with your hands palm-width apart or a little more:- Inhale and pull the barbell straight upward until it contacts your chin.- Lift your elbows as high as possible at the top point of the movement.- Exhale and slowly lower the barbell back to the starting point."=	"ให้คุณยืนด้วยขาห่างกันเล็กน้อย ยืดหลังให้ตรง จับที่บาร์น้ำหนักโดยให้ฝ่ามือหันเข้าหาลำตัว โดยให้ฝ่ามืออยู่ห่างกันอีกเล็กน้อย:- หายใจเข้าและดึงบาร์น้ำหนักยกขึ้นจนสัมผัสกับคางของคุณ- ยกข้อศอกให้สูงเท่าที่จะทำได้เมื่ออยู่ส่วนสูงสุดของท่านี้ - หายใจออกและค่อย ๆ ลดระดับบาร์น้ำหนักลงที่จุดที่แขนคุณเหยียดตร";
+
+
+
+"Low Pulley Bent-Over Lateral Raises" =	"ท่าโน้มตัวดึงน้ำหนักจากด้านล่างไปด้านข้าง";
+
+"Stand with your feet and your knees slightly bent. Bent forward at the waist, keeping your back straight and your arms hanging down. Hold a handle in each hand with the cables crossing each other:- Inhale and raise your arms to the sides until your hands are slightly above the level of your shoulders.- Exhale as you complete the exercise."=	"ให้คุณยืนด้วยท่าที่เท้าและเข่างอเล็กน้อย ใช้เอวโน้มตัวไปข้างหน้า ยืดให้หลังตรงและแขนห้อยตรงลงด้านล่าง จับที่ด้ามจับด้วยมือแต่ละข้างที่ต่อกับสายเคเบิ้ลไขว้กันอยู่: - หายใจเข้าและยกแขนไปที่ด้านข้างจนกระทั่งมือของคุณอยู่เหนือระดับไหล่เล็กน้อย- หายใจออกเมื่อทำท่านี้เสร็จ";
+
+
+
+"Low Pulley Front Raises" =	"ท่าดึงน้ำหนักจากด้านล่างไปด้านหน้า";
+
+"Stand with your feet slightly spread. Hold the handle with an overhand grip, keeping your arms at your sides:- Inhale and raise your arm forward shoulder height.- Exhale as you complete the movement.This exercise works the deltoids." =	"ให้คุณยืนด้วยเท้าห่างกันเล็กน้อย จับที่ด้ามจับโดยฝ่ามือหันลงด้านล่าง ให้แขนทั้งสองข้างอยู่ที่ข้างลำตัว: - หายใจเข้าและยกแขนขึ้นสูงถึงระดับไหล่- หายใจออกเมื่อทำท่านี้เสร็จท่านี้จะช่วยบริหารกล้ามเนื้อโคนแขน";
+
+
+
+"Pec Deck Rear-Delt Laterals "  =	"ท่าบริหารกล้ามเนื้อโคนแขนด้านข้าง";
+
+"Sit in a pec deck machine facing toward its back support with your arms stretched out grasping the handles:- Inhale and force your elbows to the rear, pressing your scapulae together at the end of the movement.- Exhale as you complete the movement." =	"นั่งบนม้านั่งของอุปกรณ์โดยหันหน้าเข้าหาแผ่นหนุนหลัง ให้แขนของคุณยืดตรงออกไปจับที่ด้ามจับ- หายใจเข้าและบังคับให้ข้อศอกดันไปด้านหลัง ดันกระดูกสะบักเข้าหากันที่ตอนท้ายของการเคลื่อนไหวในท่านี้- หายใจออกเมื่อทำท่านี้เสร็จ";
+
+
+
+
+"Triceps" =	"กล้ามเนื้อท่อนแขนส่วนบนด้านหลัง";
+
+
+"Close-Grip Bench Presses" =	"ท่ายกบาร์น้ำหนักใกล้ตัวบนม้านั่ง";
+
+"Position yourself on a regular free weight flat bench press machine. Lie flat on your back and grab the barbell above you with a very narrow grip. Focus on keeping about an 6-8 inch width in your grip Lift the barbell off of the rack and slowly lower it to about 3 inches above your chest and then press the bar back to the start position. Make sure to focus on keeping your elbows in towards your body throughout the full range of the movement." =	"ให้นั่งบนม้านั่งราบสำหรับการยกฟรีเวท นอนราบบนม้านั่งและจับที่บาร์น้ำหนักที่อยู่เหนือตัวคุณโดยให้การจับนั้นอยู่ในช่วงแคบมาก โดยให้มือทั้งสองอยู่ห่างกันประมาณ 6-8 นิ้ว จากนั้นยกบาร์น้ำหนักออกจากชั้นและค่อย ๆ ลดระดับลงมาให้เหนือหน้าอกคุณประมาณ 3 นิ้ว จากนั้นดันบาร์น้ำหนักขึ้นไปที่ท่าเริ่มต้น คุณต้องแน่ใจว่าข้อศอกหันไปทางลำตัวของคุณในระหว่างการบริหารกล้ามเนื้อท่านี้";
+
+
+
+"Push-Downs" =	"ท่าดันน้ำหนักลงด้านล่าง";
+
+"Using a high-cable pulley, grasp a short straight bar with an overhand grip. Your hands should be about 10 inches apart. Position your forearms so they are parallel to the floor. Keep your feet shoulder width apart and bend your knees slightly. Keep your elbows locked in close to your body and your wrists straight. Keep your WHOLE body steady, push the bar down as far as possible towards your legs, locking your arms and feeling the triceps full contract. Keep the upper arms close to the body. Return to the starting position using the same motion. Never move your elbows or torso! Stay standing straight up."= 	"ใช้รอกเคเบิ้ลแบบสูง จับที่ด้ามจับสั้นด้วยท่าคว่ำมือ มือของคุณควรอยู่ห่างกันประมาณ 10 นิ้ว จัดท่าแขนท่อนล่างของคุณให้ขนานกับพื้น ให้เท้าห่างกันเท่าความกว้างของไหล่ งอเข่าเล็กน้อย ล็อคข้อศอกใกล้กับลำตัว ตรึงข้อมือให้ตรง จัดให้ทั้งลำตัวอยู่ในท่าที่มั่นคง ดันบาร์ลงด้านล่างไปทางขาของคุณให้ลงต่ำเท่าที่จะทำได้ ล็อคแขนของคุณจนรู้สึกว่ากล้ามเนื้อส่วนหลังของแขนท่อนบนหดตัว ให้แขนส่วนบนอยู่ใกล้กับลำตัว จากนั้นกลับไปยังท่าเริ่มต้นโดยใช้การเคลื่อนไหวในลักษณะเดิม อย่าเคลื่อนข้อศอกหรือลำตัว ยืนในท่าหลังตรงตลอดเวลา";
+
+
+
+"Triceps Extensions" =	"ท่ายืดกล้ามเนื้อแขนท่อนบนส่วนหลัง";
+
+"Positioning the bar over your eyes keeps your triceps under some tension while your arms are in the extended position. Now, keep your upper arms fixed in the extended position while you bend your elbows and allow the weight to descend under control toward your forehead."=	"จัดท่าบาร์ให้อยู่เหนือระดับตาของคุณ ให้กล้ามเนื้อแขนท่อนบนส่วนหลังตึงในขณะที่คุณยืดแขนออก ตอนนี้ ให้แขนส่วนบนของคุณอยู่คงที่ในท่ายืดออกในขณะที่คุณงอข้อศอกของคุณ และให้น้ำหนักเอียงไปทางหน้าผากของคุณในท่าที่คุณควบคุมได้";
+
+
+
+"Triceps KickBacks" =	"ท่าดันน้ำหนักไปด้านหลังด้วยแขน";
+
+"Kneel comfortably on a bench with the same leg that you hold the weight with. Now with your back straight and your head looking straight ahead start with the weight at a ninety degree angle (as shown). Extend the weight keeping your elbow completely stationary."=	"ให้คุณวางเข่าในลักษณะงอบนม้านั่งโดยถือน้ำหนักด้วยมือข้างเดียวกันนี้ ยืดให้หลังตรงและหันหน้าในลักษณะตรง เริ่มเคลื่อนน้ำหนักที่ทำมุม 90 องศา (ดังแสดง) ยืดน้ำหนักออกไปขณะที่ตรึงข้อศอกอยู่";
+
+
+
+"One-Arm Dumbbell Triceps Extensions" =	"ท่ายกดัมเบลหนึ่งข้างด้วยการยืดกล้ามเนื้อแขนท่อนบนส่วนหลัง";
+
+
+"Hold your arm in full extension up above your body. Make sure your elbow is facing away from your body. With your non-weight bearing hand, grab and support your other arm just below the elbow. Next, lower the weight down, bending at your elbow. Once the forearm is parallel to the floor you may bring the arm back to full extension."=	"ยืดแขนให้เหยียดตรงเหนือลำตัวของคุณ ต้องมั่นใจว่าข้อศอกของคุณหันหน้าออกจากลำตัว ใช้มืออีกข้างจับที่ใต้ข้อศอกของแขนที่ยกน้ำหนักเพื่อช่วยพยุง จากนั้นลดระดับของน้ำหนักลง งอข้อศอก เมื่อแขนท่อนล่างขนานกับพื้นแล้วให้คุณยืดแขนเหยียดตรงกลับมาที่เดิม";
+
+"Bar Triceps Extensions" = "ท่ายืดกล้ามเนื้อแขนท่อนบนส่วนหลังโดยใช้บาร์";
+
+"To begin, stand up holding a barbell or e-z bar using a pronated grip (palms facing forward) with your hands closer than shoulder width apart from each other. Your feet should be about shoulder width apart. Now elevate the barbell above your head until your arms are fully extended. Keep your elbows in. This will be your starting position. Keeping your upper arms close to your head and elbows in, perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step. Go back to the starting position by using the triceps to raise the barbell. Breathe out as you perform this step."="เริ่มด้วยการยืนและจับที่บาร์น้ำหนักหรือบาร์ E-Z โดยการคว่ำมือ (ฝ่ามือหันลงด้านล่าง) โดยให้มืออยู่ห่างกันที่ระยะความกว้างสั้นกว่าความกว้างของไหล่ ส่วนเท้าอยู่ห่างกันกับระดับความกว้างของไหล่ จากนั้นให้คุณยกบาร์น้ำหนักเหนือศีรษะคุณจนกระทั่งแขนคุณเหยียดตรง ให้ข้อศอกอยู่ด้านใน นี่จะเป็นท่าเริ่มต้นของคุณ ให้แขนท่อนบนของคุณอยู่ใกล้ศีรษะ ข้อศอกอยู่ในท่าชิดด้านในและตั้งฉากกับพื้น  ลดระดับน้ำหนักที่ต้านอยู่ลงโดยการเคลื่อนไหวแบบครึ่งวงกลมที่ด้านหลังของศีรษะคุณจนกระทั่งแขนท่อนล่างสัมผัสกับกล้ามเนื้อท้องแขนส่วนบน เคล็ดลับ: แขนส่วนบนควรอยู่ในท่าคงที่ และมีเพียงแขนท่อนล่างเท่านั้นที่เคลื่อนไหว หายใจเข้าเมื่อคุณทำในท่านี้ กลับไปที่ท่าเริ่มต้นโดยใช้กล้ามเนื้อแขนท่อนบนส่วนหลังยกบาร์น้ำหนัก หายใจออกเมื่อทำขั้นตอนนี้";
+
+
+
+"Dumbbell Triceps Extension" =	"ท่านอนยกดัมเบลยืดกล้ามเนื้อแขนท่อนบนส่วนหลัง";
+
+"Lie on a flat bench holding a dumbbell in each hand with your arms extended straight up from your shoulders: - Inhale and slowly bend your arms.- Return to the starting position, exhaling as you complete the movement.This exercise equally works all the heads of the triceps." =	"นอนบนม้านั่งราบ ถือดัมเบลด้วยมือทั้งสองข้างโดยให้แขนเหยียดตรงขึ้นไปจากไหล่ของคุณ:- หายใจเข้าและค่อย ๆ งอแขนลง- กลับไปที่ท่ายืดแขนตรง หายใจออกเมื่อคุณทำท่านี้เสร็จท่านี้จะช่วยบริหารส่วนบนของกล้ามเนื้อแขนท่อนบนส่วนหลัง";
+
+
+
+"Triceps Dips" =	"ท่ายกตัวด้วยกล้ามเนื้อแขนท่อนบนส่วนหลัง";
+
+"Place your hands on the edge of a flat bench and rest your feet on another bench. Assume a torso-leg angle of about 90 degrees:- Inhale and bend your arms. - Straighten your arms to return to the starting point, exhaling as you complete the movement.This exercise works the triceps, pectorals, and anterior deltoids." =	"วางมือของคุณที่ส่วนปลายของม้านั่งราบและพักเท้าที่ม้านั่งอีกตัว ให้ลำตัวและขาทำมุมประมาณ 90 องศา: - หายใจเข้าและงอแขนของคุณ- ยืดแขนให้ตรงเพื่อกลับไปที่ท่าเริ่มต้น หายใจออกเมื่อคุณทำท่านี้เสร็จท่านี้จะช่วยบริหารส่วนบนของกล้ามเนื้อแขนท่อนบนส่วนหลัง กล้ามเนื้อหน้าอก และกล้ามเนื้อโคนแขนส่วนหน้า";
+
+
+
+"Triceps Pushdown" =	"ท่าดึงน้ำหนักลงด้วยกล้ามเนื้อแขนท่อนบนส่วนหลัง";
+
+"Stand facing the machine with your hands on the bar and your elbows against your sider:- Inhale and straighten your arms, but don't separate your elbows from your side.- Exhale as you complete the movement."=	"ยืนโดยหันหน้าไปทางอุปกรณ์บริหารร่างกาย ใช้มือจับที่บาร์และข้อศอกหันชนข้างลำตัว: - หายใจเข้าและยืดแขนของคุณให้ตรงแต่อย่าให้ข้อศอกอยู่ห่างจากข้างลำตัว- หายใจออกเมื่อคุณทำท่านี้เสร็จ";
+
+
+
+"One Arm Reverse Pushdown" =	"ท่าดึงน้ำหนักลงและไปด้านหลังด้วยแขนข้างเดียว";
+
+"Stand facing the machine and grasp the handle with an underhand grip:- Inhale and straighten your arm.- Exhale as you complete the moment." = "ยืนโดยหันหน้าไปทางอุปกรณ์บริหารร่างกาย ใช้มือจับที่ด้ามจับด้วยท่าหงายฝ่ามือ: - หายใจเข้าและยืดแขนของคุณให้ตรงแต่อย่าให้ข้อศอกอยู่ห่างจากข้างลำตัว- หายใจออกเมื่อคุณทำท่านี้เสร็จ";
+
+
+
+"Rotating T Extension"="ท่าวิดพื้นหมุนรูปตัว T\n";
+"1. Start in a pushup position. Keeping your arms straight and your core engaged.2. Shift your weight onto your left arm, rotate your torso to the right, and raise your right arm toward the ceiling so that your body forms a T.3. Hold for three seconds, then return to start and repeat on the other side. That's one rep."="1. เริ่มด้วยการท่าวิดพื้น ยืดแขนให้เหยียดตรงและลำตัวยืดตรง\n\n2. เปลี่ยนน้ำหนักไปลงที่แขนด้านซ้าย จากนั้นหมุนลำตัวไปทางขวา ยกแขนข้างขวาขขึ้นไปด้านบนเพื่อให้ร่างกายของคุณเป็นรูปตัว T\n\n3. ค้างไว้ที่ท่านี้ประมาณ 3 วินาที จากนั้นกลับไปที่ท่าเริ่มต้นและทำซ้ำอีกข้าง นี่เป็นการทำซ้ำหนึ่งครั้ง\n";
+"Bodyweight Hip Extension"="ท่ายืดยกตัวด้วยสะโพก\n";
+"1. Lie down on the floor. One foot is flat on the floor while the other leg is straight. Use your hands to stabilise your position.2. Raise your straight leg until your lower back is off the ground. Hold for one second. Return to starting position. "="1. นอนราบกับพื้น ขาหนึ่งข้างวางราบไปกับพื้นขณะที่อีกข้างเหยียดตรง ใช้มือทั้งสองข้างช่วยพยุงตัวให้อยู่ในท่านี้\n\n2. ยกขาข้างที่เหยียดตรงขึ้นจนกระทั่งหลังส่วนล่างของคุณยกขึ้นจากพื้น ทำค้างในท่านี้ประมาณหนึ่งวินาที จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Superman"="ท่าซุปเปอร์แมน\n";
+"1. Kneel on all fours with your knees under your hips and hip - distance apart and put your hands on the floor a shoulder width apart under your shoulders. Put your spine into neutral position. Activate your core by drawing your abdominal muscles back toward your spine.2. Without any sideways movement and keeping your abdomen pulled in, exhale and slowly raise an opposite arm and leg until they are parallel to the floor. Be careful to follow the tempo you have set.3. Inhale and slowly return your arm and leg to the starting position.4. Repeat for the desired number of repetitions, then repeat the exercise using the other arm and leg."="1. คุกเข่าทั้งสองข้างลงบนพื้นโดยให้เข่าอยู่ในตำแหน่งใต้สะโพก ระยะห่างระหว่างเข่าทั้งสองข้างเท่ากับความกว้างของสะโพก วางมือบนพื้นอยู่ในตำแหน่งใต้ไหล่ที่ระยะห่างเท่ากับความกว้างของไหล่ จัดให้กระดูกสันหลังอยู่ในแนวตรง เริ่มออกกำลังกายโดยการวาดกล้ามเนื้อท้องไปด้านหลังทางสันหลังของคุณ\n\n2.  จัดให้ลำตัวตรงโดยที่ไม่เคลื่อนไปด้านข้าง บีบรัดหน้าท้องเข้าด้านใน หายใจออกและค่อย ๆ ยกแขนและขาด้านตรงข้ามขึ้นจนกระทั่งอยู่ในแนวขนานกับพื้น โปรดจำไว้ว่าควรทำตามจังหวะที่คุณกำหนดไว้\n\n3. หายใจเข้าและค่อย ๆ ลดระดับขาและแขนลงไปอยู่ในท่าเริ่มต้น\n\n4. ทำซ้ำเท่าที่คุณต้องการ จากนั้นเปลี่ยนไปออกกำลังกายในท่าเดิมด้วยแขนและขาอีกข้าง\n";
+"Bodyweight Superman"="ท่ายกตัวซุปเปอร์แมน\n";
+"1. Lie prone on the floor. Fully extend your arms in front of you. 2. Raise your legs and upper body towards the ceiling. Hold for one second. Return to starting position."="1. นอนคว่ำหน้าบนพื้น เหยียดแขนให้ตรงไปข้างหน้า\n\n2. ยกขาและลำตัวส่วนบนขึ้นด้านบน ค้างที่ท่านี้ประมาณหนึ่งวินาทีและกลับมายังท่าเริ่มต้น\n";
+"Dumbbells Bent Over Row"="ท่างอตัวยกดัมเบล\n";
+"1. Grab and hold a pair of dumbbells and hold forward at your waist, but keep your back flat. Have your arms extended straight downward with palms facing in towards one another.2. Lift the dumbbells up to the sides of your chest and return them to their extended start position while keeping your back stable and straight throughout."="1. ถือดัมเบลในมือทั้งสองข้างและถือไปข้างหน้าเอวของคุณโดยให้หลังแบนราบ เหยียดแขนให้ตรงห้อยลงด้านล่าง ฝ่ามือหันเข้าหากัน \n2. ยกดัมเบลขึ้นที่ด้านข้างของหน้าอก จากนั้นนำดัมเบลกลับไปที่ท่าเริ่มต้นโดยให้แขนเหยียดตรง ในขณะที่ทำท่านี้ ให้หลังตรึงอยู่กับที่และอยู่ในท่าตรงตลอดการออกกำลังกายท่านี้\n";
+"Seated Bent Over Ro"="ท่านั่งงอตัวยกดัมเบล\n";
+"1. Sit on the end of a bench with your knees bent, feet flat on the floor and place a pair of dumbbells on the floor at your sides. Bend forward at the waist as far as you can until your back is almost parallel to  the floor - your chest should touch your legs. Reach down, grab a weight in each hand, and let your arms hang straight down.2. Turn the weights so that your palms face in.3. Without moving anything but your arms, slowly pull the dumbbells up close to your body to the sides of your chest.4. Hold for a second, then lower the weights back down."="1. นั่งที่ส่วนท้ายของม้านั่งโดยให้เข่างอ เท้าทั้งสองข้างวางราบกับพื้น วางดัมเบลทั้งสองบนพื้นที่ข้างตัวทั้งสองข้าง ใช้ส่วนเอวโน้มตัวไปข้างหน้าให้มากที่สุดเท่าที่จะทำได้จนกระทั่งหลังอยู่ในท่าเกือบขนานกับพื้น หน้าอกควรสัมผัสอยู่ที่ขาทั้งสองข้าง ยื่นมือไปหยิบดัมเบลด้วยมือทีละข้างและให้แขนเหยียดตรงอยู่ในท่าถือดัมเบลห้อยลงด้านล่าง\n\n2. หมุนดัมเบลกลับเพื่อให้ฝ่ามือของคุณหันเข้าด้านใน\n\n3. ให้เฉพาะแขนเท่านั้นที่มีการเคลื่อนไหว ค่อย ๆ ดึงดัมเบลขึ้นเข้าหาลำตัวโดยดึงเข้าหาด้านข้างของอก \n\n4. ค้างไว้ที่ท่านี้ประมาณหนึ่งนาที จากนั้นนำดัมเบลลงด้านล่าง\n";
+"Stability Ball Hyperextension"="ท่าเหยียดสุดตัวบนลูกบอลออกกำลังกาย\n";
+"1. Lie prone on the stability ball. Your entire upper body should be on the stability ball. Hold your arms over your head.2. Bend your upper body up until your chest is no longer in contact with the stability ball. Hold for one second. Return to starting position."="1. นอนคว่ำหน้าบนลูกบอลออกกำลังกายโดยให้ลำตัวส่วนบนทั้งหมดอยู่บนอยู่บนลูกบอล ยกแขนทั้งสองข้างค้างไว้บนศีรษะ\n\n2. ยกลำตัวด้านบนขึ้นจนกระทั่งหน้าอกยกจากลูกบอล ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นกลับไปยังท่าเริ่มต้น\n";
+"T-Bar Bent Over Row"="ท่างอตัวยก T บาร์\n";
+"1. Straddle a T-Bar-Row machine and grab the handles with an overhand grip. Make sure you are standing with your feet shoulder-width apart and your knees slightly bent, as shown.2. Keep your back flat and bend your waist until your upper body is about 45 degrees from the vertical, the bar hanging at arm’s length directly below your shoulders.3. Then, squeezing your shoulder blades together, lift the bar as close as you can to your lower chest. Pause, then slowly lower the bar back to the starting position."="1. ยืนคร่อมบนเครื่องออกกำลังกาย T-Bar-Row จากนั้นจับที่ด้ามจับด้วยท่ามือคว่ำมือ ตรวจสอบให้แน่ใจว่าระยะห่างของเท้าทั้งสองข้างอยู่ที่ระดับความกว้างของไหล่ งอเข่าเล็กน้อย ดังแสดงในภาพ\n\n2. จัดให้หลังราบแบนและงอเอวจนกระทั่งลำตัวส่วนบนทำมุม 45 องศาจากแนวตั้งตรงของลำตัว บาร์ห้อยลงด้านล่างที่ระดับความยาวของแขนและห้อยลงให้ตรงกับระดับของไหล่ทั้งสองข้าง\n\n3. จากนั้นบีบแผ่นไหล่ทั้งสองข้างเข้าหากัน ยกบาร์ขึ้นใกล้อกส่วนล่างของคุณให้มากที่สุดเท่าที่จะทำได้ หยุดชั่วขณะและค่อย ๆ ลดระดับบาร์ลงด้านล่างกลับไปที่ท่าเริ่มต้น\n";
+"Dumbbell Biceps Curl (Hammer Grip On Bench)"="ท่ายกดัมเบลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้า (นั่งบนม้านั่ง ถือดัมเบลแบบจับฆ้อน)\n";
+"1. While standing with back straight, hold one dumbbell with hammer grip. Rest upper arm on the top of the incline bench.2. Lift dumbbell up while keeping your upper arms in place. Hold for one second. Lower dub bell back to starting position."="1. ยืนในท่าหลังเหยียดตรง ถือดัมเบลหนึ่งอันด้วยท่าจับฆ้อน พักแขนส่วนบนที่ม้านั่งเอียง \n\n2. ยกดัมเบลขึ้นขณะที่ตรึงแขนส่วนบนให้อยู่กับที่ ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นลดระดับดัมเบลลงไปที่ท่าเริ่มต้น\n";
+"Dumbbell Biceps Curl (Hammer Grip Standing)"="ท่ายกดัมเบลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้า (ท่ายืนถือดัมเบลแบบจับฆ้อน)\n";
+"1. While standing with back straight, hold dumbbells at your sides with a hammer grip. Keep arms straights.2. Lift dumbbells up while keeping your upper arms in place. Refrain from using your shoulders during the movement. 3. Hold for one second and returned to starting position."="1. ยืนด้วยท่าหลังเหยียดตรง ถือดัมเบลทั้งสองอันไว้ที่ข้างลำตัวด้วยท่าจับฆ้อนและจัดให้แขนเหยียดตรง\n\n2. ยกดัมเบลขึ้นในขณะที่แขนส่วนบนตรึงอยู่กับที่ พยามยามอย่าใช้ไหล่ทั้งสองข้างในขณะเคลื่อนไหวในท่านี้\n\n3. ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="ท่ายกดัมเบลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้า (ถือดัมเบลแบบหงายมือด้วยแขนข้างเดียว)\n";
+"1. Bend your knees slightly. Keep back bent and straight. Hold one dumbbell with underhand grip. Position elbow at the inner thigh.2. Lift dumbbell up while keeping your upper arm in place. Hold for one second. Return to starting position."="1. งอเข่าทั้งสองข้างเล็กน้อย งอตัวและเหยียดหลังให้ตรง ถือดัมเบลหนึ่งข้างด้วยท่าคว่ำมือ จัดศอกให้อยู่ที่ต้นขาด้านใน\n\n2. ยกดัมเบลขึ้นขณะที่แขนด้านบนตรึงอยู่กับที่ ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Dumbbell Biceps Curl (Underhand Grip On Bench)"="ท่ายกดัมเบลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้า (ถือดัมเบลแบบหงายบนม้านั่ง)\n";
+"1. While standing with back straight, hold one dumbbell with underhand grip. Rest upper arm on the top of the incline bench.2. Lift dumbbell up while keeping your upper arms in place. Hold for one second. Lower dub bell back to starting position."="1. ยืนในท่าหลังเหยียดตรง ถือดัมเบลด้วยท่าจับหงายมือ พักแขนด้านบนไว้ที่ส่วนบนของม้านั่งเอียง\n\n2. ยกดัมเบลขึ้นขณะที่แขนส่วนบนตรึงอยู่กับที่ ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที ลดระดับดัมเบลลงเพื่อกลับไปที่ท่าเริ่มต้น\n";
+"Dumbbell Biceps Curl Seated (Hammer Grip)"="ท่านั่งยกดัมเบลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้า (ถือดัมเบลแบบจับฆ้อน)\n";
+"1. While seated with back straight, let dumbbells hang next to you with a hummer grip. Keep arms straight.2. Lift dumbbells up while keeping your upper arms in place. Refrain from using your shoulders during the movement. Hold for one second, then return to starting position."="1. นั่งบนม้านั่งด้วยท่าหลังเหยียดตรง ถือดัมเบลทั้งสองข้างด้วยท่าจับฆ้อนและให้ดัมเบลทั้งสองข้างห้อยลงข้างตัว เหยียดแขนให้ตรง\n\n2. ยกดัมเบลขึ้นโดยให้แขนด้านบนของคุณตรึงอยู่กับที่ พยายามอย่าให้ไหล่ทั้งสองข้างเคลื่อนไหวขณะออกกำลังกายท่านี้ ค้างไว้ที่ท่านี้ประมาณหนึ่งนาที จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Dumbbell Biceps Curl Seated (Underhand Grip)"="ท่านั่งยกดัมเบลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้า (ถือดัมเบลแบบหงายมือ)\n";
+"1. While seated with back straight, let dumbbells hang next to you with an underhand grip. Keep arms straight.2. Lift dumbbells up while keeping your upper arms in place. Refrain from using your shoulders during the movement. Hold for one second, then return to starting position."="1. นั่งบนม้านั่งด้วยท่าหลังเหยียดตรง ถือดัมเบลทั้งสองข้างด้วยท่าจับหงายมือและให้ดัมเบลทั้งสองข้างห้อยลงข้างตัว เหยียดแขนให้ตรง\n\n2. ยกดัมเบลขึ้นโดยให้แขนด้านบนของคุณตรึงอยู่กับที่ พยายามอย่าให้ไหล่ทั้งสองข้างเคลื่อนไหวขณะออกกำลังกายท่านี้ ค้างไว้ที่ท่านี้ประมาณหนึ่งนาที จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="ท่ายกดัมเบลบนลูกบอลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้า (ถือดัมเบลแบบจับฆ้อน)\n";
+"1. Hold one dumbbell with hammer grip. Kneel behind the stability ball. Position upper arm on stability ball.2. Lift dumbbell up while keeping your upper arm in place. Refrain from using your shoulder during the movement. Hold for one second. Return to starting position."="1. ถือดัมเบลหนึ่งอันด้วยท่าจับฆ้อน คุกเข่าที่ด้านหลังของลูกบอลออกกำลังกาย จัดท่าแขนด้านบนให้อยู่บนลูกบอลออกกำลังกาย\n\n2. ยกดัมเบลขึ้นโดยให้แขนด้านบนของคุณตรึงอยู่กับที่ พยายามอย่าให้ไหล่ทั้งสองข้างเคลื่อนไหวขณะออกกำลังกายท่านี้ ค้างไว้ที่ท่านี้ประมาณหนึ่งนาที จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="ท่ายกดัมเบลบนลูกบอลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้า (ถือดัมเบลแบบหงายมือ)\n";
+"1. Hold one dumbbell with underhand grip. Kneel behind the stability ball. Position upper arm on stability ball.2. Lift dumbbell up while keeping your upper arm in place. Refrain from using your shoulder during the movement. Hold for one second. Return to starting position."="1. ถือดัมเบลหนึ่งอันด้วยท่าจับหงายมือ คุกเข่าที่ด้านหลังของลูกบอลออกกำลังกาย จัดท่าแขนด้านบนให้อยู่บนลูกบอลออกกำลังกาย\n\n2. ยกดัมเบลขึ้นโดยให้แขนด้านบนของคุณตรึงอยู่กับที่ พยายามอย่าให้ไหล่ทั้งสองข้างเคลื่อนไหวขณะออกกำลังกายท่านี้ ค้างไว้ที่ท่านี้ประมาณหนึ่งนาที จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Stability Ball Dumbbell Biceps Curl Seated"="ท่านั่งยกดัมเบลบนลูกบอลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้า\n";
+"1. While sitting upright on a stability ball, grab and hold of a pair of dumbbells so that your arms are fully extended by your side. The palms of your hands should be facing outward, as illustrated.2. Gradually curl your arms at the elbow, facing the dumbbells to shoulders level while not changing the position of your arms. The arm should simply bend at the elbow without moving in any other direction. Do not turn your wrists as you are raising the dumbbells."="1. นั่งท่าหลังตรงบนลูกบอลออกกำลังกาย ถือดัมเบลด้วยมือทั้งสองข้าง จัดให้แขนทั้งสองข้างเหยียดตรงที่ด้านข้างลำตัว ฝ่ามือหันออกไปด้านนอก แสดงดังภาพ\n\n2. ค่อย ๆ งอข้อศอกอย่างต่อเนื่อง หันดัมเบลไปที่ระดับไหล่ทั้งสองข้างโดยที่แขนยังอยู่ที่ตำแหน่งเดิม แขนงอเล็กน้อยที่ข้อศอกโดยที่ไม่เคลื่อนไปในทิศทางใด อย่าหันข้อมือเนื่องจากคุณกำลังยกดัมเบลอยู่ \n";
+"Stability Ball Dumbbell Biceps Preacher Curl"="ท่ายกดัมเบลบนลูกบอลด้วยกล้ามเนื้อแขนท่อนบนส่วนหน้าแบบพรีเชอร์\n";
+"1. Place a pair of dumbbells on the floor in front of a ball. Kneel directly behind the ball, and drape your arms over it to grab the dumbbells in an underhand grip. Let out weight move back toward your heels as you brace your triceps on the ball, forearms down.2. Keep your back straight as you curl the weights up until your forearms are just short of perpendicular to the floor. "="1. วางดัมเบลทั้งสองอันบนพื้นและวางที่ด้านหน้าของลูกบอลออกกำลังกาย คุกเข่าที่ด้านหลังของลูกบอล พาดแขนทั้งสองข้างบนลูกบอลเพื่อหยิบดัมเบลด้วยท่าจับหงายมือ ปล่อยน้ำหนักให้เคลื่อนไปด้านหลังไปทางส้นเท้าในขณะบีบรัดกล้ามเนื้อแขนท่อนบนส่วนหลังบนลูกบอล แขนท่อนปลายห้อยลงด้านล่าง\n\n2. จัดให้หลังอยู่ในท่าเหยียดตรงขณะที่คุณยกดัมเบลขึ้นจนกระทั่งแขนท่อนปลายเกือบทำมุมฉากกับพื้น\n";
+"Underhand Grip Prone On An Incline Bench"="ท่านอนคว่ำบนม้านั่งเอียงและจับแบบหงายมือ\n";
+"1. Lie down on the floor. One foot is flat on the floor while the other leg is straight. Use your hands to stabilise your position.2. Raise your straight leg until your lower back is off the ground. Hold for one second. Return to starting position. "="1. นอนคว่ำหน้าบนม้านั่งเอียง ให้ดัมเบลห้อยลงที่ด้านข้างของคุณด้วยการจับแบบหงายมือ ยืดแขนให้ตรง\n\n2. ยกดัมเบลทั้งสองขึ้นด้านบนอย่างช้า ๆ ตรึงข้อมือให้นิ่ง ต้านน้ำหนักดัมเบลที่จะทำให้ข้อมือหมุน แขนท่อนบนทำมุมฉากกับพื้น\n";
+"1. While seated with back straight, centre the barbell on your lower things. Use your hands to stabilize any barbell movement.2. Raise your calves by tiptoeing. Hold for one second. Lower your calves back to the ground."="1. นั่งหลังตรง จัดให้บาร์เบลอยู่ตรงกลางบนต้นขาส่วนล่าง ใช้มือทั้งสองข้างช่วยพยุงขณะที่ทำการเคลื่อนไหวบาร์เบล\n\n2. ยกน่องโดยการเขย่งเท้าทั่งสองข้างขึ้น ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที ลดระดับน่องลงไปที่พื้น\n";
+"Barbell Calf Raise With Single Leg (Seated)"="ท่ายกบาร์เบลด้วยน่องหนึ่งข้าง (ท่านั่ง)\n";
+"1. While seated with back straight, centre the barbell on one of your lower things. Use your hands to stabilize any barbell movement.2. Raise your calves by tiptoeing. Hold for one second. Lower your calves back to the ground.3. Repeat the same with the over leg."="1. นั่งหลังตรง จัดให้บาร์เบลอยู่ตรงกลางบนต้นขาส่วนล่าง ใช้มือทั้งสองข้างช่วยพยุงขณะที่ทำการเคลื่อนไหวบาร์เบล\n\n2. ยกน่องขึ้นโดยการเขย่งเท้า ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นลดระดับลงกลับไปที่พื้น\n\n3. ทำซ้ำท่าเดิมโดยใช้ขาอีกข้าง\n";
+"Dumbbell Calf Jump"="ท่าถือดัมเบลกระโดดด้วยน่อง\n";
+"1. Stand with your feet hip-width apart. Grab a pair of dumbbells and hold them at your sides at arm’s length.2. Dip your knees so they are bent about 45 degrees and jump as high as you can. Point your toes toward the floor when you jump.3. Allow your knees to bend 45 degrees when your land, then immediately jump again."="1. ยืนด้วยเท้าหนึ่งข้างที่ระยะห่างเท่ากับระยะความกว้างของสะโพก ถือดัมเบลด้วยมือทั้งสองข้าง แขนเหยียดตรงห้อยลงข้างลำตัว\n\n2. ยื่นเข่าออกไปข้างหน้าเพื่อให้เข่างอทำมุม 45 องศา จากนั้นกระโดดให้สูงเท่าที่จะทำได้ หันนิ้วเท้าชี้ไปที่พื้นเมื่อกระโดดขึ้น\n\n3. จัดให้เข่าทั้งสองข้างงอทำมุม 45 องศาเมื่อลงสู่พื้น จากนั้นกระโดดขึ้นอีกครั้งในทันที\n";
+"Dumbbell Calf Raise (Seated)"="ท่ายกดัมเบลด้วยน่อง (ท่านั่ง)\n";
+"1. While seated with back straight, centre one dumbbell on each of your lower thighs. Use your hands to stabilize any movement.2. Raise your calves by tiptoeing. Hold for one second. Return to starting position."="1. นั่งหลังตรง จัดให้ดัมเบลอยู่ตรงกลางบนต้นขาส่วนล่างแต่ละข้าง ใช้มือทั้งสองข้างช่วยพยุงขณะที่ทำการเคลื่อนไหวดัมเบล\n\n2. ยกน่องขึ้นโดยการเขย่งเท้า ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นลดระดับลงและกลับไปที่ท่าเริ่มต้น\n";
+"Standing Barbell Calf Raise"="ท่ายืนยกบาร์เบลดันน่องขึ้น\n";
+"1. While standing with back straight, position barbell on top of your shoulders. Hold barbell with overhand grip. Distance between hands should be wider than shoulder width apart.2. Raise your calves by tiptoeing. Hold for one second. Lower your calves back to the ground."="1. ยืนด้วยท่าหลังตรง จัดท่าบาร์เบลให้อยู่บนไหล่ทั้งสองข้าง จับบาร์เบลด้วยท่าจับคว่ำมือ ระยะห่างระหว่างมือทั้งสองควรห่างกันมากกว่าระดับความกว้างของไหล่\n\n2. ยกน่องขึ้นด้วยการเขย่งเท่า ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นลดระดับลงกลับไปที่พื้น\n";
+"Standing Dumbbell Calf Raise"="ท่ายืนถือดัมเบลยกน่อง\n";
+"1. Stand straight with your feet hip-width apart and hold a heavy dumbbell in each hand, arms by your sides.2. Keeping your back straight, slowly rise up on the toes of both feet, raising your heels as high as you can.3. Pause at the top, then slowly lower your heels back down."="1. ยืนตรงโดยให้เท้าทั้งสองข้างอยู่ห่างกันที่ระยะความกว้างของไหล่ ถือดัมเบลหนัก ๆ หนึ่งอันในมือแต่ละข้าง จัดให้แขนอยู่ที่ข้างลำตัว\n\n2. จัดให้หลังตรง ค่อย ๆ เขย่งเท้าทั้งสองข้างโดยใช้นิ้วเท้ายกส้นเท้าขึ้นให้สูงที่สุดเท่าที่จะทำได้\n\n3. ค้างไว้ที่ส่วนบนสุดสักระยะ จากนั้นค่อย ๆ ลดระดับส้นเท้าลงสู่ด้านล่าง\n";
+"Single Arm Pushup"="ท่าวิดพื้นด้วยแขนข้างเดียว\n";
+"1. Assume the standard push-up positions: prone, feet together, hands on the floor just below the level of your shoulders and about shoulders' width apart. Move your feet apart, a little more than shoulders' width.2. Lift one hand and rest it on the small of your back.3. Using the other hand, push your body up from the floor, keeping your back straight. Stop just before you \"lock out\" your elbow at the top of the movement.4. Lower your body with the one arm. To maintain your balance, turn your torso slightly away from the pushing arm.5. Continue lowering yourself until your chin is about a fist's width above the floor. Since you angled your torso, your chin should be about where the hand you now have behind your back was when you started the exercise. This is one repetition.6. Go back to step one and repeat using your other arm."="1. จัดให้ลำตัวอยู่ในท่าวิดพื้นมาตรฐานโดยนอนคว่ำหน้า เท้าชิดกัน มืออยู่บนพื้นซึ่งอยู่ใต้ระดับไหล่และระยะห่างเท่ากับความกว้างของไหล่ \n\n 2. ยกมือหนึ่งข้างขึ้นและพักไว้ที่หลัง\n\n3. ใช้มืออีกข้างหนึ่งดันร่างกายขึ้นจากพื้นโดยให้หลังเหยียดตรง หยุดก่อนที่คุณจะ \"ล็อค\" ข้อศอกของคุณที่ส่วนบนสุดของท่านี้\n\n4. ลดระดับลำตัวลงด้านล่างโดยใช้แขนหนึ่งข้าง เพื่อให้ลำตัวของคุณสมดุลให้หันออกไปจากแขนข้างที่วิดพื้นเล็กน้อย\n\n5. ลดระดับลงอย่างต่อเนื่องจนกระทั่งคางอยู่ห่างจากพื้นที่ระยะห่างเท่ากับกำปั้น เนื่องจากคุณงอตัวอยู่ คางควรอยู่ที่ระดับเดียวกับมือซึ่งอยู่ด้านหลังตั้งแต่คุณเริ่มออกกำลังกายในท่านี้ นี่เป็นการทำซ้ำหนึ่งครั้ง\n\n6. กลับไปที่ขั้นตอนที่หนึ่งและทำซ้ำด้วยแขนอีกข้าง\n";
+"Decline Pushup"="ท่าวิดพื้นวางเท้าบนพื้นยกระดับ\n";
+"1. Place your feet on a bench or any elevated step and get into a standard pushup position.2. Lower your body until your chest nearly touches the floor, pause, then push yourself back to the starting position. Maintain proper form throughout by preventing your hips from sag gin at any point, keep your core stiff by bracing your abdominal muscles and straighten your legs while placing your weight on your toes."="1. วางเท้าทั้งสองข้างบนม้านั่งหรือพื้นยกระดับ จากนั้นจัดให้อยู่ในท่าวิดพื้นมาตรฐาน\n\n2. ลดระดับร่างกายลงจนกระทั่งหน้าอกเกือบถึงพื้น ค้างที่ท่านี้สักครู่ จากนั้นดันตัวกลับขึ้นด้านบนไปที่ท่าเริ่มต้น จัดร่างกายให้อยู่ในท่าที่เหมาะสมตลอดการออกกำลังกายโดยไม่ให้สะโพกห้อยลง ตรึงส่วนกลางลำตัวให้แน่นโดยการบีบรัดกล้ามเนื้อท้องและเหยียดขาทั้งสองข้างให้ตรงขณะวางน้ำหนักไปที่เท้า\n";
+"Dive Bomber Pushup"="ท่าวิดพื้นแบบไดฟ์บอมเบอร์\n";
+"1. Position yourself in pushup position but ensure that your hands are placed farther in front and wider that your shoulders. Raise your hips as you move your feet forward as far as possible. Keep your back and legs straight throughout the movement.2. Move your chest downward and forward until nearly touching the floor. Your shoulders should be inline with your hands.3. Pause, then push out your hips downward and straighten your arms. Pause again, then revers the movement until you’ve come back to the starting position."="1. จัดท่าให้อยู่ในท่าวิดพื้นแต่ให้มือทั้งสองข้างวางไกลจากด้านหน้าของคุณและอยู่ในระยะที่กว้างกว่าระยะความกว้างของไหล่ ยกสะโพกขั้นขณะที่เคลื่อนเท้าไปด้านหน้าให้ไกลมากที่สุดเท่าที่จะทำได้ หลังและขาควรอยู่ในท่าตรงตลอดการเคลื่อนไหว\n\n2. ลดระดับหน้าอกลงด้านล่างและเคลื่อนไปข้างหน้าจนกระทั่งเกือบถึงพื้น ไหล่ควรอยู่ในแนวเดียวกันกับมือทั้งสองข้าง\n\n3. หยุดชั่วขณะ จากนั้นดันสะโพกลงด้านล่างและเหยียดแขนให้ตรง ค้างไว้ที่ท่านี้สักครู่ จากนั้นเคลื่อนไหวกลับมาในท่าเดิมจนอยู่ในท่าเริ่มต้น\n";
+"Dumbbell Floor Chest Press"="ท่านอนราบกับพื้นยกดัมเบล\n";
+"1. Lie down on the floor. Grasp the dumbbells with overhand grip. Rest your upper arms on the floor while pointing dumbbells toward the ceiling.2. Fully extend arms towards the ceiling. Hold for one second. Keep your entire back on the bench at all times. Refrain from any leg movement. Return to starting position."="1. นอนราบบนพื้น ถือดัมเบลด้วยท่าจับคว่ำมือ พักแขนส่วนบนที่พื้นขณะหันดัมเบลชี้ไปที่ด้านบนเพดาน \n\n2. เหยียดแขนขึ้นด้านบนให้สุดแขน ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที วางหลังบนม้านั่งตลอดการทำท่านี้ พยายามอย่าให้ขาเคลื่อนไหวหรือเคลื่อนที่ จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Dumbbell Pushup"="ท่าวิดพื้นด้วยดัมเบล\n";
+"1. With two dumbbells places shoulder-width apart on the florin front of you, kneel down and hold onto them. Keep your arms straight, legs extended, feet fairly together and lock your elbows.2. Lower your body to the floor by placing a bend in your elbows and keeping your back straight.3. Push yourself back up until your arms are straight and elbows unlocked. Repeat."="1. วางดัมเบลสองอันที่พื้นตรงหน้าคุณด้วยระยะห่างของดัมเบลทั้งสองเท่ากับความกว้างของไหล่ คุกเข่าลงและจับดัมเบลทั้งสอง จัดให้แขนเหยียดตรง ขายืดออก วางเท้าเกือบชิดกันและล็อคข้อศอกทั้งสองข้างให้อยู่กับที่\n\n2. ลดระดับตัวลงไปที่พื้นโดยการงอที่ข้อศอกในขณะที่ตรึงให้หลังเหยียดตรง\n\n3. ดันตัวเองขึ้นจนแขนเหยียดตรงและข้อศอกถูกปลดล็อค จากนั้นทำซ้ำท่าเดิม\n";
+"Incline Pushup"="ท่าวิดพื้นเอียงบนม้านั่ง\n";
+"1. Place your hands on a bench and get into a standard pushup position.2. Lower your body until your chest nearly touches the bench, pause, then push yourself back to the starting position. Maintaining proper form throughout  by preventing your hips from sagging at any point, keep your core stiff by bracing your abdominal muscles and straighten your legs while your weight on your toes. Repeat."="1. วางมือทั้งสองข้างบนม้านั่งและจัดให้อยู่ในท่าวิดพื้นมาตรฐาน\n\n2. ลดระดับลำตัวลงจนกระทั่งหน้าอกเกือบถึงพื้นของม้านั่ง ค้างไว้ที่ท่านี้สักครู่ จากนั้นดันตัวขึ้นกลับไปที่ท่าเริ่มต้น จัดให้อยู่ในท่าที่เหมาะสมตลอดการออกกำลังกายโดยไม่ให้สะโพกห้อยลง ตรึงส่วนกลางลำตัวให้แน่นโดยการบีบรัดกล้ามเนื้อท้องและเหยียดขาทั้งสองข้างให้ตรงขณะวางน้ำหนักไปที่เท้า จากนั้นทำซ้ำ\n";
+"Medicine Ball Pushup (Alternating)"="ท่าวิดพื้นด้วยลูกบอลน้ำหนัก (สลับข้างกัน)\n";
+"1. Lie down with your hands on the floor. Position hands next to lower chest. Distance between your hands should be slightly wider than shoulder width apart. Lift yourself with your arms so that only your hands and toes are on the floor. Maintain a straight back. Position the medicine ball under ones hand. Hands point slightly outward.2. Lower yourself until your chest is inches away from the floor by bending your elbows. The elbows should bend toward your feet. Hold for one second. Return to starting position.3. Roll the ball over to the over hand and repeat same movements."="1. นอนราบโดยให้มือวางบนพื้น จัดท่าให้มือทั้งสองข้างอยู่ถัดจากอกส่วนล่าง ระยะห่างระหว่างมือทั้งสองควรกว้างกว่าความกว้างของไหล่เล็กน้อย ยกตัวขึ้นด้วยแขนทั้งสองข้างเพื่อให้มือและนิ้วเท้ายังอยู่ที่พื้น ตรึงให้หลังตรงตลอด จัดให้ลูกบอลน้ำหนักอยู่ในมือหนึ่งข้าง และมือทั้งสองข้างชี้ออกด้านนอกเล็กน้อย\n\n2. ลดระดับตัวลงโดยงอที่ข้อศอกจนกระทั่งหน้าอกอยู่ห่างจากพื้นเพียงไม่กี่นิ้ว ข้อศอกควรงอและชี้ไปทางเท้าของคุณ ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นกลับไปที่ท่าเริ่มต้น\n\n3. กลิ้งลูกบอลไปที่มืออีกข้างและเคลื่อนไหวในท่าเดิม\n";
+"Modified Pushup"="ท่าวิดพื้นแบบดัดแปลง\n";
+"1. Get down on all fours and place your hands on the floor so that they are slightly wider than your shoulders. cross your ankles behind you as illustrated.2. Lower body until your chest nearly touches the ground, pause, then push yourself back to the starting position. Keep your core stiff by bracing your abdominal muscles."="1. วางมือและเข่าลงบนพื้นและจัดให้มือทั้งสองอยู่ห่างกันที่ระยะกว้างกว่าความกว้างของไหล่เล็กน้อย ไขว้ข้อเท้าทั้งสองข้างไปด้านหลัง แสดงดังรูป\n\n2. ลดระดับลำตัวลงจนกระทั่งหน้าอกเกือบถึงพื้น ค้างไว้ที่ท่านี้สักครู่ จากนั้นดันกลับไปสู่ท่าเริ่มต้น พยายามให้แกนกลางลำตัวตรึงแน่นอยู่เสมอโดยการบีบรัดที่กล้ามเนื้อท้อง\n";
+"Stability Ball Flat Dumbbell Chest Press"="ท่ายกดัมเบลเหนืออกบนบอลออกกำลังกาย\n";
+"1. Lie back on the stability ball. Feet are one the floor. Grasp the dumbbells with overhand grip. Hold the dumbbells next to your chest.2. Fully extend your arms in front of you. Hold for a brief moment. Return to starting position."="1. นอนบนลูกบอลออกกำลังกายและให้เท้าวางราบบนพื้น ถือดัมเบลด้วยท่าจับคว่ำมือ ค้างดัมเบลไว้ที่ข้างอกของคุณ\n\n2. เหยียดแขนไปด้านหน้าให้สุดแขน ค้างไว้ที่ท่านี้สักครู่ จากนั้นกลับมายังท่าเริ่มต้น\n";
+"Stability Ball Flat Dumbbell Fly"="ท่ายกดัมเบลกางแขนท่าบินบนลูกบอลออกกำลังกาย\n";
+"1. Lie back on the stability ball. Feet are on the floor. Hold onto two dumbbells with a hammer grip. Full extend your arms above your chest.2. While maintaining a slight bend in your elbows, lower dumbbells to each side until the dumbbells are next to your upper body. Hold for one second. Return to starting position."="1. นอนบนลูกบอลออกกำลังกายและให้เท้าวางราบบนพื้น ถือดัมเบลด้วยท่าจับฆ้อน เหยียดแขนออกไปเหนือหน้าอกให้สุด\n\n2. ขณะงอที่ข้อศอกเล็กน้อย ให้ลดระดับดัมเบลลงไปด้านข้างจนกระทั่งดัมเบลอยู่ที่ข้างลำตัวส่วนบน ค้างไว้ที่ท่านี้สักครู่ จากนั้นกลับมายังท่าเริ่มต้น\n";
+"Stability Ball Pushup"="ท่าวิดพื้นบนลูกบอลออกกำลังกาย\n";
+"1. Place yourself in standard pushup position. To make it harder, place your shins and feet on the ball. Remember to support your body with the balls of your feet and your hands, and keep the latter shoulder-width apart, palms flat on the floor.2. Lower your torso until your chest is just a fraction of a an inch off the floor. Push yourself back to starting position."="1. จัดลำตัวให้อยู่ในท่าวิดพื้นทั่วไป เพื่อให้วิดพื้นได้ยากขึ้น ให้วางหน้าแข้งและเท้าบนลูกบอลออกกำลังกาย โปรดจำไว้ว่าให้ใช้ปลายเท้าทั้งสองข้างและมือช่วยพยุงตัวไว้ และให้มือทั้งสองอยู่ที่ระยะห่างเท่ากับความกว้างของไหล่ วางฝ่ามือให้ราบกับพื้น\n\n2. ลดระดับลำตัวลงจนกระทั่งหน้าอกอยู่ห่างจากพื้นเล็กน้อย ดันตัวกลับไปที่ท่าเริ่มต้น\n";
+"Weighted Pushup"="ท่าวิดพื้นพร้อมแผ่นน้ำหนักบนหลัง\n";
+"1. Go into standard pushup position, with hands beneath your shoulders. This time though, ask a partner to place a weight plate on your back, between your shoulder blades.2. Keep your body straight as you lower yourself by bending your elbow until your chest touches the floor.3. Pause, then push yourself up."="1. จัดให้อยู่ในท่าวิดพื้นมาตรฐานโดยให้มือทั้งสองอยู่ใต้ไหล่ จากนั้นให้ผู้ช่วยช่วยวางแผ่นน้ำหนักไว้ที่หลังโดยให้น้ำหนักอยู่ระหว่างแผ่นหลังทั้งสอง\n\n2. ให้ลำตัวเหยียดตรงขณะที่ลดระดับลงโดยการงอที่ข้อศอกจนกระทั่งหน้าอกสัมผัสที่พื้น\n\n3. ค้างที่ท่านี้สักครู่ จากนั้นดันตัวขั้นด้านบน\n";
+"Dumbbell Wrist Twist"="ท่าหมุนบิดดัมเบลด้วยข้อมือ\n";
+"1. Stand with a light dumbbell in each hand with your arms at your sides, palms facing behind you. Bend your arms to curl the weights up until your forearms are parallel to the floor. This is the starting position.2. Rotate your wrists until your palms face the ceiling, then rotate them back so your palms face the floor once again. That’s one repetition."="1. ยืนตรงพร้อมกับถือดัมเบลน้ำหนักน้อยไว้ในมือทั้งสองข้างโดยให้แขนของคุณอยู่ข้างลำตัว ให้ฝ่ามือหันไปทางด้านหลังของคุณ จากนั้นงอแขนทั้งสองข้างเพื่อยกดัมเบลขึ้นจนกระทั่งแขนท่อนปลายขนานกับพื้น ท่านี้เป็นท่าเริ่มต้น\n\n2. หมุนข้อมือจนกระทั่งฝ่ามือหันไปทางเพดาน จากนั้นหมุนกลับมาที่เดิมเพื่อให้ฝ่ามือหันไปทางพื้น นี่คือการทำซ้ำหนึ่งครั้ง\n";
+"Standing Wrist Curl"="ท่ายืนหมุนข้อมือบิดโค้ง\n";
+"1. Grab a barbell from your behind using an underhand grip while keeping your arms straight. Hang the barbell so that it rests on your extended fingers.2. Flex your wrists to raise the barbell up as high as possible.3. Reverse the movement to lower the barbell."="1. ถือบาร์เบลด้วยท่าจับแบบหงายมือ แขนเหยียดตรงลงด้านล่าง ห้อยบาร์เบลลงด้านล้างและพักที่นิ้วมือที่เหยียดสุดนิ้ว\n\n2. งอข้อมือทั้งสองข้างเพื่อยกบาร์เบลขึ้นด้านบนให้สูงเท่าที่จะทำได้\n\n3. บิดข้อมือกลับเพื่อลดระดับบาร์เบลลง\n";
+"Barbell Hack Squat"="ท่าย่อตัวยกดัมเบลจากด้านหลัง\n";
+"1. Stand straight with get shoulder width apart. Hold barbell with overhand grip. Place barbell behind your hamstrings. Distance between your hands should be wider than shoulder width apart.2. Lower yourself by bending your knees. You back is straight throughout the whole movement. Stop when your thighs are parallel with the ground or when the barbell touches the floor. When you return to the starting position, generate energy with your lower back."="1. ยืนตรงด้วยความห่างของเท้าเท่ากับระยะความกว้างของไหล่ จับบาร์เบลด้วยท่าจับคว่ำมือ ถือบาร์เบลไว้ด้านหลังขาท่อนบนโดยให้อยู่ที่ระดับเอ็นร้อยหวาย ระยะห่างระหว่างมือทั้งสองที่จับบาร์เบลควรห่างกว่าความกว้างของไหล่\n\n2. ลดระดับลำตัวลงด้านล่างโดยการงอเข่าและให้หลังตรงตลอดการเคลื่อนไหว หยุดเมื่อทุกอย่างขนานกับพื้นหรือบาร์เบลแตะที่พื้น เมื่อกลับมาที่ท่าเริ่มต้น ให้ออกกำลังด้วยหลังส่วนล่าง\n";
+"Barbell Lunge"="ท่ายกบาร์เบลก้าวเท้าไปข้างหน้า\n";
+"1. Start by placing a barbell across your upper back, use an overhand grip slightly wider than your shoulders.2. Stand with your feet about 8 inches apart, toes facing forward.3. Take a step forward (2-3 feet) keeping your abs drawn in and your upper body straight.4. Slowly lower one knee down as if kneeling while keeping your other knee bent at a 90 degrees angle, do not let your knee touch the ground.5. Lower your body to just above the floor and hold for a moment before returning to the starting position. Repeat with the other leg."="1. เริ่มด้วยการวางบาร์เบลที่หลังด้านบนใกล้ไหล่ จับบาร์เบลด้วยท่าจับแบบคว่ำมือที่ระยะห่างกว้างกว่าความกว้างของไหล่เล็กน้อย\n\n2. ยืนให้เท้าทั้งสองข้างห่างกันประมาณ 8 นิ้วและให้นิ้วเท้าหันไปด้านหน้า\n\n3. ก้าวเท้าไปข้างหน้าหนึ่งก้าว (ประมาณ 2-3 ฟุต) บีบรัดท้องเข้าด้านในขณะที่หลังเหยียดตรง\n\n4. ค่อย ๆ ลดระดับเข่าหนึ่งข้างลงราวกับว่ากำลังจะคุกเข่าแต่อย่าให้เข่าแตะที่พื้น ขณะที่เข่าอีกข้างงอทำมุม 90 องศา \n\n5. ลดระดับตัวลงเหนือพื้นเล็กน้อยและค้างไว้สักครู่ก่อนที่จะกลับไปที่ท่าเริ่มต้น ทำซ้ำด้วยขาอีกข้าง\n";
+"Barbell Squat (Assisted)"="ท่ายกบาร์เบลย่อตัว (ใช้ม้านั่งช่วย)\n";
+"1. Stand straight with a flat bench behind you. Feet are shoulder width apart. Place barbell on the back of your shoulders. Hold barbell with overhand grip. Distance between your hands should be wider than shoulder wide apart. Adjust feet to face slightly outward.2. Lower yourself by bending your knees. Your back is straight throughout the whole movement. Stop when your thighs are parallel with the ground or when your behind touches the bench. When you return to the starting position, generate energy from your lower back."="1. ยืนตรงและให้ม้านั่งราบอยู่ด้านหลังคุณ เท้าทั่งสองข้างอยู่ห่างกันที่ระยะความกว้างของไหล่ วางบาร์เบลบนส่วนหลังของไหล่ จับบาร์เบลด้วยท่าจับแบบคว่ำมือ ระยะห่างระหว่างมือทั้งสองข้างควรห่างกว่าความกว้างของไหล่ จัดให้เท้าหันออกด้านนอกเล็กน้อย\n\n2. ลดระดับตัวลงโดยการงอที่เข่าและให้หลังตรงตลอดการเคลื่อนไหว หยุดเมื่อต้นขาขนานกับพื้นหรือเมื่อด้านหลังแตะที่ม้านั่ง เมื่อกลับไปที่ท่าเริ่มต้น ให้ใช้กำลังจากหลังส่วนล่าง\n";
+"Barbell Squat Overhead"="ท่ายกบาร์เบลเหนือศีรษะ\n";
+"1. Stand straight with feet shoulder width spar. Hold barbell with overhand grip. Distance between your hands should be wider than shoulder width apart. adjust feet to face slightly outward. Lift barbell overhead with arms fully extended.2. Lower yourself by bending your knees. Your back is straight throughout the whole movement. Stop when your thighs are parallel with the ground. When you return to the starting position, generate energy with your lower back."="1. ยืนตรงระยะห่างของเท้าเท่ากับความกว้างของไหล่ จับบาร์เบลด้วยท่าจับคว่ำมือ ระยะห่างของมือทั้งสองข้างกว้างกว่าความกว้างของไหล่ ปรับเท้าให้หันไปด้านนอกเล็กน้อย ยกบาร์เบลขึ้นเหนือศีรษะด้วยแขนเหยียดตรงเต็มที่\n\n2. ลดระดับตัวลงโดยการงอเข่า จัดให้หลังตรงตลอดการเคลื่อไหว หยุดเมื่อต้นขาขนานกับพื้น เมื่อกลับไปที่ท่าเริ่มต้น ให้ใช้กำลังจากหลังส่วนล่าง\n";
+"Bench Jump"="ท่ากระโดดขึ้นม้านั่ง\n";
+"1. Stand in front of a bench.2. Jump onto the bench and immediately jump back to the starting position on the floor.3. Repeat multiple times."="1. ยืนหน้าม้านั่ง\n\n2. กระโดดขึ้นไปบนม้านั่งและกระโดดกลับลงพื้นเพื่อไปที่ท่าเริ่มต้นในทันที\n\n3. ทำซ้ำหลายครั้ง\n";
+"Bulgarian Split Squat"="ท่าย่อตัวขาแยกแบบบัลแกเรียน\n";
+"1. Stand upright about 2-3 feet in front of a bench, with a dumbbell held in each hand. Extend your right foot backward and rest the top of your foot on the bench.2. Keep your back straight and your head held up as your slowly bend your left leg and lower yourself into a lunge position. Stop lowering yourself when your left thigh is roughly parallel to the floor.3. Slowly press yourself back up until your left leg is straight once again, and repeat. Remember to switch legs and give your other leg a workout as well."="1. ยืนหลังตรงอยู่ด้านหน้าม้านั่งโดยให้ห่างจากม้านั่งประมาณ 2-3 ฟุต ถือดัมเบลไว้ในมือแต่ละข้าง ยืดเท้าขวาไปด้านหลังและพักเท้าส่วนปลายบนม้านั่ง\n\n2. จัดให้หลังตรงและศีรษะตั้งตรงขณะที่งอขาข้างซ้ายอย่างช้า ๆ ลดระดับตัวลงในท่าเตรียมพุ่งตัว หยุดการลดระดับตัวลงชั่วขณะเมื่อต้นขาข้างซ้ายขนานกับพื้นเล็กน้อย\n\n3. ค่อย ๆ กดหลังกลับไปจนกระทั่งขาข้างซ้ายเหยียดตรงอีกครั้ง ทำซ้ำด้วยขาข้างเดิม จากนั้นเปลี่ยนไปทำด้วยขาอีกข้าง\n";
+"Bulgarian Split Squat (No Weights)"="ท่าย่อตัวขาแยกแบบบัลแกเรียน (ไม่ถือดัมเบล)\n";
+"1. Place one foot on the floor, roughly 3 feet in front of a chair, and balance with your other foot on a chair behind you, as illustrated. Your hands should be held behind your head. 2. Use your front foot for balance as you bend both knees to lower your body straight down until your back knee is a few inches off the floor and your front leg is bent roughly 90 degrees. The rest of your body should form a straight line. Finish the set, then switch your leg positions and repeat."="1. วางเท้าหนึ่งข้างบนพื้นโดยให้ห่างจากเก้าอี้ประมาณ 3 ฟุต เท้าอีกข้างวางบนเก้าอี้ที่อยู่ด้านหลังดังแสดงดังภาพ มือทั้งสองข้างควรอยู่ด้านหลังศีรษะ\n\n2. ใช้เท้าที่อยู่ด้านหน้าช่วยทรงตัวขณะที่งอเข่าทั้งสองเพื่อลดระดับลำตัวลงด้านล่างตรง ๆ จนกระทั่งเข่าของขาที่อยู่ด้านหลังอยู่ห่างจากพื้นเพียงไม่กี่นิ้ว และขาที่อยู่ด้านหน้างอทำมุม 90 องศา ลำตัวควรอยู่ในแนวตรง ทำชุดนี้ให้เสร็จ จากนั้นเปลี่ยนไปทำด้วยขาอีกข้าง และทำซ้ำ\n";
+"Dumbbell Side Lunge"="ท่าถือดัมเบลพุ่งตัวไปด้านข้าง\n";
+"1. Standing upright, hold a pair of dumbbells by your side with arms extended downward.2. Step to one side and lower your body as your lean your torso slightly forward. Keep the stationary leg straight throughout the movement.3. Push off of the bent leg to return to the starting position. Repeat with the other leg."="1. ยืนตรง ถือดัมเบลในมือทั้งสองข้างไว้ที่ข้างตัว แขนเหยียดตรงลงด้านล่าง\n\n2. ก้าวขาหนึ่งข้างออกไปด้านข้างพร้อมลดระดับตัวลงขณะที่โน้มลำตัวไปด้านหน้าเล็กน้อย ขาที่อยู่กับที่ให้ตรงอยู่ตลอดการเคลื่อนไหวในท่านี้\n\n3. ดันขาที่งออยู่ให้กลับไปที่ท่าเริ่มต้น ทำซ้ำด้วยขาอีกข้าง\n";
+"Good Morning"="ท่ากู๊ดมอร์นิ่ง\n";
+"1. Hold a barbell with an overhand grip so that it rests on your upper back and not on your neck. Set your feet at shoulder width apart and knees slightly bent while keeping your back straight. 2. Gradually bend forward using your hips to lower your chest while maintaining the natural arch in your lower back. Keep your head up and maintain about the same angle of your knees.3. Lift your upper body back into starting position."="1. ถือบาร์เบลด้วยท่าจับคว่ำมือและให้บาร์เบลพักที่หลังส่วนบนไม่ใช่ที่คอ จัดระยะห่างของเท้าทั้งสองข้างให้เท่ากับความกว้างของไหล่ งอเข่าเล็กน้อยขณะที่หลังตรง\n\n2. โค้งไปข้างหน้าอย่างต่อเนื่องโดยใช้สะโพกเพื่อลดระดับหน้าอกลงขณะที่หลังส่วนล่างโค้งอย่างเป็นธรรมชาติ ตั้งศีรษะขึ้นและให้ทำมุมเช่นเดียวกับเข่าทั้งสองข้างของคุณ\n\n3. ยกลำตัวส่วนบนกลับไปที่ท่าเริ่มต้น\n";
+"One Arm Side Deadlift"="ท่ายกบาร์เบลด้วยแขนข้างเดียว\n";
+"1. Stand besides a barbell placed on the floor.2. Grasp the bar with an overhand grip from the center. 3. Crouching down as if your were performing a squat, bend down so your thighs are parallel with the floor. 4. Extend your legs slowly as you straighten your body up, drawing in your abs as you rise."="1. ยืนที่ข้างบาร์เบลที่วางอยู่ที่พื้น\n\n2. จับที่ตรงกลางบาร์เบลด้วยท่าจับแบบคว่ำมือ\n\n3. ย่อตัวลงเหมือนกำลังจะนั่งยอง ๆ และโน้มตัวลงด้านล่างเพื่อให้ต้นขาทั้งสองข้างขนานกับพื้น\n\n4. ยืดขาทั้งสองข้างอย่างช้า ๆ ขณะยืดให้ลำตัวตั้งตรง ดึงหน้าท้องเข้าขณะที่ยกตัวขึ้น\n";
+"Single Leg Squat"="ท่าย่อตัวด้วยขาข้างเดียว\n";
+"1. Stand with your feet shoulder width apart. Lift your stronger or dominant leg straight out in front of your, as high as possible.2. Such air into the stomach, then push your hips back and squat down as far as possible while keeping your torso as upright as possible. The heel of your front leg can touch the floor at the bottom of the squat, if you can get down that far.3. Return to the starting position and exhale. Do all your repetitions with your non dominant leg, then repeat with your dominant leg."="1. ยืนด้วยระยะห่างเท้าเท่ากับความกว้างของไหล่ ยกขาข้างที่แข็งแรงกว่าหรือขาหลักขึ้นไปข้างหน้าให้สูงที่สุดเท่าที่จะทำได้\n\n2. หายใจเข้าท้อง จากนั้นดันสะโพกไปด้านหลังและย่อตัวลงด้านล่างให้มากที่สุดเท่าที่จะทำได้ขณะที่ตรึงให้ลำตัวตรง ส้นเท้าของเท้าที่อยู่ข้างหน้าสามารถแตะที่พื้นได้เมื่อเคลื่อนลงไปต่ำสุดถ้าคุณสามารถลงไปได้ต่ำขนาดนั้น\n\n3. กลับไปที่ท่าเริ่มต้นและหายใจออก ทำซ้ำด้วยขาอีกข้างสลับไปมา\n";
+"Arnold Press"="ท่ายกดัมเบลอาร์โนลด์\n";
+"1. Sit on a flat bench and hold a pair of dumbbells at the level of your shoulders. Your palms should be facing the inward, and your elbows should point to the side.2. Turn both of your wrist outward until your palms face away from you. At the same time, fully extend arms overhead. Hold for one second. Return to the starting position."="1. นั่งบนม้านั่งและถือดัมเบลในมือทั้งสองข้างโดยให้ดัมเบลอยู่ระดับเดียวกับไหล่ของคุณ ฝ่ามือหันเข้าด้านในและศอกชี้ไปที่ด้านข้าง\n\n2. หันข้อมือทั้งสองข้างออกด้านนอกจนกระทั่งฝ่ามือหันออกจากคุณ ในขณะเดียวกันก็ให้ยืดแขนขึ้นด้านบนให้สุด ค้างไว้ที่ท่านี้ประมาณหนึ่งวินาที จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Barbell Front Raise"="ท่ายกบาร์เบลด้านหน้า\n";
+"1. Hold a barbell with a full overhand, shoulder-width grip, and stand with the barbell hanging in front of your thighs. Your feet should be shoulders-width apart with your knees slightly bent. Pull in your abs and tighten all your upper body muscles, and slightly bend your elbows.2. Raise the bar in front of you until your arms are parallel to the floor.3. Pause, then return to the starting position."="1. ถือบาร์เบลด้วยท่าจับแบบคว่ำมือทั้งสองข้าง ระยะห่างระหว่างมือเท่ากับความกว้างของไหล่ ยืนโดยให้บาร์เบลห้อยลงที่หน้าต้นขาของคุณ เท้าทั้งสองข้างอยู่ห่างเท่ากับความกว้างของไหล่พร้อมงอเข่าเล็กน้อย ดึงหน้าท้องเข้าและบีบรัดกล้ามเนื้อลำตัวส่วนบนทั้งหมดพร้อมกับงอข้อศอกเล็กน้อย\n\n2. ยกบาร์ขึ้นด้านหน้าของคุณจนกระทั่งแขนทั้งสองข้างขนานกับพื้น\n\n3. ค้างไว้ที่ท่านี้สักครู่ จากนั้นกลับไปยังท่าเริ่มต้น\n";
+"Dumbbell Lateral Raise With Arms Bent"="ยกดัมเบลขึ้นด้านข้างและแขนงอ\n";
+"1. Keep your legs at shoulders width apart. Your hands should be hanging down at your sides.2. Keeping your arms perfectly straight; slowly raise the dumbbells out and up to the level of your shoulders and at the same time bent your arms until they form a 90 degrees angle and your forearms are parallel with your body.  Keep your palms facing the ground.3. Keeping your elbows bent, lower slowly back to the start position and repeat for the desired number of reps."="1. จัดความห่างของขาให้เท่ากับความกว้างของไหล่ มือทั้งสองข้างห้อยลงที่ด้านข้างลำตัว\n\n2. เหยียดแขนให้ตรง; ค่อย ๆ ยกดัมเบลออกและยกขึ้นถึงระดับเดียวกับไหล่ทั้งสองข้าง ขณะเดียวกัน งอแขนจนกระทั่งทำมุม 90 องศาและแขนท่อนปลายขนานกับลำตัว ขณะที่ฝ่ามือหันลงด้านล้าง\n\n3. งอข้อศอกอยู่ตลอดเวลา ค่อย ๆ ลดระดับแขนลงไปที่ท่าเริ่มต้นและทำซ้ำตามจำนวนครั้งที่ต้องการ\n";
+"Dumbbell Scarecrow"="ท่ายกดัมเบลแบบหุ่นไล่กา\n";
+"1. While staring straight with feet shoulder width apart, hold dumbbells in front of your things with overhand grip. Raise your arms to your sides until your upper arms are parallel with the floor.2. Rotate your elbows forward until your forearms point straight up. Hold for one second. Return to starting position."="1. ยืนตรงโดยให้เท้าทั้งสองข้างอยู่ห่างกันเท่ากับความกว้างของไหล่ ถือดัมเบลด้วยการจับแบบคว่ำมือไว้ที่ระดับต้นขาส่วนหน้า ยกแขนขึ้นไปที่ด้านข้างจนกระทั่งขนท่อนบนขนานกับพื้น\n\n2. หมุนข้อศอกไปด้านหน้าจนกระทั่งแขนท่อนปลายชี้ขึ้นด้านบน ค้างไว้ที่ท่านี้สักครู่ จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Dumbbell Shoulder Press"="ท่ายกดัมเบลด้วยไหล่\n";
+"1. Stand straight with feet shoulder width apart. Hold dumbbells with overhand grip. Position dumbbells next to the sides of your head.2. Left dumbbells overhead until your arms are fully extended. Hold for one second. Return to starting position."="1. ยืนตรงโดยให้เท้าห่างกันเท่ากับระยะความกว้างของไหล่ ถือดัมเบลไว้ในมือด้วยท่าจับแบบคว่ำมือ จัดท่าดัมเบลให้อยู่ที่ข้างศีรษะ\n\n2. ยกดัมเบลขั้นเหนือศีรษะจนกระทั่งแขนเหยียดตรง ค้างไว้ที่ท่านี้สักครู่ จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Front Weighted Raise"="ท่ายกน้ำหนักด้านหน้า\n";
+"1. While standing with back straight, hold the weight with both hands. Weight is positioned in from of your thighs. 2.Raise your arms in front of you until they are parallel with the ground. Hold for one second. Return to starting position."="1. ยืนหลังตรง ถือน้ำหนักด้วยมือทั้งสองข้าง จัดให้น้ำหนักอยู่ระหว่างต้นขาทั้งสองข้าง\n\n2. ยกแขนทั้งสองข้างขึ้นไปที่ด้านหน้าจนกระทั่งแขนขนานกับพื้น ค้างไว้ที่ท่านี้สักครู่ จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Lateral Weighted Raise"="ท่ายกน้ำหนักด้านข้าง\n";
+"1. While staring with back straight, hold the weight with one hand. Weight is positioned next to your side.2. Raise your arm out to the side. Keep your arm straight. Hold for one second. Return to starting position."="1. ยืนหลังตรง ถือน้ำหนักด้วยมือหนึ่งข้าง จัดให้น้ำหนักอยู่ที่ข้างตัวของคุณ\n\n2. ยกน้ำหนักออกไปด้านข้าง เหยียดแขนให้ตรง ค้างไว้ที่ท่านี้สักครู่ จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Military Press Behind The Neck (Standing)"="ท่ายกบาร์เบลด้านหลังส่วนคอ (ท่ายืน)\n";
+"1. Standing upright, hold a barbell behind your head at shoulder height with your hands shoulder width apart, elbows bent, and palms facing forward.2. Press the barbell overhead, extending your arms fully. Keep your back straight and remain upright throughout the movement.  "="1. ยืนตัวตรง ถือบาร์เบลด้วยมือทั้งสองข้างไว้ที่ด้านหลังศีรษะที่ระดับความสูงเดียวกับไหล่ มือที่จับห่างกันเท่ากับความกว้างของไหล่ งอข้อศอก ฝ่ามือหันไปด้านหน้า\n\n2. ดันบาร์เบลขึ้นเหนือศีรษะ ยืดแขนให้สุด หลังอยู่ในท่าตรงและตั้งขึ้นตลอดการเคลื่อนไหวในท่านี้\n";
+"Seated Dumbbell Front Raise"="ท่านั่งยกดัมเบลขึ้นด้านหน้า\n";
+"1. Grab a pair of dumbbells and take a seated position on an incline bench with arms straight and at your sides, thumbs in.2. Keeping your elbows straight, raise the dumbbells up and forward until your hands are at about eye level.3. Keep the backs of your wrists flat and elbows straight throughout the movement. Return to starting position."="1. ถือดัมเบลด้วยมือทั้งสองข้าง นั่งบนม้านั่งเอียง ยืดแขนให้ตรงที่ข้างลำตัว ให้นิ้วโป้งชี้เข้าด้านใน\n\n2. จัดให้ข้อศอกเหยียดตรง ยกดัมเบลขึ้นไปด้านหน้าจนกระทั่งมือทั้งสองข้างอยู่ที่ระดับเดียวกับตา\n\n3. ให้ด้านหลังข้อมืออยู่ในแนวราบและข้อศอกเหยียดตรงตลอดการเคลื่อนไหวในท่านี้ จากนั้นกลับไปที่ท่าเริ่มต้น\n";
+"Stability Ball Lateral Raise"="ท่ายกดัมเบลด้านข้างบนลูกบอลออกกำลังกาย\n";
+"1. Sit on a stability ball with a light dumbbell in each hand. Keep your legs at shoulders width apart for keeping your balance. Your hands should be hanging down at your sides.2. Keeping your arms perfectly straight; slowly raise the dumbbells out and up to the level of your shoulders. Keep your palms facing the ground.3. Keeping your elbows bent, lower slowly back to the start position and repeat for the desired number of reps."="1. นั่งบนลูกบอลออกกำลังกายและถือดัมเบลน้ำหนักเบาในมือแต่ละข้าง ขาทั้งสองข้างอยู่ห่างกันที่ระยะความกว้างของไหล่เพื่อการทรงตัวที่ดี มือทั้งสองข้างห้อยลงด้านข้างลำตัว\n\n2. เหยียดแขนให้ตรง; ค่อย ๆ ยกดัมเบลออกและยกขึ้นที่ระดับความสูงของไหล่ขณะที่ฝ่ามือหันลงด้านล่างเสมอ\n\n3. งอข้อศอก ค่อย ๆ ลดระดับหลังลงเพื่อกลับไปที่ท่าเริ่มต้นและทำซ้ำตามจำนวนครั้งที่ต้องการ\n";
+"Diamond Pushup"="ท่าวิดพื้นวางมือรูปเพชร\n";
+"1. Place yourself in the standard pushup position but have your hands placed directly under your chest with your index fingers and thumbs spread and touching so they form a ”diamond”.2. Keep your back flat as you lower your body until your chest is nearly touching your hands.3. Pause, then push yourself back up to the starting position."="1. จัดลำตัวให้อยู่ในท่าวิดพื้นมาตรฐานแต่วางมือทั้งสองข้างใต้หน้าอกของคุณโดยให้นิ้วชี้และนิ้วโป้งของทั้งสองข้างกางออกสัมผัสกันเป็นรูปคล้าย \"เพชร\"\n\n2. หลังอยู่ในแนวราบขณะลดระดับลำตัวลงจนกระทั่งหน้าอกเกือบสัมผัสที่มือของคุณ\n\n3. ค้างไว้ที่ท่านี้สักครู่ จากนั้นดันตัวขึ้นไปที่ท่าเริ่มต้น\n";
+"Diamond Pushup On Bench"="ท่าวิดพื้นวางมือรูปเพชรบนม้านั่ง\n";
+"1. Place yourself in the standard pushup position but have your hands placed directly under your chest with your index fingers and thumbs spread and touching so they form a ”diamond”.2. Keep the toes of your feet on a flat bench. This will put more pressure on your hands while performing the pushups.2. Keep your back flat as you lower your body until your chest is nearly touching your hands.3. Pause, then push yourself back up to the starting position."="1. จัดลำตัวให้อยู่ในท่าวิดพื้นมาตรฐานแต่วางมือทั้งสองข้างใต้หน้าอกของคุณโดยให้นิ้วชี้และนิ้วโป้งของทั้งสองข้างกางออกสัมผัสกันเป็นรูปคล้าย \"เพชร\"\n\n2. วางนิ้วเท้าบนม้านั่งราบ ท่านี้จะทำให้มีแรงดันที่มือเพิ่มขึ้นขณะวิดพื้น\n\n3. หลังอยู่ในแนวราบขณะลดระดับลำตัวลงจนกระทั่งหน้าอกเกือบสัมผัสที่มือของคุณ\n\n4. ค้างไว้ที่ท่านี้สักครู่ จากนั้นดันตัวขึ้นไปที่ท่าเริ่มต้น\n";
+"Dumbbell Row Kickback"="ท่ายกวาดดัมเบลยื่นไปด้านหลัง\n";
+"1. Stand with your feet shoulder-width apart and with your knees slightly bent. Hold a light dumbbell in each hand and bend forward at the waist until your torso is almost straight down with your palms facing in, as illustrated.2. Row the weights straight up until they reach the sides of your chest and your arms are bent at right angles. Ideally your upper arms should be parallel to the floor.3. Immediately perform a kickback manoeuvre by extending your arms straight behind you.4. Squeeze your triceps, then bend your elbows to lower the weights back down so that they   are along your sides once again.5. Lower the weights back down until your arms are hanging straight down below your shoulders."="1. ยืนให้เท้าห่างกันที่ระดับความกว้างของไหล่ งอเข่าเล็กน้อย ถือดัมเบลน้ำหนักน้อยในมือแต่ละข้าง โน้มตัวไปข้างหน้าโดยงอที่เอวจนกระทั่งลำตัวเกือบเหยียดตรงขณะที่ฝ่ามือหันเข้าด้านในดังแสดงดังภาพ\n\n2. ดึงดัมเบลขั้นด้านบนตรง ๆ จนกระทั่งถึงด้านข้างของหน้าอก แขนงอด้วยมุมที่พอเหมาะ หรือจนกระทั่งแขนทั้งสองข้างขนานกับพื้น\n\n3. จากนั้นยื่นดัมเบลไปด้านหลังทันทีโดยการยืดแขนให้ตรงไปที่ด้านหลังของคุณ\n\n4. บีบรัดกล้ามเนื้อส่วนหลังของแขนท่อนบน จากนั้นงอข้อศอกเพื่อลดระดับดัมเบลลงสู่ด้านล่างเพื่อให้อยู่ที่ข้างตัวคุณอีกครั้ง\n\n5. ลดระดับดัมเบลลงจนกระทั่งแขนทั้งสองข้างห้อยลงด้านล่างอยู่ใต้ไหล่ของคุณ\n";
+"Lying Single Arm Pushup"="ท่านอนตะแคงวิดพื้นด้วยแขนหนึ่งข้าง\n";
+"1. Lie on your side with your knees slightly bent and legs on top of one another. Wrap your bottom arm around your waist and place your other hand on the floor in front of you, slightly bent.2. Begin to straighten that arm, pushing your body up off the floor - make sure you are using your triceps to raise your body and not your back. Hold, then return to starting position.3. After a few reps, switch to the other side and repeat with the other arm."="1. นอนตะแคงโดยให้เข่างอเล็กน้อย ขาหนึ่งข้างอยู่บนขาอีกข้าง มือข้างที่อยู่ด้านล่างอ้อมมาจับที่เอว มือที่อยู่ด้านบนวางแนบกับพื้นตรงหน้าคุณและงอเล็กน้อย\n\n2. เริ่มด้วยการเหยียดแขนให้ตรง ดันลำตัวขึ้นจากพื้นโดยใช้กล้ามเนื้อส่วนหลังของแขนท่อนบนยกลำตัวขึ้น (ไม่ใช้หลังยก) ค้างไว้ที่ท่านี้สักครู่ จากนั้นกลับไปสู่ท่าเริ่มต้น\n\n3. หลังจากทำซ้ำสองสามครั้งแล้ว ให้เปลี่ยนไปทำด้วยแขนอีกข้าง\n";
+"Seated Triceps Extension"="ท่านั่งยกดัมเบลยืดกล้ามเนื้อส่วนหลังของแขนท่อนบน\n";
+"1. Sit on a bench, and grab a pair of dumbbells. Hold them so that they are at arm’s length above your head with palms facing inward together.2. Keep your upper arms stable as you lower the dumbbells behind your head until your forearms are just past parallel to the floor.3. Pause, then straighten your arms to return the dumbbells to starting position."="1. นั่งบนม้านั่ง ถือดัมเบลด้วยมือทั้งสองข้าง ยกดัมเบลขึ้นเหนือศีรษะและยืดให้สุดแขน ฝ่ามือหันเข้าหากัน\n\n2. จัดให้แขนท่อนบนอยู่นิ่งกับที่ขณะที่ลดระดับดัมเบลลงด้านหลังศีรษะจนกระทั่งแขนท่อนปลายเลยระดับที่แขนขนานกับพื้น\n\n3. ค้างไว้ที่ท่านี้สุกครู่ จากนั้นยืดแขนให้ตรงเพื่อนำดัมเบลกลับไปที่ท่าเริ่มต้น\n";
+"Stability Ball French Press"="ท่ายกดัมเบลบนลูกบอลออกกำลังกาย\n";
+"1. Lay backward on a stability ball and centre your back on it. Hold a pair of dumbbells in your arms and straighten them over your chest.2. Bend your elbows, bringing the dumbbells down to the sides of your head.3. Straighten your arms, raising the dumbbells back to the start position."="1. วางหลังบนลูกบอลออกกำลังกายและให้ลูกบอลอยู่ที่กลางหลัง ถือดัมเบลในมือทั้งสองข้าง จากนั้นยืดแขนขึ้นด้านบนเพื่อยกดัมเบลขึ้นเหนืออก\n\n2. งอข้อศอก ลดระดับดัมเบลลงมาที่ข้างศีรษะทั้งสองข้าง\n\n3. เหยียดแขนให้ตรง ยกดัมเบลกลับไปที่ท่าเริ่มต้น\n";
+"Stability Ball Pullover"="ท่ายกวาดดัมเบลเหนือศีรษะบนลูกบอลออกกำลังกาย\n";
+"1. Lay backward on a stability ball and centre your back on it. Hold a dumbbell in your arms and straighten it over your chest.2. Bend your elbows, bringing the dumbbell down to the center of your head.3. Straighten your arms, raising the dumbbell back to the start position."="1. วางหลังบนลูกบอลออกกำลังกายและให้ลูกบอลอยู่ที่กลางหลัง ถือดัมเบลในมือทั้งสองข้าง จากนั้นยืดแขนขึ้นด้านบนเพื่อยกดัมเบลขึ้นเหนืออก\n\n2. งอข้อศอก ลดระดับดัมเบลลงมาที่ส่วนกลางของศีรษะ\n\n3. เหยียดแขนให้ตรง ยกดัมเบลกลับไปที่ท่าเริ่มต้น\n";
+"Stability Ball Triceps Extension"="ท่ายกดัมเบลบนลูกบอลออกกำลังกายยืดกล้ามเนื้อส่วนหลังของแขนท่อนบน\n";
+"1. Lie back on the stability ball. Feet are on the floor. Hold one dumbbell with both hands. Fully extend arms above your head.2. While keeping your upper arms stationary, lower the dumbbell until it is behind your head. Refrain from using your elbows. Hold for one second. Return to starting position."="1. วางหลังบนลูกบอลออกกำลังกาย วางเท้าที่พื้น ถือดัมเบลในมือทั้งสองข้าง ยืดแขนขึ้นเหนือศีรษะให้แขนตรง\n\n2. จัดให้แขนท่อนบนอยู่กับที่ ลดระดับดัมเบลลงจนกระทั่งอยู่ที่ด้านหลังของศีรษะ พยายามอย่าใช้ข้อศอก ค้างไว้ที่ท่านี้สักครู่ จากนั้นกลับไปสู่ท่าเริ่มต้น\n";
+

@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/13/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Exercises" = "Übungen";
+"Workouts" = "Fitnesstraining";
+"Custom" = "Maßgeschneidert";
+"Done" = "Fertig";
+"Back" = "Zurück";
+"Title" = "Titel";
+"Downloading video" = "Video herunterladen";
+"Please wait..." = "Bitte warten...";
+"Cancel" = "Stornieren";
+"Bodybuilding" = "Bodybuilding";
+"Fitness" = "Fitness";
+"Powerlifting" = "Gewichtheben";
+"2 Days per week" = "2 tage pro woche";
+"3 Days per week" = "3 tage pro woche";
+"4 Days per week" = "4 tage pro woche";
+"Day 1" = "1. Tag";
+"4 sets and 12/10/8/6 reps" = "4 Sets und 12/10/8/6 Wiederholungen";
+"Day 2" = "2. Tag";
+"Day 3" = "3. Tag";
+"Day 4" = "4. Tag";
+"Day" = "Tag";
+"Days" = "Tags";
+"4 sets and 15 reps" = "4 Sets und 15 Wiederholungen";
+"5 sets and 3/3/3/2/1 reps" = "5 Sets und 3/3/3/2/1 Wiederholungen";
+"Edit" = "Bearbeiten";
+"My Workout" = "Mein Training";
+"To create new workout press +" = "Um neues Training zu kreieren bitte + drücken";
+"Save" = "Speichern";
+"Workout Name:" = "Name des Trainings:";
+"Days Number:" = "Nummer der Tage:";
+"Delete" = "Löschen";
+"Workout Title:" = "Titel des Trainings:";
+"Options:" = "Möglichkeiten:";
+"Camera/Gallery" = "Kamera/Atelier";
+"Exercise's Photos" = "Fotos der Übungen";
+"Name, Description, Repetitions" = "Name, Beschreibung, Wiederholungen";
+"Exercise Name:" = "Name der Übung:";
+"Description:" = "Beschreibung:";
+"Description" = "Beschreibung";
+"Repetitions:" = "Wiederholungen:";
+"Error!" = "Fehler!";
+"Error" = "Fehler";
+"Please fill up the text field!" = "Bitte füllen Sie das Textfeld!";
+"Ok" = "Ok";
+"Do you really want to cancel the download process? All progress will be lost!" = "Möchten Sie das Herunterladen wirklich stornieren? Der ganze Verlauf geht verloren!";
+"Download all videos" = "Alle videos herunterladen";
+"Unzipping Files" = "Dateien auspacken";
+"Files" = "Dateien";
+"Downloading Videos" = "Videos herunterladen";
+"All videos were saved successfully!" = "Alle Videos wurden erfolgreich gespeichert!";
+"Add" = "Fügen";
+"No Camera Support!" = "Keine Kamera Unterstützung!";
+"Camera feature is not supported by your device !" = "Kamera Funktion ist bei Ihrem Gerät nicht unterstützt!";
+"Please fill up the exercise name field!" = "Bitte füllen Sie das Namensfeld der Übung aus!";
+"Please check your wi-fi or cellular internet connection!" = "Bitte überprüfen Sie Ihre Wi-Fi oder mobile Internetverbindung!";
+"Your video is downloading already! Wait until it's done!" = "Ihr Video ist bereits am herunterladen! Warten, bis es fertig ist!";
+"Warning!" = "Achtung!";
+"For" = "Für";
+"History" =	"Verlauf";
+"More" =	"Weiteres";
+"Start" =	"Start";
+"Weight(kg)" =	"Gewicht(Kg)";
+"Weight(lbs)" =	"Gewicht(Pfund)";
+"Weight" = "Gewicht";
+"Repetitions" =	"Wiederholungen";
+"Save" =	"Speichern";
+"Last values" =	"Letzte Werte";
+"Cancel" =	"Stornieren";
+
+"Attention" =	"Achtung";
+"Would you like to leave without saving?" =	"Möchten Sie beenden ohne zu speichern?";
+"Ok" =	"Ok";
+
+"No exercises have been done yet" =	"Es wurden noch keine Übungen gemacht";
+"Performance" =	"Leistung";
+"Send Feedback" =	"Feedback senden";
+"Report a Bug" =	"Einen Fehler melden";
+"Tell a Friend" =	"Empfehlen";
+"Gift this App" =	"Verschenken app";
+"Rate us" =	"Bewerten Sie uns";
+"Set seconds" =	"Eingestellte Sekunden";
+"Stop" =	"Stopp";
+"Check out iBodybuilding-Update" =	"Sehen Sie sich iBodybuilding-Update an";
+"Check out this application on the App Store:" =	"Sehen Sie sich diese Applikation auf dem App Laden an:";
+"Please note that you have not been added to any email lists." =	"Bitte beachten Sie, daß Sie nicht auf E-Mail Listen hinzugefügt wurden.";
+"Fill up all the blank repetitions boxes." = "Füllen Sie alle leere Felder für Wiederholungen aus.";
+"You can't use values bigger than 500." ="Sie können keine Werte über 500 benutzen.";
+"You can't input data for future dates." = "Sie können keine Angaben für spätere Daten eingeben!";

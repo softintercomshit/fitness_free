@@ -1,0 +1,185 @@
+/*
+Localizable.strings
+iBodybuilding-Update
+
+Created by Johnny Bravo on 6/13/13.
+Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Exercises" = "ออกกำลังกาย";
+
+"Workouts" = "การฝึกร่างกาย";
+
+"Custom" = "ตามความต้องการ";
+
+"Done" ="เสร็จสิ้น";
+
+"Back" = "หลัง";
+
+"Title" = "หัวเรื่อง";
+
+"Downloading video" = "กำลังดาวน์โหลดวิดีโอ";
+
+"Please wait..." = "กรุณารอสักครู่...";
+
+"Cancel" = "ยกเลิก";
+
+"Bodybuilding" = "Bodybuilding";
+
+"Fitness" = "ฟิตเนส";
+
+"Powerlifting" = "การยกน้ำหนัก";
+
+"2 days per week" = "2 วันต่อสัปดาห์";
+
+"3 days per week" = "3 วันต่อสัปดาห์";
+
+"4 days per week" = "4 วันต่อสัปดาห์";
+
+"Day 1" = "วันที่ 1";
+
+"4 sets and 12/10/8/6 reps"= "4 ชุดและ 12/10/8/6 การทำซ้ำ";
+
+"Day 2" = "วันที่ 2";
+
+"Day 3" = "วันที่ 3";
+
+"Day 4" = "วันที่ 4";
+
+"4 sets and 15 reps" = "4 ชุดและ 15 การทำซ้ำ";
+
+"5 sets and 3/3/3/2/1 reps" = "5 ชุดและ 3/3/3/2/1 การทำซ้ำ";
+
+"Edit" = "แก้ไข";
+
+"My Workout" = "การฝึกร่างกายของฉัน";
+
+"To create new workout press +" = "เพื่อสร้างการฝึกร่างกายใหม่ กรุณากด +";
+
+"Save" = "บันทึก";
+
+"Workout Name:" = "ชื่อการฝึกร่างกาย:";
+
+"Days Number:" = "จำนวนวันที่:";
+
+"Delete" = "ลบ";
+
+"Workout Title:"= "ชื่อเรื่องการฝึกร่างกาย:";
+
+"Options:" = "ตัวเลือก:";
+
+"Camera" = "กล้อง";
+
+"Exercise's Photos" = "รูปภาพการออกกำลังกาย";
+
+"Name, Description, Repetitions" = "ชื่อ, รายละเอียด, การทำซ้ำ";
+
+"Exercise Name:" = "ชื่อการออกกำลังกาย:";
+
+"Description:" = "รายละเอียด:";
+
+"Description" = "รายละเอียด";
+
+"Repetitions:" = "การทำซ้ำ:";
+
+"Auto" = "อัตโนมัติ";
+
+"On" = "เปิด";
+
+"Off" = "ปิด";
+
+"Retake" = "ถ่ายภาพใหม่อีกครั้ง";
+
+"Preview" = "ดูภาพ";
+
+"Use" = "ใช้";
+
+"Error!" = "ผิดพลาด!";
+
+"Please fill up the text field" = "กรุณาใส่ข้อมูลในกล่องข้อความให้ครบถ้วน";
+
+"Ok" = "ตกลง";
+
+"Do you really want to cancel the download process? All progress will be lost!" = "คุณต้องการยกเลิกการดาวน์โหลดใช่หรือไม่? หากยกเลิก ความก้าวหน้าทั้งหมดจะสูญหาย!";
+
+"Download all videos" = "ดาวน์โหลดทุกวิดีโอ";
+
+"Unziping Files" = "ไฟล์ที่ไม่มีการย่อขนาด";
+
+"Files" = "ไฟล์";
+
+"Downloading Videos" = "กำลังดาวน์โหลดวิดีโอ";
+
+"All videos were saved succesfully!" = "ไฟล์ทั้งหมดได้รับการบันทึกเสร็จเรียบร้อยแล้ว";
+
+
+"Please check your wi=fi or cellular internet connection!"= "กรุณาตรวจสอบ Wi-Fi หรือสัญญาณอินเตอร์เน็ตของคุณ";
+
+"Your video is downloading already!" = "วิดีโอของคุณกำลังดาวน์โหลดอยู่";
+
+"Wait until it's done!" = "กรุณารอจนกว่าจะเสร็จสิ้น";
+
+"Warning!" = "คำเตือน!";
+
+"For 3 Days" = "สำหรับ 3 วัน";
+
+"Add" = "เพิ่ม";
+
+"Do you really want to exit?" = "คุณต้องจบการทำงานใช่หรือไม่?";
+
+"No Camera Support!" ="ไม่มีกล้องถ่ายรูปที่สนับสนุน";
+
+"Camera feature is not supported by your device !" = "คุณลักษณะของกล้องถ่ายรูปไม่สามารถใช้งานกับอุปกรณ์ของคุณได้";
+
+"Please fill up the exercise name field!" ="กรุณาใส่ชื่อการออกกำลังกาย";
+
+"Pay attention to repetitions and weights!" ="กรุณาให้ความสำคัญกับการทำซ้ำและน้ำหนัก";
+
+"4 sets and 15 repetitions" = "4 ชุดและ 15 การทำซ้ำ";
+
+"Later" = "ภายหลัง";
+
+"Get Pro" = "ได้รับโปร";
+
+"More User Friendly Interface" ="หน้าจอแอพฯใช้งานง่าย";
+
+"Faster Working Algorithm" ="ขั้นตอนการทำงานเร็วขึ้น";
+
+"User's Support With Higher Priority" ="มีทีมดูแลลูกค้าที่ใส่ใจเรื่องลำดับความสำคัญ";
+
+"More Frequent Updates" ="อัพเดทข้อมูลถี่กว่า";
+
+"Video Guide" ="วิดีโอแนะนำการใช้งาน";
+
+"No Ads" ="ไม่มีโฆษณา";
+
+"ADS" ="โฆษณา";
+
+"Loading" ="กำลังโหลด";
+
+"History" =	"ประวัติ";
+"More" =	"เพิ่มเติม";
+"Start" =	"เริ่มต้น";
+"Weight(kg)" =	"น้ำหนัก (กิโลกรัม)";
+"Weight(lbs)" =	"น้ำหนัก (ปอนด์)";
+"Weight" = "น้ำหนัก";
+"Repetitions" =	"ครั้งที่ทำซ้ำ";
+"Save" =	"บันทึก";
+"Last values" =	"ค่าก่อนหน้านี้";
+"Cancel" =	"ยกเลิก";
+"Attention" =	"โปรดทราบ";
+"Would you like to leave without saving?" =	"คุณต้องการออกจากโปรแกรมโดยไม่มีการบันทึกข้อมูลหรือไม่?";
+"Ok" =	"โอเค";
+"Gallery" =	"แกลเลอรี่";
+"No exercises have been done yet" =	"ยังไม่มีการบริหารร่างกาย";
+"Performance" =	"การทำการบริหารร่างกาย";
+"Send Feedback" =	"ส่งความคิดเห็น";
+"Report a Bug" =	"รายงานปัญหา";
+"Tell a Friend" =	"บอกเพื่อน";
+"Gift this App" =	"ให้ของขวัญแอพฯนี้ –";
+"Rate us" =	"จัดอันดับเรา";
+"Set seconds" =	"ตั้งค่าวินาที";
+"Stop" =	"หยุด";
+"Check out iBodybuilding=Update" =	"ลองดูอัพเดทของ iBodybuilding";
+"Check out this application on the App Store:" =	"ดูแอพพลิเคชั่นนี้บน App Store:";
+"Please note that you have not been added to any email lists." =	"โปรดทราบว่าคุณยังไม่ถูกเพิ่มเข้าในรายการอีเมลล์ใด ๆ";
+"You can't input data for future dates." = "คุณไม่สามารถใส่ข้อมูลสำหรับวันที่ยังมาไม่ถึง!";

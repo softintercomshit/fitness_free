@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/13/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Exercises" = "Ejercicios";
+"Workouts" = "Entrenamientos";
+"Custom" = "Personalizado";
+"Done" = "Acabado";
+"Back" = "Atrás";
+"Title" = "Título";
+"Downloading video" = "Descargando video";
+"Please wait..." = "Por favor, espera...";
+"Cancel" = "Cancelar";
+"Bodybuilding" = "Culturismo";
+"Fitness" = "Fitness";
+"Powerlifting" = "Levantamiento de potencia";
+"2 Days per week" = "2 días por semana";
+"3 Days per week" = "3 días por semana";
+"4 Days per week" = "4 días por semana";
+"Day 1" = "Día 1";
+"4 sets and 12/10/8/6 reps" = "4 series y 12/10/8/6 repeticiones";
+"Day 2" = "Día 2";
+"Day 3" = "Día 3";
+"Day 4" = "Día 4";
+"Day" = "Día";
+"Days" = "Días";
+"4 sets and 15 reps" = "4 series y 15 rep";
+"5 sets and 3/3/3/2/1 reps" = "5 series y 3/3/3/2/1 rep";
+"Edit" = "Editar";
+"My Workout" = "Mi entrenamiento";
+"To create new workout press +" = "Para crear un nuevo entrenamiento pulsa +";
+"Save" = "Guardar";
+"Workout Name:" = "Nombre del entrenamiento:";
+"Days Number:" = "Número de Días:";
+"Delete" = "Eliminar";
+"Workout Title:" = "Título del Entrenamiento:";
+"Options:" = "Opciones:";
+"Camera/Gallery" = "Cámara/Galería";
+"Exercise's Photos" = "Fotos del Ejercicio";
+"Name, Description, Repetitions" = "Nombre, Descripción, Repetición";
+"Exercise Name:" = "Nombre del Ejercicio:";
+"Description:" = "Descripción:";
+"Description" = "Descripción";
+"Repetitions:" = "Repeticiones:";
+"Error!" = "Error!";
+"Error" = "Error";
+"Please fill up the text field!" = "Por favor, rellena el campo de texto!";
+"Ok" = "Ok";
+"Do you really want to cancel the download process? All progress will be lost!" = "De verdad quieres cancelar el proceso de descarga? Se perderán todos los datos que no se hayan guardado!";
+"Download all videos" = "Descargar todos los videos";
+"Unzipping Files" = "Descomprimiendo Archivos";
+"Files" = "Archivos";
+"Downloading Videos" = "Descargando Videos";
+"All videos were saved successfully!" = "Todos los videos han sido guardados con éxito!";
+"Add" = "Añadir";
+"No Camera Support!" = "Incompatible con la cámara!";
+"Camera feature is not supported by your device !" = "La función de cámara no es compatible con tu dispositivo!";
+"Please fill up the exercise name field!" = "Por favor, rellena el campo del nombre del ejercicio!";
+"Please check your wi-fi or cellular internet connection!" = "Por favor, comprueba tu conexión inalámbrica a internet";
+"Your video is downloading already! Wait until it's done!" = "Tu video ya se está descargando! Espera a que termine!";
+"Warning!" = "Advertencia!";
+"For" = "Durante";
+
+"History" =	"Historial";
+"More" =	"Más";
+"Start" =	"Inicio";
+"Weight(kg)" =	"Peso(kg)";
+"Weight(lbs)" =	"Peso (lbs)";
+"Weight" = "Peso";
+"Repetitions" =	"Repeticiones";
+"Save" =	"Guardar";
+"Last values" =	"Últimos valores";
+"Cancel" =	"Cancelar";
+"Attention" =	"Atención";
+"Would you like to leave without saving?" =	 "¿Quieres salir sin guardar? .";
+"Ok" =	"Ok";
+"No exercises have been done yet" =	"No se ha hecho ningún ejercicio todavía";
+"Performance" =	"Rendimiento";
+"Send Feedback" =	"Enviar comentarios";
+"Report a Bug" =	"Informar de un error";
+"Tell a Friend" =	"Decírselo a un amigo";
+"Gift this App" =	"Regalar esta App";
+"Rate us" =	"Valóranos";
+"Set seconds" =	"Establecer segundos";
+"Stop" =	"Stop";
+"Check out iBodybuilding-Update"=	"Echa un vistazo a  iBodybuildingUpdate";
+"Check out this application on the App Store:" =	"Echa un vistazo a esta aplicación en el App Store:";
+"Please note that you have not been added to any email lists." =	"Por favor, ten en cuenta que no se te ha agregado a ninguna lista de correo electrónico.";
+
+"Fill up all the blank repetitions boxes." ="Rellena todas las casillas de repetición en blanco.";
+"You can't use values bigger than 500." ="No se pueden usar cifras mayores de 500.";
+"You can't input data for future dates." = "No se pueden introducir datos para fechas posteriores!";
